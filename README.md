@@ -1,3 +1,5 @@
+![descartes-tei](https://github.com/dirkroorda/descartes-tei/blob/master/docs/descartes-tei.png)
+
 descartes-tei
 =============
 
