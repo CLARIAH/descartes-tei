@@ -2,6 +2,8 @@ Convert.pl
 ==========
 Description
 -----------
+.. image:: Descartes.png
+
 Conversion development environment for converting the Descartes Corpus.
 
 Source format
@@ -69,6 +71,12 @@ screenshot
 
 About the sources and results
 -----------------------------
+.. image:: desc-facsimile.png
+
+.. image:: japam.png
+
+.. image:: desc-tei.png
+
 The script takes as input most of the material in the data directory (and subdirectories) and nothing else.
 The script produces its result files in subdirs of directory *results*:
 
