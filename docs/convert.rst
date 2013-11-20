@@ -2,12 +2,17 @@ Convert.pl
 ==========
 Description
 -----------
+
+.. image:: descartes-tei.png
+
 Conversion development environment for converting the Descartes Corpus.
 
 Source format
     the JapAM edition: plain unicode text with line numbers plus illustrations in gif.
 Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
+
+It was a messy conversion, but we had a lot of fun doing it!
 
 Authors 
 -------
