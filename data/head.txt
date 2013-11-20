@@ -1,0 +1,729 @@
+AMnum*AMnumrep*ATnum*senderloc,date*altdate*AMvol,page*ATvol,page|Roth,page*sender-recipient* @
+1*1* *Breda, 24/1/1619* *I,1*X,151*Descartes à Beeckman* @
+2*2* *Breda, 26/3/1619* *I,5*X,154*Descartes à Beeckman* @
+3*3* *Breda, 20/4/1619* *I,12*X,161*Descartes à Beeckman* @
+4*4* *Breda, 23/4/1619* *I,13*X,162*Descartes à Beeckman* @
+5*5* *Amsterdam 29/4/1619* *I,16*X,164*Descartes à Beeckman* @
+6*6* *Middelbourg, 6/5/1619* *I,19*X,167*Beeckman à Descartes* @
+7*7*I*Rennes, 3/4/1622* *I,24*I,1*Descartes à son frère ainé* @
+8*8*II*22/5/1622* *I,25*I,2*Descartes à son père* @
+9*9*III*21/3/1623* *I,26*I,3*Descartes à son frère ainé* @
+10*10*IV*Poitiers, 24/6/1625* *I,27*I,4*Descartes à son père* @
+11*11*V*Paris, 16/7/1626* *I,29*I,5*Descartes à son frère ainé* @
+12*12*VI*1628* *I,30*I,5*Descartes à %%%* @
+13*13*VI bis*Paris, 30/3/1628* *I,39*I,569*Balzac à Descartes* @
+14*14*VII*18/6/1629* *I,41*I,13*Descartes à Ferrier* @
+15*15*VIII*18/7/1629* *I,44*I,16*Descartes au P. Gibieuf* @
+16*16*IX*9/1629?* *I,46*I,18*Descartes à %%%*(Mersenne)?@
+17*17*X*8/10/1629* *I,48*I,22*Descartes à Mersenne* @
+18*18*XI*Amsterdam, 8/10/1629* *I,54*I,32*Descartes à Ferrier* @
+19*19*XII*Paris, 26/10/1629* *I,59*I,38*Ferrier à Descartes* @
+20*20*XIII*Amsterdam, 13/11/1629* *I,70*I,53*Descartes à Ferrier* @
+21*21*XIV*Amsterdam, 13/11/1629* *I,83*I,69*Descartes à Mersenne* @
+22*22*XV*Amsterdam, 20/11/1629* *I,89*I,76*Descartes à Mersenne* @
+23*23*XVI*Amsterdam, 18/12/1629* *I,94*I,83*Descartes à Mersenne* @
+24*24*XVII*Amsterdam, 1/1630* *I,109*I,105*Descartes à Mersenne* @
+25*25*XVIII*25/2/1630* *I,116*I,115*Descartes à Mersenne* @
+26*26*XIX*4/3/1630* *I,122*I,124*Descartes à Mersenne* @
+27*27*XX*18/3/1630* *I,124*I,128*Descartes à Mersenne* @
+28*28*XXI*Amsterdam, 15/4/1630* *I,129*I,135*Descartes à Mersenne* @
+29*29*XXII*Amsterdam, 6/5/1630* *I,138*I,147*Descartes à Mersenne* @
+30*30*XXII bis*Amsterdam, 27/5/1630?* *I,141*I,151*Descartes à (Mersenne)?* @
+31*31*XXIII*Amsterdam, 9-10/1630* *I,144*I,154*Descartes à Beeckman* @
+32*32*XXIV*Amsterdam, 17/10/1630* *I,147*I,156*Descartes à Beeckman* @
+33*33*XXV*Amsterdam, 4/11/1630* *I,164*I,170*Descartes à Mersenne* @
+34*34*XXVI*Amsterdam, 25/11/1630* *I,169*I,177*Descartes à Mersenne* @
+35*35*XXVII*2/12/1630* *I,174*I,183*Descartes à Ferrier* @
+36*36*XXVIII*Amsterdam, 2/12/1630* *I,178*I,188*Descartes à Condren* @
+37*37*XXIX*Amsterdam, 2/12/1630* *I,180*I,189*Descartes à Mersenne* @
+38*38*XXX*Amsterdam, 23/12/1630* *I,182*I,192*Descartes à Mersenne* @
+39*39*XXXI*Amsterdam, 15/4/1631* *I,185*I,196*Descartes à Balzac* @
+40*40*XXXII*Paris, 25/4/1631* *I,187*I,199*Balzac à Descartes* @
+41*41*XXXIII*Amsterdam, 5/5/1631* *I,189*I,202*Descartes à Balzac* @
+42*42*XXXIV*Amsterdam, 2/6/1631* *I,192*I,205*Descartes à Reneri* @
+43*43*XXXV*été de 1631* *I,195*I,209*Villebressieu à Descartes* @
+44*44*XXXVI*Amsterdam, Été de 1631?* *I,198*I,212*Descartes à Villebressieu* @
+45*45*XXXVII*Amsterdam, 10/1631?* *I,203*I,219*Descartes à Mersenne* @
+46*46*XXXVIII*Amsterdam, 10-11/1631* *I,208*I,226*Descartes à Mersenne* @
+47*47*XXXIX*Amsterdam, 1/1632* *I,212*I,232*Descartes à Golius* @
+48*48*XL*Amsterdam, 2/2/1632* *I,216*I,236*Descartes à Golius* @
+49*49*XLI*Amsterdam, 5/4/1632* *I,220*I,242*Descartes à Mersenne* @
+50*50*XLII*Amsterdam, 3/5/1632* *I,222*I,244*Descartes à Mersenne* @
+51*51*XLIII*Amsterdam, 10/5/1632* *I,225*I,249*Descartes à Mersenne* @
+52*52*XLIV*Amsterdam, 23/5/1632* *I,228*I,253*Descartes à Wilhem* @
+53*53*XLV*Deventer, 6/1632* *I,229*I,254*Descartes à Mersenne* @
+54*54*XLV bis*Deventer, Été 1632* *I,232*I,257*Descartes à Mersenne* @
+55*55*XLVI*Deventer, 11-12/1632* *I,234*I,260*Descartes à Mersenne* @
+56*56*XLVII*Deventer, 7/2/1633* *I,237*I,264*Descartes à Wilhem* @
+57*57*XLVIII*Deventer, 22/7/1633* *I,239*I,266*Descartes à Mersenne* @
+58*58*XLIX*Deventer, fin 11/1633* *I,241*I,270*Descartes à Mersenne* @
+59*59*L*Amsterdam, 12/12/1633* *I,244*I,273*Descartes à Wilhem* @
+60*60*LI*Amsterdam, fin? 1633* *I,246*I,275*Descartes à Stampioen* @
+61*61*LII*Amsterdam, 2/1634* *I,250*I,280*Descartes à Mersenne* @
+62*62*LIII*Amsterdam, 4/1634* *I,252*I,284*Descartes à Mersenne* @
+63*63*LIV*Amsterdam, 15/5/1634* *I,256*I,292*Descartes à Mersenne* @
+64*64*LV*Amsterdam, 2/7/1634* *I,262*I,300*Descartes à Reneri* @
+65*65*LVI*Amsterdam, 14/8/1634* *I,264*I,302*Descartes à Mersenne* @
+66*66*LVII*Amsterdam, 22/8/1634* *I,267*I,307*Descartes à Beeckman ou Hortensius?* @
+67*67*LVIII*Amsterdam, 9-10/1634* *I,275*I,313*Descartes à Morin* @
+68*68*LIX*Utrecht, 16/4/1635* *I,276*I,314*Descartes à Golius* @
+69*69* *Utrecht, 15/25 4/1635* *I,278*I,585*Descartes à Huygens* @
+70*70*R.,I*La Haye, 6/5/1635* *I,280*R.,1*Huygens à Descartes* @
+71*71*LX*Utrecht, 19/5/1635* *I,281*I,317*Descartes à Golius* @
+72*72*LXI*Utrecht, Juin ou 7/1635*Automne? 163?*I,284*I,321*Descartes à Mersenne?* @
+73*73*A.T.,LXII;R.,II*Panderen, 28/10/1635* *I,287*I,325;R.,2*Huygens à Descartes* @
+74*74*A.T.,LXIII;R.,II a*Utrecht, 1/11/1635* *I,290*I,328;R.,5*Descartes à Huygens* @
+75*75*A.T.,LXIV;R.,III*Arnhem, 5/12/1635* *I,293*I,332;R.,7*Huygens à Descartes* @
+76*76*R.,IV*Utrecht, 8/12/1635* *I,295*R.,9*Descartes à Huygens* @
+77*77*LXV;R.,V*11/12/1635* *I,297*I,334;R.,11*Descartes à Huygens* @
+78*78*LXVI*Leyde, 3/1636* *I,300*I,338*Descartes à Mersenne* @
+79*79*R.,VI*Leyde, 28/3/1636* *I,303*R.,15*Descartes à Huygens* @
+80*80*R.,VII*La Haye 31/3/1636* *I,305*R.,17*Huygens à Descartes* @
+81*81*A.T.,LXVII;R.,VII a*Leyde, 31/3/1636* *I,307*I,342;R.,19*Descartes à Huygens* @
+82*82*R.,VIII*Leyde, 11/6/1636* *I,308*R.,19*Descartes à Huygens* @
+83*83*A.T.,LXVIII;R.,IX*La Haye, 15/6/1636* *I,310*I,343;R.,21*Huygens à Descartes* @
+84*84*R.,X*La Haye, 11/7/1636* *I,312*R.,23*Huygens à Descartes* @
+85*85*R.,XI*Leyde, 13/7/1636* *I,313*R.,24*Descartes à Huygens* @
+86*86*R.XII*Sprang, 23/10/1636* *I,315*R.,26*Huygens à Descartes* @
+87*87*R.,XIII*Leyde, 30/10/1636* *I,316*R.,27*Descartes à Huygens* @
+88*88*R.,XIV*Leyde, 1/1/1637* *I,318*R.,29*Descartes à Huygens* @
+89*89*A.T.,LXIX;R.,XV*La Haye, 5/1/1637* *I,320*I,345;R.,30*Huygens à Descartes* @
+90*90*R.,CXI*15/2/1637* *I,322*R.,261*Mersenne à Descartes* @
+91*91*R.,XVI*La Haye, 25/2/1637* *I,325*R.,32*Huygens à Descartes* @
+92*92*R.,XVII*Leyde, 25/2/1637* *I,326*R.,33*Descartes à Huygens* @
+93*93*LXX*Leyde, 27/2/1637*3/1637?*I,328*I,347*Descartes à Mersenne* @
+93bis*93 bis*R.,XVIII*La Haye, 1/3/1637* *I,332*R.,35*Huygens à Descartes* @
+93ter*93 ter*R.,XIX*Leyde, 3/3/1637* *I,333*R.,36*Descartes à Huygens* @
+94*94*R.,XX*Leyde, 22/3/1637* *I,335*R.,38*Descartes à Huygens* @
+95*95*R.,XXI*La Haye, 24/3/1637* *I,336*R.,39*Huygens à Descartes* @
+96*96*R.,XXII*Leyde, 29/3/1637* *I,338*R.,41*Descartes à Huygens* @
+97*97*R.,XXIII*Leyde, 20/4/1637* *I,340*R.,44*Descartes à Huygens* @
+98*98*A.T.,LXXII*Toulouse, 4-5/1637* *I,341*I,354*Fermat à Mersenne*@
+99*99*LXXV;R.,XXIV*Alcmaer, 20/5/1637*Mai?*I,346*I,371;R.,45*Descartes à Huygens* @
+100*100*LXXIII*fin 5/1637*27/4/?*I,349*I,363*Descartes à Mersenne* @
+101*101*LXXIII bis*fin 5/1637*27/4/?*I,351*I,365*Descartes à Mersenne* @
+102*102*LXXI*fin 5/1637*3/1637?*I,354*I,352*Descartes à %%%*(Silhon?)@
+103*103*LXXIV*fin 5/1637* *I,356*A.T.*Descartes à %%%*Descartes à (Cerizy?) (A.T.)@
+104*104*R.,XXV*La Haye, 2/6/1637* *I,358*R.,48*Huygens à Descartes* @
+105*105*LXXVI*8 à 12/6/1637* *I,359*I,374*Descartes à Mersenne* @
+106*106*LXXXII*8 à 12/6/1637* *I,363*I,389*Descartes à Mersenne* @
+107*107*R.,XXVI*8 à 12/6/1637* *I,365*R.,49*Descartes à Huygens* @
+108*108*A.T.,LXXXI*8 à 12/6/1637*14/6/1637,*I,367*I,386*Descartes à Wilhem*Descartes à (Huygens),@
+109*109*A.T.,LXXX;R.,XXVII*Leyde, 12/6/1637*14/6/1637,*I,369*I,385;R.,51*Descartes à Huygens*Descartes à (Huygens),@
+110*110*LXXVII*Leyde, 14/6/1637* *I,371*I,379*Descartes à Colvius* @
+111*111*LXXVIII*Leyde, 14/6/1637* *I,372*I,380*Descartes à Balzac* @
+112*112*LXXIX*Leyde, 14/6/1637* *I,374*I,382*Descartes au P. Fournet* @
+113*113*R.,XXVIII*La Haye, 27/6/1637* *I,376*R.,53*Huygens à Descartes* @
+114*114*R.,XXIX*Alcmaer, 5/7/1637* *I,377*R.,54*Descartes à Huygens* @
+115*115*LXXXIII*30/8/1637* *I,378*I,393*Descartes à %%%*Descartes à (Hooghelande?) (A.T.)@
+116*116*LXXXV*Louvain, 15/9/1637* *I,380*I,399*Plempius à Descartes* @
+117*117*LXXXVI*Louvain, 13/9/1637* *I,383*I,402*Fromondus à Plempius (envoyée à Descartes)* @
+118*118*LXXXIV*Breda, 18/9/1637* *I,394*I,395;R.,55*Huygens à Descartes* @
+f1a*Fragments 1*CDLXXVI ter* * *I,397*IV,685* * @
+f1b* *CDLXXVI quater* * *I,399*IV,694-695* * @
+f1c* *CDLXXVI (fin)* * *I,401*IV,696* * @
+f1d* *CDLXXVI (fin+)* * *I,402*IV,696-697* * @
+f2a*Fragment 2*CDLXXVI ter(fin)* * *I,404*IV,687-688* * @
+f2b* *CDLXXVI ter(fin)* * *I,406*IV,689* * @
+f3*Fragment 3*CDLXXVI ter* * *I,407*IV,685-686* * @
+f4a*Fragment 4*CDLXXVI ter* * *I,408*IV,688-689* * @
+f4b* *CDLXXVI ter* * *I,410*IV,686-687* * @
+f4c* *CDLXXVI quater* * *I,411*IV,699* * @
+f4d* *CDLXXVI quater* * *I,412*IV,695-696* * @
+f5*Fragment 5*CDLXXVI ter et quater* * *I,413*IV,686et695* * @
+f6*Fragment 6*CDLXXVI ter* * *I,415*IV,689-691* * @
+f7*Fragment 7*CDLXXVI quater* * *I,419*IV,697-700* * @
+f8*Fragment 8*CDLXXVI quater* * *I,421*IV,698-700* * @
+119*119*LXXXVII*3/10/1637* *II,1*I,409*Descartes à Plempius* @
+120*120*LXXXVIII*3/10/1637* *II,5*I,412*Descartes à Plempius, pour Fromondus* @
+121*121*XCII*3/10/1637*[Oct.1637]*II,29*I,454*Descartes au P. Fournet*Descartes au [P. Noel] (A.T.)@
+122*122*A.T.,LXXXIX;R.,XXX a*5/10/1637* *II,31*I,431;R.,58*Descartes à Huygens* @
+123*123*XC*5/10/1637* *II,42*I,448*Descartes à Mersenne* @
+124*124*XCI*5/10/1637* *II,44*I,450*Descartes à Mersenne* @
+125*125*A.T.,XCV;R.,XXXI*La Haye, 23/11/1637* *II,48*I,461;R.,60*Huygens à Descartes* @
+126*126*XCVI*Toulouse, 11/1637* *II,50*I,463*Fermat à Mersenne* @
+127*127*A.T.,fin CII;R.,XXXII*4/12/1637* *II,59*I,506;R.,62*Descartes à Huygens* @
+128*128*XCVII*20/12/1637* *II,61*I,475*Descartes à Plempius* @
+129*129*XCVII bis*fin 12/1637?* *II,65*I,477*Descartes à Mersenne* @
+130*130*XCVIII*1/1638?* *II,68*I,481*Descartes à Mersenne* @
+131*131*XCIX*1/1638* *II,71*I,486*Descartes à Mersenne* @
+132*132*C*Louvain, 1/1638* *II,78*I,496*Plempius à Descartes* @
+133*133*CI*25/1/1638* *II,83*I,499*Descartes à Mersenne* @
+134*134*A.T.,II;R.,XXXII a*25/1/1638* *II,87*I,504;R.,64*Descartes à Huygens*Descartes à (?) Huygens (R.)@
+135*135*A.T.,CIII;R.,XXXIII*La Haye, 2/2/1638* *II,89*I,508;R.,65*Huygens à Descartes* @
+136*136*CIV*La Haye, 2/1638?* *II,92*I,511*Pollot à Reneri pour Descartes*S.P%%% à %%% pour D. (A.T.)@
+137*137*A.T.,CVI;R.,XXXIV*8/2/1638* *II,96*I,519;R.,69*Descartes à Huygens* @
+138*138*CV*12/2/1638* *II,98*I,517*Descartes à Pollot* @
+139*139*CVII*15/2/1638* *II,100*I,521*Descartes à Plempius* @
+140*140*CVIII*Paris, 22/2/1638* *II,118*I,536*Morin à Descartes* @
+141*141*CIX*22/2/1638* *II,133*I,558*Descartes au P. Vatier* @
+142*142*XCIII*22/2/1638* *II,139*I,456*Descartes au P. Deriennes*Descartes à %%%@
+143*143*XCIV*2-3/1638* *II,141*I,458*Descartes à %%%* @
+144*144*CX*1/3/1638*1/3?*II,143*II,1*Descartes contre Roberval et E. Pascal* @
+145*145*CXI*1/3/1638*1/3?*II,154*II,15*Descartes à Mydorge* @
+146*146*CXII*1/3/1638*1/3?*II,160*II,24*Descartes à Mersenne* @
+147*147*R.,XXXV*9/3/1638* *II,167*R.,71*Descartes à Huygens* @
+147bis*147 bis*Fin CXIV*3-4/1638*?*II,170*II,51*Descartes à Huygens* @
+148*148*CXV*3/1638*?*II,172*II,52*Plempius à Descartes* @
+149*149*CXVI*3/1638*?*II,176*II,55*Ciermans à Descartes* @
+150*150*CXVII*23/3/1638* *II,186*II,62*Descartes à Plempius* @
+151*151*CXVIII*23/3/1638* *II,197*II,69*Descartes à Ciermans* @
+152*152*CXIX*31/3/1638* *II,213*II,81*Descartes à Mersenne* @
+153*153*CXX*Paris, 4/1638* *II,226*II,103*Roberval contre Descartes* @
+154*154*CXIII*4-5/1638*Mars?*II,236*II,34*D. à Reneri pour Pollot* @
+155*155*CXXI*28/4/1638* *II,246*II,116*Mersenne à Descartes* @
+156*156*CXXII*3/5/1638* *II,251*II,122*Descartes à Mersenne* @
+157*157*CXXIII*17/5/1638*27 mai?*II,261*II,134*Descartes à Mersenne* @
+158*158*CXXIV*17 ou 24/5/1638*3 juin?*II,275*II,154*Descartes à Mersenne* @
+159*159*CXXV*6/1638*juin?*II,287*II,169*Descartes à Hardy* @
+160*160*CXXVI*29/6/1638*29 juin?*II,291*II,174*Descartes à Mersenne* @
+161*161*R.,XXXVI*6/1638*[6/1638]*II,307*R.,75*Descartes à Huygens* @
+162*162*CXXVII*13/7/1638* *II,310*II,196*Descartes à Morin* @
+163*163*CXXVIII*13/7/1638* *II,328*II,221*Descartes à Morin* @
+164*164*CXXIX*13/7/1638* *II,329*II,222*Descartes à Mersenne* @
+165*165*CXXX*13/7/1638* *II,347*II,246*Descartes à Mersenne* @
+166*166*CXXXI*27/7/1638* *II,353*II,253*Descartes à Mersenne* @
+167*167*CXXXII*27/7/1638* *III,1*II,280*Descartes à Fermat* @
+168*168*R.T.,CXXXIII;R.,XXXVII*Près de Berg-op-Zoom, 30/7/1638* *III,3*II,282;R.,78*Huygens à Descartes* @
+169*169*CXXXIV*1/8/1638* *III,6*II,286*Mersenne à Descartes* @
+170*170*CXXXV*Paris, 12/8/1638* *III,7*II,288*Morin à Descartes* @
+171*171*CXXXVI*18/8/1638* *III,19*II,305*Regius à Descartes* @
+172*172*CXL*8/1638* *III,21*II,345;Sup.,97*Descartes à [Hogelande]*Descartes à [esding?]@
+172bis*172 bis*R.,XXXVIII*19/8/1638* *III,24*R.,82*Descartes à Huygens* @
+173*173*CXXXVII*20/8/1638*20 aout?*III,27*II,306*Descartes à Reneri*Descartes à [Reneri]@
+174*174*CXXXVIII*23/8/1638* *III,28*II,307*Descartes à Mersenne* @
+175*175*CXXXIX*8/1638?* *III,52*II,343*Descartes à Plempius* @
+176*176*CXLII*12/9/1638* *III,56*II,352*Descartes à Mersenne* @
+177*177*CXLIII*[12/9/1638]*12 sept?*III,64*II,362*Descartes à Morin* @
+178*178*CXLIV*12/9/1638*Sept?*III,72*II,373*Descartes à Ferrier* @
+179*179*CXLV*12/9/1638*12 sept?*III,74*II,377*Descartes à Debeaune*D.a %%% (sur l'education de son fils)* @
+180*180*CXLVI*11/10/1638*11 oct.?*III,77*II,379*Descartes à Mersenne* @
+181*181*CXLVII*[11/10/1638]*11 oct.?*III,95*II,406*Descartes à Fermat*@
+182*182*CXLVIII*Paris, 10/1638*Oct.?*III,97*II,408*Morin à Descartes* @
+183*183*Additions*13/11/1638* *III,106*V,526*Debeaune à Mersenne* @
+184*184*CXLIX*15/11/1638* *III,111*II,419*Descartes à Mersenne* @
+185*185*CL*11-12/1638?* *III,131*II,451*Descartes à Debeaune*Descartes à %%% [Debeaune]@
+186*186*A.T.,CLI;R.,XXXVIII a*12/1638* *III,134*II,455;R.,86*Descartes à [Huygens]* @
+187*187*CLII*[12/1638]*Décembre?*III,136*II,462*Descartes à Mersenne* @
+188*188*CLXXV*fin 1638 ou début 1639*Fin oct.?*III,142*II,600*Descartes à [Schooten]*Descartes à [Huygens]@
+189*189*CLIII*[9/1/1639]*9/1/1639*III,155*II,471*Descartes à Frenicle* @
+190*190*CLIV*9/1/1639* *III,161*II,479*Descartes à Mersenne* @
+191*191*R.,XXXIX*Santpoort, 29/1/1639* *III,170*R.,87*Descartes à Huygens** @
+192*192*CLV*9/2/1639* *III,172*II,493*Descartes à Mersenne* @
+193*193*CLVI*20/2/1639* *III,184*II,510*Descartes à Debeaune* @
+194*194*CLVII*[20/2/1639]* *III,195*II,523*Descartes à Mersenne* @
+195*195*CLVIII*Utrecht, 9/3/1639* *III,198*II,526*Regius à Descartes* @
+196*196*CLIX*Utrecht, 19/3/1639* *III,199*II,528*Regius et Aemilius à Descartes* @
+197*197*Additions*Blois, 3/4/1639* *III,200*V,539*Debeaune à Mersenne* @
+198*198*CLX*30/4/1639* *III,204*II,529*Descartes à Mersenne* @
+199*199*CLXI et additions*[30/4/1639]* *III,213*II,541 V,530*Descartes à [Debeaune]* @
+200*200*R.,XL*Santporte, 6/5/1639* *III,216*R.,89*Descartes à Huygens* @
+201*201*CLXII*Santporte, 6/5/1639* *III,218*II,544*Descartes à Pollot*@
+202*202*A.T.,CLXIII;R.,XLI*La Haye, 15/5/1639* *III,220*II,546;R.,90*Huygens à Descartes* @
+203*203*CLXIV*Utrecht, 17/5/1639* *III,222*II,548*Regius à Descartes* @
+204*204*A.T.,CLXV;R.,XLII*Fort de Nassau, 28/5/1639* *III,224*II,549;R.,92*Huygens à Descartes* @
+205*205*A.T.,CLXVI;R.,XLIII*Santporte, 6/6/1639*Juin 1639,A.T.*III,226*II,551;R.,93*Descartes à Huygens*Descartes à (Huygens)@
+206*206*CLXVII*[19/6/1639]* *III,228*II,553*Descartes à [Desargues]* @
+207*207*CLXVIII*19/6/1639* *III,230*II,557*Descartes à Mersenne* @
+208*208*CLXIX*Utrecht, 14/7/1639* *III,238*II,568*Regius à Descartes* @
+209*209*CLXX*27/8/1639* *III,240*II,569*Descartes à Mersenne* @
+210*210*CLXXII*Utrecht, mi/9/1639* *III,243*II,582*Regius à Descartes* @
+211*211*A.T.,CLXXIII;R.,XLIII a*[10/1639]* *III,244*II,583;R.,95*Descartes à Huygens* @
+212*212*CLXXIV*16/10/1639* *III,247*II,587*Descartes à Mersenne* @
+213*213*CLXXVI*Utrecht, 10-11/1639* *III,257*II,616*Regius à Descartes* @
+214*214*CLXXVII*[13/11/1639]* *III,259*II,617*Descartes à Mersenne* @
+215*215*R.,XLIV*Santporte, 17/11/1639* *III,264*R.,99*Descartes à Huygens* @
+216*216*CLXXVII bis*Leyde, 28/11/1639* *III,268*X,557*Saumaise à Descartes* @
+217*217*R.,XLV*Santporte, 26/11/1639* *III,270*R.,104*Descartes à Huygens* @
+218*218*R.,CXIII*26/11/1639* *III,273*R.,266*Descartes à Van Surck* @
+218bis*218 bis**1639* *III,275*R.,274*Documents sur l'affaire Waessenaer-Stampioen* @
+219*219*CLXXVIII*3/12/1639* *III,282*II,624*Regius à Descartes* @
+220*220*R.,XLVI*Leyde, [12/12/1639]* *III,284*R.,107*Descartes à Huygens* @
+221*221*R.,XLVII*La Haye, 13/12/1639* *III,289*R.,112*Huygens à Descartes* @
+222*222*R.,XLVIII*Santporte, 17/12/1639* *III,292*R.,114*Descartes à Huygens* @
+223*223*R.,CXV*[20/12/1639]* *III,296*R.,270*Descartes à Van Surck* @
+224*224*CLXXIX*25/12/1639* *III,299*II,626*Descartes à Mersenne* @
+225*225*A.T.,CLXXX;R.,XLIX*La Haye, 28/12/1639* *III,309*II,639;R.,118*Huygens à Descartes* @
+226*226*CLXXIX bis*1639* *III,312*Sup.97-98*Descartes à [Hogelande?]*D.a Mersenne@
+227*227*CLXXI*[1639ou1648?]* *III,315*II,574*Descartes à Schooten* @
+227bis*227 bis* *(1648-1649)* *III,320*Bibliot. Nationale*Debeaune à Schooten* @
+228*228*R.,L*Santporte, 3/1/1640* *IV,1*R.,120*Descartes à Huygens* @
+229*229*R.,LI*La Haye, 8/1/1640* *IV,6*R.,127*Huygens à Descartes* @
+230*230*CLXXXI*Utrecht, 1/1640* *IV,7*III,1*Regius et Aemilius à Descartes* @
+231*231*CLXXXII*29/1/1640* *IV,11*III,4*Descartes à Mersenne* @
+232*232*CLXXXIII*[29/1/1640]* *IV,19*III,18*Descartes à Meyssonnier* @
+233*233*CLXXXIV*1/2/1640* *IV,21*III,21*Descartes à Waessenaer* @
+234*234*CLXXXIV bis*8/2/1640* *IV,30*Sup.1-4*Descartes à Hogelande* @
+235*235*R.,LII*La Haye, 8/3/1640* *IV,34*R.,128*Huygens à Descartes* @
+236*236*CLXXXV*11/3/1640* *IV,35*III,33*Descartes à Mersenne* @
+237*237*R.,LIII*Santporte, 12/3/1640* *IV,43*R.,129*Descartes à Huygens* @
+238*238*CLXXXVI*[1/4/1640]* *IV,45*III,45*Descartes à Mersenne* @
+239*239*CLXXXVII et additions*3/4/1640* *IV,50*III,56 et X,542*Descartes à Golius* @
+240*240*R.,LIV*La Haye, 29/4/1640* *IV,53*R.,132*Huygens à Descartes* @
+241*241*CLXXXVIII*Utrecht, 5/5/1640* *IV,54*III,60*Regius à Descartes* @
+242*242*CLXXXIX*Leyde, 7/5/1640* *IV,56*III,61*Descartes à Pollot* @
+243*243*CXC*[Leyde, 24/5/1640]* *IV,57*III,63*Descartes à Regius* @
+244*244*CXCI*Utrecht, 30/5/1640* *IV,70*III.71*Regius à Descartes* @
+245*245*CXCII*Leyde, 11/6/1640* *IV,72*III,72*Descartes à Mersenne* @
+246*246*CXCIII*Leyde, [13/6/1640]* *IV,83*III,90*Descartes à Wilhem* @
+247*247*CXCIV*Leyde, 24/6/1640* *IV,84*III,92*Descartes à Wilhem* @
+248*248*CXCV*[Leyde], 22/7/1640* *IV,85*III,94*Descartes à Mersenne* @
+249*249*CXCVI*[Leyde, 22/7/1640]* *IV,87*III,97*Descartes au P. [Hayneuve]* @
+250*250*R.,LV*Camp de Reeck, 24/7/1640* *IV,93*R.,133*Huygens à Descartes* @
+251*251*CXCVIII*29/7/1640* *IV,95*III,105*Descartes à Mersenne pour le P. Bourdin* @
+252*252*CXCIX*[Leyde], 30/7/1640* *IV,112*III,119*Descartes à Mersenne* @
+253*253*CXCIX bis*[Leyde, 30/7/1640]* *IV,125*III,138*Descartes à Mersenne*D. pour des medecins@
+254*254*A.T.,CXCVII;R.,LVI*Leyde, 31/7/1640* *IV,127*III,101;R.,134*Descartes à Huygens* @
+255*255*CC*Leyde, 6/8/1640* *IV,130*III,142*Descartes à Mersenne* @
+256*256*A.T.,CCI;R.,LVII*Rhynberck, 14/8/1640* *IV,135*III,150;R.,138*Huygens à Descartes* @
+257*257*CCII*Leyde, 17/8/1640* *IV,138*III,154*Descartes à Wilhem* @
+258*258*CCIII,R.,LVIII*Leyde, 27/8/1640*Aout?*IV,140*III,157;R.,141*Descartes à Huygens*D.a [Huygens]@
+259*259*CCIV*[Leyde], 30/8/1640* *IV,143*III,160*Descartes à Mersenne*@
+260*260*CCV*[Leyde, 30/8/1640]* *IV,149*III,168*Descartes à Mersenne*D. pour le P. Hayneuve@
+261*261*CCVI*[Leyde], 15/9/1640* *IV,159*III,175*Descartes à Mersenne*@
+262*262*CCVII*Leyde, 30/9/1640* *IV,164*III,183*Descartes à Mersenne* @
+263*263*CCVIII*Leyde, 5/10/1640* *IV,172*III,198*Descartes à Wilhem* @
+263bis*263 bis* *Leyde, 5/10/1640* *VIII,317*Descartes à Wicquefort* * @
+264*264*CCIX*Utrecht, 7/10/1640* *IV,175*III,202*Regius à Descartes* @
+265*265*R.,LIX*La Haye, 8/10/1640* *IV,177*R.,144*Huygens à Descartes* @
+266*266*CCX*Leyde, 28/10/1640* *IV,178*III,205*Descartes à Mersenne* @
+267*267*CCXI*Leyde, 28/10/1640* *IV,186*III,221*Descartes à Mersenne*D. pour les Peres jesuites@
+268*268*CCXII*Leyde, 28/10/1640* *IV,195*III,228*Descartes à son père*@
+269*269*R.,LX*La Haye, 29/10/1640* *IV,196*R.,145*Huygens à Descartes* @
+270*270*A.T.,CCXIII;R.,LX a*[11/11/1640]* *IV,197*III,229;R.,146*Descartes à Huygens* @
+271*271*CCXIV*Leyde, 11/11/1640* *IV,198*III,230*Descartes à Mersenne*@
+272*272*CCXV*[Leyde, 11/11/1640]* *IV,203*III,236*Descartes au P. [Gibieuf]* @
+273*273*CCXVI*[Leyde], 11/11/1640* *IV,205*III,238*Descartes à Mersenne* @
+274*274*A.T.,CCXVII;R.,LX b*[Leyde], 12/11/1640* *IV,207*III,241;R.,147*Descartes à [Huygens]* @
+275*275*CCXIX*[Leyde, 14/11/1640]* *IV,209*III,247etX,578*Descartes à Colvius* @
+276*276*CCXVIII*[Leyde, 18/11/1640]* *IV,210*III,243*Descartes à Mersenne* @
+277*277*CCXX*[Leyde], 3/12/1640* *IV,213*III,248*Descartes à Mersenne*@
+278*278*CCXXI*[Leyde], 3/12/1640* *IV,216*III,252*Descartes à son frère ainé* @
+279*279*CCXXII*[Leyde, 12/1640]* *IV,217*III,253*Descartes à Mersenne* @
+280*280*R.,CXXII*1640* *IV,225*R.,293*Descartes à Bannius, pour la défense de Boësset* @
+281*281*CCXXIII*[Leyde, 24/12/1640?]* *IV,237*III,262*Descartes à Mersenne* @
+282*282*CCXXV*[Leyde, 31/12/1640]* *IV,242*III,271*Descartes à Mersenne* @
+283*283*CCXXVI*Leyde, mi-1/1641*[mi/1/1641]*IV,247*III,278*Descartes à Pollot*Descartes à [Pollot]@
+284*284*R.,LXI*La Haye, 15/1/1641* *IV,249*R.,148*Huygens à Descartes* @
+285*285*R.,LXII*Leyde, 16/1/1641* *IV,250*R.,149*Descartes à Huygens* @
+286*286*CCXXVII*Leyde, 21/1/1641*[21/1/1641]*IV,252*III,281*Descartes à Mersenne* @
+287*287*CCXXVIII*[Leyde, 21/1/1641]* *IV,257*III,287*Descartes à Mersenne pour Hobbes* @
+288*288*CCXXIX*[Leyde, 28/1/1641]* *IV,265*III,292*Descartes à Mersenne* @
+289*289*CCXXX*Paris, 7/2/1641* *IV,270*III,300*Hobbes à Mersenne pour Descartes* @
+290*290*CCXXXI*[Leyde, 18/2/1641]* *IV,290*III,313*Descartes à Mersenne pour Hobbes* @
+291*291*CCXXXII*Leyde, 4/3/1641* *IV,299*III,318*Descartes à Mersenne*@
+292*292*CCXXXIII*Leyde, 18/3/1641* *IV,311*III,334*Descartes à Mersenne* @
+293*293*CCXXXIV*Paris, 30/3/1641* *IV,317*III,341*Hobbes à Mersenne pour Descartes* @
+294*294*CCXXXV*[Endegeest], 31/3/1641* *IV,330*III,349*Descartes à Mersenne* @
+295*295*CCXXXVI*Endegeest, 21/4/1641* *IV,332*III,353*Descartes à Mersenne pour Hobbes* @
+296*296*CCXXXVII*[Endegeest, 21/4/1641]* *IV,335*III,358*Descartes à Mersenne* @
+297*297*R.,LXIII*Endegeest, 4/1641* *IV,340*R.,151*Descartes à Huygens* @
+298*298*CCXXXVIII*Utrecht, 1/5/1641* *IV,342*III,365*Regius à Descartes* @
+299*299*CCXXXIX*[Endegeest, 5/1641]* *IV,344*III,369*Descartes à Regius* @
+300*300*CCXL*[Endegeest, 5/1641]* *IV,346*III,370*Descartes à Regius* @
+301*301*CCXLI*Paris, 19/5/1641* *IV,354*III,375*X%%% à Mersenne pour Descartes* @
+302*302*CCXLIII*[Endegeest, 16/6/1641]* *IV,359*III,382*Descartes à Mersenne* @
+303*303*CCXLIII bis*[16/6/1641]* *IV,361*III,707*!Descartes à [Mersenne?]* @
+304*304*CCXLIV*[Endegeest], 23/6/1641* *IV,371*III,383*Descartes à Mersenne* @
+305*305*CCXLV*[Endegeest, 7/1641]* *IV,376*III,391*Descartes à Mersenne* @
+306*306*R.,LXIV;CCXLVII*Offelen, 17/7/1641* *V,1*III,412; R.,153*Huygens à Descartes* @
+307*307*CCXLVI*Paris, 7/1641* *V,3*III,397*X%%% à Descartes*L'Hyperaspistes à Descartes@
+308*308*CCXLVIII*[Endegeest, 22/7/1641]* *V,30*III,414*Descartes à Mersenne* @
+309*309*CCXLIX*[Endegeest, 22/7/1641]* *V,33*III,419*Descartes à [l'abbé de Launay]* @
+310*310*R.,LXV*29/7/1641* *V,35*R.,155*Descartes à Huygens* @
+311*311*CCL*[Endegeest, 8/1641]* *V,38*III,421*Descartes à X%%%*L'Hyperaspistes@
+312*312*CCLI*9/1641* *V,61*III,435*Descartes à Mersenne* @
+313*313*CCLII*[Endegeest, 11/1641]* *V,65*III,440*Descartes à Regius* @
+314*314*CCLIII*[Endegeest, 11/1641]* *V,67*III,443*Descartes à Regius*@
+315*315*CCLIV*[Endegeest], 17/11/1641* *V,72*III,447*Descartes à Mersenne* @
+316*316*CCLV*[Endegeest, 12/1641]* *V,76*III,454*Descartes à Regius* @
+317*317*CCLVI*[Endegeest, 12/1641]* *V,79*III,456*Descartes à Regius* @
+318*318*CCLVII*[12/1641?]* *V,81*III,457*Descartes à Regius* @
+319*319*CCLVIII*[Endegeest, mi/12/1641]* *V,84*III,459*Descartes à Regius*@
+320*320*CCLIX*[Endegeest, 22/12/1641]* *V,89*III,464*Descartes à Mersenne*D. pour les Pères jesuites@
+321*321*CCLX*[Endegeest], 22/12/1641* *V,95*III,469*Descartes à Mersenne* @
+322*322*CCLXI*[Endegeest], 28/12/1641* *V,97*III,471*Descartes à son frère ainé* @
+323*323*CCLXII*[Endegeest], 19/1/1642* *V,98*III,472*Descartes au P. [Gibieuf]* @
+324*324*CCLXIII*[Endegeest], 19/1/1642* *V,103*III,480*Descartes à Mersenne* @
+325*325*CCLXIV*[Endegeest, 1/1642?]* *V,107*III,485*Descartes à Regius* @
+326*326*CCLXV*[Utrecht], 24/1/1642* *V,109*III,487*Regius à Descartes* @
+327*327*CCLXVI*[Endegeest], 1/1642* *V,111*III,491*Descartes à Regius*@
+328*328*R.,LXVI*Endegeest, 22/1/1642* *V,141*R.,159*Descartes à Huygens* @
+329*329*R.,LXVII*La Haye, 25/1/1642* *V,143*R.,161*Huygens à Descartes* @
+330*330*CCLXVII*Endegeest, 31/1/1642* *V,146*III,520;R.,164*Descartes à Huygens* @
+331*331*CCLXVIII*Utrecht, 2/2/1642* *V,149*III,525*Regius à Descartes* @
+332*332*CCLXIX*Utrecht, 17/2/1642* *V,152*III,527*Regius à Descartes* @
+333*333*CCLXX*fin de 2/1642* *V,153*III,528*Descartes à Regius* @
+334*334*CCLXXI*Utrecht, 5/3/1642* *V,156*III,534*Regius à Descartes* @
+335*335*CCLXXII*[Endegeest, 3/1642]* *V,158*III,535*Descartes à Regius* @
+336*336*CCLXXIII*[Endegeest, 3/1642]* *V,169*III,542*Descartes à Mersenne* @
+337*337*CCXXII bis*3/1642?*1640?et1643?*V,173*V,543-547*Descartes à M. de Sainte-Croix*Descartes à %%%@
+338*338*CCLXXIV*[Endegeest, 3/1642]* *V,179*III,549*Descartes à [Pollot?]* @
+339*339*CCLXXV*Endegeest, 25/3/1642* *V,181*III,553*Descartes à Dozem* @
+340*340*CCLXXVI*Utrecht, 31/3/1642* *V,184*III,557*Regius à Descartes* @
+341*341*CCLXXVII*[Endegeest, 4/1642]* *V,186*III,558*Descartes à Regius* @
+342*342*CCLXXVIII*Utrecht, 4/4/1642* *V,189*III,561*Regius à Descartes* @
+343*343*R.,LXVIII*Endegeest, 26/4/1642* *V,191*R.,167*Descartes à Huygens* @
+344*344*R.,LXIX*Endegeest, 26/4/1642* *V,193*R.,168*Descartes à Huygens* @
+345*345*R.,LXX*La Haye, 27/4/1642* *V,194*R.,170*Huygens à Descartes* @
+346*346*R.,LXXI*Endegeest, 4/5/1642* *V,196*R.,172*Descartes à Huygens* @
+347*347*CCLXXIX;R.,LXXII*La Haye, 26/5/1642* *V,198*III,563;R.,173*Huygens à Descartes* @
+348*348*CCLXXX*Endegeest, 6/1642* *V,201*III,565*Descartes à Regius* @
+349*349*CCLXXXI*[Utrecht, Été 1642]* *V,206*III,570*Regius à Descartes* @
+350*350*R.,LXXIII*Endegeest, 1/9/1642* *V,211*R.,175*Descartes à Huygens* @
+351*351*R.,LXXIV*Camp de Bolberg, 6/9/1642* *V,213*R.,176*Huygens à Descartes* @
+352*352*CCLXXXII*[Endegeest, 7/9/1642]* *V,214*III,575*Descartes au P. Bourdin* @
+353*353*CCLXXXIII*Endegeest, 6/10/1642* *V,217*III,577*Descartes à Pollot* @
+354*354*R.,LXXV*Endegeest, 6/10/1642* *V,218*R.,177*Descartes à Huygens* @
+355*355*R.,LXXVI*La Haye, 7/10/1642* *V,219*R.,179*Huygens à Descartes* @
+356*356*CCLXXXIV;R.,LXXVII*Endegeest, 10/10/1642*13/10/1642*V,220*III,578;R.,180*Descartes à Huygens* @
+357*357*CCLXXXV*Endegeest, 13/10/1642* *V,223*III,581*Descartes à Mersenne* @
+358*358*CCLXXXVI*1642?* *V,226*III,585*Descartes à Mersenne* @
+359*359*CCLXXXVII*Endegeest, 20/10/1642* *V,228*III,587*Descartes à Mersenne* @
+360*360*CCLXXXVIII*[Endegeest], 17/11/1642* *V,230*III,591*Descartes à Mersenne* @
+361*361*CCLXXXIX*[Endegeest, 17/11/1642]* *V,234*III,594*Descartes au P. [Vatier]* @
+362*362*CCX*Endegeest, 7/12/1642* *V,237*III,597*Descartes à Mersenne* @
+363*363*CCXCI*1/1643?* *V,241*III,605*Descartes à [Desmarets]* @
+364*364*CCXCII*[Endegeest], 4/1/1643* *V,243*III,607*Descartes à Mersenne* @
+365*365*R.,LXXVIII*Endegeest, 5/1/1643* *V,247*R.,183*Descartes à Huygens* @
+366*366*R.,LXXIX*La Haye, 7/1/1643* *V,249*R.,185*Huygens à Descartes* @
+367*367*CCLXVII bis;R.,LXXX*Endegeest, 14/1/1643*1642?*V,251*V,547;R.,187*Descartes à Huygens* @
+368*368*CCXCIII*[Endegeest], 2/2/1643* *V,253*III,611*Descartes à Mersenne*@
+369*369*CCXCIV*[Endegeest], 2/2/1643* *V,256*III,615*Descartes à l'abbé Picot* @
+370*370*CCXCV;R.,LXXXI*Endegeest, 18/2/1643* *V,257*III,617;R.,189*Descartes à Huygens* @
+371*371*CCXCVI*Endegeest, 23/2/1643* *V,265*III,631*Descartes à Mersenne* @
+372*372*CCXCVII*Endegeest, 23/3/1643* *V,270*III,637*Descartes à Mersenne* @
+373*373*CCXCVIII*Endegeest, 23/4/1643* *V,276*III,646*Descartes à Colvius* @
+374*374*CCXCIX*Endegeest, 26/4/1643* *V,278*III,648*Descartes à Mersenne* @
+375*375*CCC*[Endegeest], 26/4/1643* *V,283*III,655*Descartes à Mersenne* @
+376*376*CCCI*[La Haye], 6/16 Mai [1643]* *V,287*III,660*Élisabeth à Descartes* @
+377*377*CCCII*[Egmond du Hoef, 21/5/1643]* *V,289*III,663*Descartes à Élisabeth* @
+378*378*R.,LXXXII*Egmond du Hoef, 22/5/1643* *V,293*R.,198*Descartes à Huygens* @
+379*379*CCCIII;R.,LXXXIII*Du Hoef, 24/5/1643*Fin 5/1643*V,294*III,669;R.,199*Descartes à Huygens* @
+380*380*CCCIV*Amsterdam, 30/5/1643* *V,298*III,672*Descartes à Mersenne* @
+381*381*CCCV R.,LXXXIV*Fort de Voorn, 6/6/1643* *V,301*III,676;R.,202*Huygens à Descartes* @
+382*382*CCCVI*Dordrecht, 9/6/1643* *V,304*III,680*Colvius à Descartes* @
+383*383*CCCVII*Dordrecht, 10/6/1643* *V,308*III,682*Beverwick à Descartes* @
+384*384*CCCIX*[Egmond du Hoef], 19/6/1643* *V,309*III,686*Descartes à Vorstius* @
+385*385*CCCVIII*[La Haye], 10/20 Juin [1643]* *V,315*III,683*Élisabeth à Descartes* @
+386*386*R.,LXXXV*Du Hoef, 26/6/1643* *V,318*R.,205*Descartes à Huygens* @
+387*387*CCCX*Egmond du Hoef, 28/6/1643* *V,322*III,690*Descartes à Élisabeth* @
+388*388*CCCXI*[La Haye], 1 Juillet [1643]* *VI,1*IV,1*Élisabeth à Descartes* @
+389*389*CCCXII*Egmond du Hoef, 5/7/1643* *VI,3*IV,3*Descartes à Beverwick* @
+390*390*CCCXIII*Egmond du Hoef, 5/7/1643* *VI,8*IV,6*Descartes à Colvius* @
+390bis*390 bis*CDLXXVI bis*6/7/1643*1646?*VII,389*IV,678*Descartes à Colvius*D. à (Huygens)@
+391*391*CCCXIV;R.,CXXIV*Egmond du Hoef, 6/7/1643* *VI,11*IV,8 et 645;R.,299*Descartes au Vroedschap d'Utrecht* @
+392*392*CCCXV;R.,LXXXV a*Amsterdam, 10/7/1643* *VI,17*IV,13;R.,209*Descartes à [Huygens]* @
+393*393*CCCXVI*Amsterdam, 10/7/1643* *VI,19*IV,16*Descartes à [Wilhem]* @
+394*394*CCCXVII*Egmond du Hoef, 18/7/1643* *VI,20*IV,17et649*Descartes à G.Brandt* @
+395*395*CCCXVII bis*Egmond du Hoef, 5/9/1643* *VI,22*Sup.,15*Descartes à Colvius* @
+396*396*R.,LXXXVI*Egmond du Hoef, 20/9/1643* *VI,24*R.,210*Descartes à Huygens* @
+397*397*R.,LXXXVII*La Haye, 5/10/1643* *VI,28*R.,214*Huygens à Descartes* @
+398*398*CCCXVIII*Egmond du Hoef, 17/10/1643* *VI,31*IV,18*Descartes à [Graswinckel]* @
+399*399*CCCXIX*Egmond du Hoef, 17/10/1643* *VI,34*IV,23*Descartes à Pollot*@
+400*400*R.,LXXXVIII*Egmond du Hoef, 17/10/1643* *VI,36*R.,216*Descartes à Huygens* @
+401*401*CCCXX*Egmond du Hoef, 21/10/1643* *VI,37*IV,25*Descartes à Pollot*@
+402*402*CCCXXI*Egmond du Hoef, 23/10/1643* *VI,39*IV,28*Descartes à Pollot*@
+403*403*CCCXXII*Leyde, [27/10/1643]* *VI,42*IV,31*Descartes à [Van Surck]* @
+404*404*R.,LXXXIX*Egmond du Hoef, 2/11/1643* *VI,43*R.,218*Descartes à Huygens* @
+405*405*R.,XC*La Haye, 2/11/1643* *VI,45*R.,219*Huygens à Descartes* @
+406*406*CCCXXIII*[Egmond] du Hoef, 7/11/1643* *VI,47*IV,32*Descartes à Wilhem* @
+407*407*CCCXXIV*[Egmond du Hoef], 7/11/1643* *VI,50*IV,36*Descartes à l'abbé Picot* @
+408*408*CCCXXV*[Egmond du Hoef], 11/1643* *VI,52*IV,37*Descartes à Élisabeth* @
+409*409*CCCXXVI*Egmond du Hoef, 11/1643* *VI,57*IV,43*Descartes à Pollot* @
+410*410*CCCXXIV bis*[La Haye], 10/11/1643* *VI,58*IV,652*Brasset à Descartes* @
+411*411*R.,XCI*Egmond du Hoef, 15/11/1643* *VI,60*R.,221*Descartes à Huygens* @
+412*412*CCCXXIX*Egmond du Hoef, [17/11]/1643* *VI,65*IV,50*Descartes à Pollot* @
+413*413*CCCXXVII*[La Haye], 21 Novembre [1643]* *VI,68*IV,44*Élisabeth à Descartes* @
+414*414*CCCXXVIII*[Egmond du Hoef, 11/1643]* *VI,70*IV,45*Descartes à Élisabeth* @
+415*415*R.,XCII*La Haye, 23/11/1643* *VI,74*R.,226*Huygens à Descartes* @
+416*416*CCCXXX*[Egmond]du Hoef, 30/11/1643* *VI,76*IV,53*Descartes à Pollot* @
+417*417*CCCXXXI*[Egmond du Hoef], 11/12/1643* *VI,79*IV,56*Descartes à Mersenne* @
+418*418*CCCXXXII*[1643?]* *VI,82*IV,62*Descartes à Buitendijck* @
+419*419*CCCXXXIII*[1643?]* *VI,87*IV,65*Descartes au P. %%%* @
+420*420*CCCXXXIV*[fin 1643ou debut1644?]* *VI,89*IV,68*Mersenne à Descartes* @
+421*421*CCXXII bis*[1643?]* *VI,92*V,545*Descartes à X%%%* @
+422*422*CCCXXXV*[Egmond du Hoef], 1/1/1644* *VI,95*IV,70*Descartes à Pollot* @
+423*423*CCCXXXVI*[Egmond] du Hoef, 8/1/1644* *VI,99*IV,75*Descartes à Pollot* @
+424*424*CCCXXXVII*[Egmond] du Hoef, 15/1/1644* *VI,102,IV,80*Descartes à Pollot* @
+425*425*CCCXXXIX*[Egmond du Hoef, 15-22/1/1644]* *VI,104*IV,84*Descartes à M. de La Thuillerie* @
+426*426*CCCXXXVIII*Egmond du Hoef, 22/1/1644* *VI,122*IV,82*Descartes à Pollot* @
+427*427*R.,XCIII*La Haye, 15/2/1644* *VI,124*R.,228*Huygens à Descartes* @
+428*428*CCCXL*Utrecht, 9-19/2/1644* *VI,126*IV,96*Regius à Descartes* @
+429*429*R.,XCIV*Egmond du Hoef, 26/2/1644* *VI,127*R.,230*Descartes à Huygens* @
+430*430*CCCXLI*[Egmond] du Hoef, 26/2/1644* *VI,129*IV,97*Descartes à [Wilhem]* @
+431*431*CCCXLII*La Haye, 8/3/1644* *VI,131*IV,99*Buysero à Descartes* @
+432*432*CCCXLIII;R.,XCV*La Haye, 14/3/1644* *VI,133*IV,102et658; R.,232*Huygens à Descartes* @
+433*433*CCCXLIV*[Egmond du Hoef], 1/4/1644* *VI,134*IV,103*Descartes à l'abbé Picot* @
+434*434*CCCXLV*[Egmond du Hoef], 8/4/1644* *VI,137*IV,106*Descartes à Pollot* @
+435*435*CCCXLVI*Leyde, 2/5/1644* *VI,139*IV,108*Descartes à l'abbé Picot* @
+436*436*CCCXLVII*[Leyde, 2/5/1644?]* *VI,140*IV,110*Descartes au P. [Mesland]* @
+437*437*CCCXLVIII*[Leyde, 2/5/1644?]* *VI,148*IV,121*Descartes au P. [Grandamy]* @
+438*438*CCCXLIX*[Leyde], 27/5/1644* *VI,150*IV,123*Descartes à Tobie d'André* @
+439*439*CCCL*[Utrecht], 4/6/1644* *VI,151*IV,123*Regius à Descartes* @
+440*440*CDXCI*[Paris, 7/1644]*Paris, 7/1647*VI,153*V,64*Descartes à Élisabeth* @
+441*441*CCCLI*Paris, 9/7/1644* *VI,155*IV,126*Descartes à Wilhem* @
+441bis*441 bis* *La Haye, 19/[7]/1644* *VII,391*Inedit*Rivet à Descartes* @
+442*442*CCCLII*[Rennes], 29/7/1644* *VI,156*IV,129*Descartes à l'abbé Picot* @
+443*443*CCCLIII*[La Haye], 1 Août [1644]* *VI,159*IV,131*Élisabeth à Descartes* @
+444*444*CCCLIV*Le Crevis, 18/8/1644* *VI,161*IV,134*Descartes à l'abbé Picot* @
+445*445*CCCLV*[Le Crevis, 8/1644]* *VI,163*IV,135*Descartes à Élisabeth* @
+446*446*CCCLVI*Chavagne en Suce, 11/9/1644* *VI,165*IV,138*Descartes à l'abbé Picot* @
+447*447*CCCLIX*[Paris, 10/1644]* *VI,167*IV,143*Descartes au P. [Bourdin]* @
+448*448*CCCLVII*[Paris, 10/1644]* *VI,168*IV,139*Descartes au P. [Charlet]* @
+449*449*CCCLVIII*[Paris, 10/1644]* *VI,170*IV,142*Descartes au P. [Dinet]* @
+450*450*CCCLX*[CaLais], 8/11/1644* *VI,171*IV,147*Descartes à l'abbé Picot*@
+451*451*R.,CXVI*Dort, 13/11/1644* *VI,172*R.,233*Descartes à Huygens* @
+452*452*CCCLXI*Utrecht, 18/11/1644* *VI,173*IV,148*Regius à Descartes* @
+453*453*CCCLXI bis*[Egmond, 11/1644]* *VI,175*IV,661*Descartes à Bruno* @
+454*454*R.,XCVII*Egmond, 21/12/1644* *VI,177*R.,234*Descartes à Huygens* @
+455*455*CCCLXI ter*[1644?]* *VI,178*V,549*Descartes à X%%%* @
+456*456*CCCLXII*Egmond, 5/1/1645* *VI,180*IV,150*Descartes à du Puy* @
+457*457*R.,XCVIII*La Haye, 16/1/1645* *VI,182*R.,235*Huygens à Descartes* @
+458*458*CCCLXIII*[Egmond], 7 Février [1645]* *VI,183*IV,155*Descartes à Tobie d'André* @
+459*459*CCCLXIV*[Egmond, 9/2/1645]* *VI,184*IV,156*Descartes au P. Charlet* @
+460*460*CCCLXV*[Egmond, 9/2/1645]* *VI,186*IV,158*Descartes au P. [Dinet]* @
+461*461*CCCLXVI*[Egmond, 9/2/1645]* *VI,188*IV,160*Descartes au P. [Bourdin]* @
+462*462*CCCLXVII*[Egmond, 9/2/1645]?* *VI,189*IV,161*Descartes au P. Mesland* @
+463*463*CCCLXVII bis*[Egmond, 9/2/1645?]* *VI,196*IV,172*Descartes au [P. Mesland?]* @
+464*464*CCCLXVIII*[Egmond], 9/2/1645* *VI,200*IV,175*Descartes à l'abbé Picot* @
+465*465*R.,XCIX*Egmond, 17/2/1645* *VI,202*R.,236*Descartes à Huygens* @
+466*466*CCCLXIX*Egmond, 17 Février [1645]* *VI,204*IV,177*Descartes à l'Universite de Groningue* @
+467*467*CCCLXX*[Egmond], 17/2/1645* *VI,208*IV,180*Descartes à l'abbé Picot* @
+468*468*CCCLXXI*[Egmond, 17/2/1645]* *VI,211*IV,183*Descartes à Clerselier*@
+469*469*CCCLXXII*[4/1645?]* *VI,215*IV,188*Descartes au [marquis de Newcastle]* @
+470*470*CCCLXXIII*[Egmond], 10/4/1645* *VI,219*IV,192*Descartes à Clerselier* @
+471*471*CCCLXXIV*[Egmond], 5/5/1645* *VI,222*IV,195*Descartes à Tobie d'André* @
+472*472*CCCLXXV*[Egmond, 18/5/1645]* *VI,224*IV,200*Descartes à Élisabeth* @
+473*473*CCCLXXVI*Egmond, 18/5/1645* *VI,227*IV,204*Descartes à Pollot* @
+474*474*CCCLXXVII*[La Haye], 24 Mai [1645]* *VI,230*IV,207*Élisabeth à Descartes* @
+475*475*CCCLXXVIII*[Egmond], 26/5/1645* *VI,233*IV,214*Descartes à Tobie d'André* @
+475bis*475 bis* *[Egmond], 26/5/1645* *VII,393*Inedit(perdu)*Descartes à Math. Passor* @
+476*476*CCCLXXIX*[Egmond, 5/1645?]* *VI,235*IV,215*Descartes au P. Mesland* @
+477*477*CCCLXXX*[Egmond, 5-6/1645]* *VI,237*IV,218*Descartes à Élisabeth* @
+478*478*CCCLXXXI*[Egmond], 1/6/1645* *VI,240*IV,222*Descartes à l'abbé Picot* @
+479*479*CCCLXXXII*[Egmond, 6/1645?]* *VI,241*IV,222*Descartes à X%%%*Descartes à Huygens@
+480*480*CCCLXXXIII*[Egmond, 6/1645?]* *VI,244*IV,227*Descartes à [Haestrecht]*Descartes à %%%@
+481*481*CCCLXXXIV*[La Haye], 22 June [1645]* *VI,248*IV,233*Élisabeth à Descartes* @
+482*482*CCCLXXXV*[Utrecht], 23/6/1645* *VI,250*IV,235*Regius à Descartes* @
+483*483*CCCLXXXVI*[Egmond, 6/1645]* *VI,251*IV,236*Descartes à Élisabeth* @
+484*484*CCCLXXXVII*[Egmond, 7/1645]* *VI,253*IV,239*Descartes à Regius* @
+485*485*CCCLXXXVIII*[Utrecht], 6/7/1645* *VI,255*IV,241*Regius à Descartes*@
+486*486*CCCLXXXIX;R.,C*Oost-Eekelo, 7/7/1645* *VI,257*IV,242;R.,238*Huygens à Descartes* @
+487*487*CCCXC*[Egmond], 16/7/1645* *VI,259*IV,245*Descartes à Tobie d'André* @
+488*488*CCCXCI*[Egmond, 7/1645]* *VI,262*IV,248*Descartes à Regius* @
+489*489*CCCXCII*Egmond, 21/7/1645* *VI,267*IV,251*Descartes à Élisabeth* @
+490*490*CCCXCIII*[Utrecht], 23/7/1645* *VI,269*IV,254*Regius à Descartes* @
+491*491*CCCXCIV*[Egmond, 7/1645]* *VI,271*IV,256*Descartes à Regius* @
+492*492*CCCXCV*Egmond, 4/8/1645* *VI,275*IV,258*Descartes à [Wilhem]* @
+493*493*CCCXCVI;R.,C a*Egmond, 4/8/1645* *VI,276*IV,260;R.,240*Descartes à Huygens* @
+494*494*CCCXCVII*Egmond, 4/8/1645* *VI,279*IV,263*Descartes à Élisabeth* @
+495*495*CCCXCVIII*[La Haye], 16 Août [1645]* *VI,283*IV,268*Élisabeth à Descartes* @
+496*496*CCCXCIX*Egmond, 18/8/1645* *VI,285*IV,271*Descartes à Élisabeth* @
+497*497*CD*[La Haye, 8/1645]* *VI,290*IV,278*Élisabeth à Descartes* @
+498*498*CDI*Egmond, 1/9/1645* *VI,292*IV,280*Descartes à Élisabeth* @
+499*499*CDII*[La Haye], 13 Septembre [1645]* *VI,297*IV,287*Élisabeth à Descartes* @
+500*500*CDIII*Egmond, 15/9/1645* *VI,300*VI,290*Descartes à Élisabeth* @
+501*501*CDIV*Egmond, 15/9/1645* *VI,305*IV,297*Descartes à Wilhem* @
+502*502*CDV*Egmond, 29/9/1645* *VI,306*IV,298*Descartes à Wilhem* @
+503*503*CDVI*[Riswyck], 30 Septembre [1645]* *VI,309*VI,301*Élisabeth à Descartes* @
+504*504*CDVII*Egmond, 6/10/1645* *VI,312*IV,304*Descartes à Élisabeth* @
+505*505*CDVIII*Egmond, 15/10/1645* *VI,321*IV,318*Descartes à X%%%* @
+506*506*CDIX*La Haye, 28/10/[1645]* *VI,322*IV,320*Élisabeth à Descartes* @
+507*507*CDX*[Egmond, 10/1645]* *VI,326*IV,325*Descartes au [marquis de Newcastle]* @
+508*508*CDXI*Egmond, 3/11/1645* *VI,330*IV,330*Descartes à Élisabeth* @
+509*509*CDXII*[La Haye, 30/11/1645]* *VI,334*IV,335*Élisabeth à Descartes* @
+510*510*CDXIII*[Egmond], 20/12/1645* *VI,337*IV,338*Descartes à Clerselier*@
+511*511*CDXIV*[La Haye], 27 Décembre [1645]* *VI,338*IV,339*Élisabeth à Descartes* @
+512*512*CDXV*[Egmond], 29/12/1645* *VI,340*IV,341*Descartes à l'abbé Picot*@
+513*513*CDXVI*Egmond, [fin 1645]* *VI,341*IV,342*Descartes à X%%%* @
+514*514*CDXVII*[Egmond, 1645 ou 1646?]* *VI,342*IV,344et669*Descartes au P. Mesland* @
+515*515*CDXVIII*[Egmond, 1645 ou 1646?]* *VI,345*IV,348et669*Descartes à X%%%* @
+516*516*CDXIX*[Egmond, 1/1646]* *VII,1*IV,351*Descartes à Élisabeth* @
+517*517*CDXX*[Egmond], 12/1/1646* *VII,6*IV,357*Descartes à Clerselier* @
+518*518*DXXXVI;R.,C b*[1/1646?]*A.T.,1648?*VII,7*V,262;R.,242*Descartes à Huygens*Descartes à (Huygens)?@
+519*519*R.,CI*5/2/1646* *VII,10*R.,245*Huygens à Descartes* @
+520*520*CDXXI*[Egmond], 2/1646* *VII,11*IV,358*Descartes à X%%%* @
+521*521*CDXXII*[Egmond], 23/2/1646* *VII,16*IV,362*Descartes à Clerselier* @
+522*522*CDXXIII*Egmond, 2/3/1646* *VII,17*IV,362*Descartes à Mersenne* @
+523*523*CDXXIII bis*[Egmond, 2/3/1646]* *VII,19*IV,366*Descartes à Mersenne* @
+524*524*CDXXIV*Egmond, 2/3/1646* *VII,24*IV,371*Descartes à Clerselier* @
+525*525*CDXXV*début 3/1646* *VII,26*IV,374*Descartes à X%%%* @
+526*526*CDXXVI*Egmond, 6/3/1646* *VII,28*IV,376*Descartes à Chanut* @
+527*527*R.,CII*11/3/1646* *VII,30*R.,246*Descartes à Huygens* @
+528*528* *22/3/1646* *VIII,318*Inedit copie MS*Mersenne à Descartes* @
+529*529*CDXXVII*Egmond, 30/3/1646* *VII,32*IV,379*Descartes à Cavendish* @
+530*530*CDXXVIII*Egmond, 17/4/1646* *VII,39*IV,389*Descartes à un avocat* @
+531*531*CDXXIX*[Egmond], 20/4/1646* *VII,41*IV,391*Descartes à Mersenne* @
+532*532*CDXXX*Egmond, 20/4/1646* *VII,45*IV,396*Descartes à Mersenne* @
+533*533*CDXXXI*[La Haye], 25 Avril [1646]* *VII,55*IV,403*Élisabeth à Descartes* @
+534*534*CDXXXII*[5/1646]* *VII,58*IV,406*Descartes à Élisabeth* @
+535*535*CDXXXIII*[Egmond], 4/5/1646* *VII,63*IV,412*Descartes à l'abbé Picot* @
+536*536*CDXXXIV*[Egmond], [5/1646]* *VII,64*IV,413*Descartes à Élisabeth*@
+537*537*CDXXXV*Egmond, 15/5/1646* *VII,66*IV,415*Descartes à Cavendish* @
+538*538*CDXXXVI*Paris, 5/1646* *VII,69*IV,420*Roberval à Cavendish pour Descartes* @
+539*539*CDXXXVII*Egmond, 15/6/1646* *VII,76*IV,429*Descartes à Cavendish* @
+540*540*CDXXXVIII*Egmond, 15/6/1646* *VII,80*IV,435*Descartes à Wilhem* @
+541*541*CDXXXIX*Egmond, 15/6/1646* *VII,82*IV,440*Descartes à Chanut* @
+542*542*CDXL*[Egmond, 6-7/1646]* *VII,84*IV,442*Descartes à Clerselier* @
+543*543*CDXLII*Paris, 7/1646* *VII,88*IV,452*[Clerselier] à Descartes* @
+544*544*CCXXIV*[8/1646]* *VII,138*III,269*Descartes au P. Charlet* @
+545*545*CDXLI*La Haye, 8/1646* *VII,140*IV,447et673*Élisabeth à Descartes*?@
+546*546*CDXLIII*Stockholm, 25/8/1646* *VII,143*X,601*Chanut à Descartes* @
+547*547*CDXLIV*[29/8/1646]* *VII,146*IV,474*Descartes à (Clerselier) pour M. le Conte* @
+548*548*CDXLV*[Egmond, 9/1646]* *VII,163*IV,485*Descartes à Élisabeth* @
+549*549*CDXLV bis*[Egmond,9/1646]* *VII,169*IV,495*Descartes à la princesse [Sophie]* @
+550*550*CDXLVI*Egmond, 7/9/1646* *VII,170*IV,496*Descartes à Mersenne* @
+551*551*CDXLVII*[9/1646]* *VII,174*IV,502*Roberval contre Descartes* @
+552*552*CDXLVIII*Egmond, 5/10/1646* *VII,179*IV,508*Descartes à Mersenne* @
+553*553*CDXLIX*[Egmond, 10/1646]* *VII,184*IV,515*Descartes à X%%%*Descartes à Huygens@
+554*554*CDL*Berlin, 10 Octobre [1646]* *VII,187*IV,519*Élisabeth à Descartes* @
+555*555*CDLI*Egmond, 12/10/1646* *VII,192*IV,525*Descartes à Mersenne* @
+556*556*CDLII*[10-11/1646]* *VII,194*IV,528*Descartes à Élisabeth* @
+557*557*CDLII bis*[11/1646]* *VII,198*IV,533*Descartes à la princesse [Sophie]* @
+558*558*CDLIII*Egmond, 1/11/1646* *VII,199*IV,534*Descartes à Chanut* @
+559*559*CDLIV*Egmond, 2/11/1646* *VII,203*IV,543*Descartes à Mersenne pour Roberval* @
+560*560*CDLV*Egmond, 2/11/1646* *VII,209*IV,551*Descartes à Mersenne* @
+561*561*CDLVI*[Egmond, 2/11/1646]* *VII,213*IV,558*Descartes à [Cavendish]*@
+562*562*CDLVII*[Egmond], 2/11/1646* *VII,217*IV,563*Descartes à l'abbé Picot* @
+563*563*CDLVIII*[Egmond], 9/11/1646* *VII,218*IV,563*Descartes à Clerselier* @
+564*564*CDLIX*Egmond, 23/11/1646]* *VII,219*IV,564*Descartes à Mersenne* @
+565*565*CDLX*[Egmond, 23/11/1646]* *VII,222*IV,568*Descartes au [marquis de Newcastle]* @
+566*566*CDLXI*[Berlin], 29 Novembre [1646]* *VII,228*IV,577*Élisabeth à Descartes* @
+567*567*R.,CIII*Egmond, 30/11/1646* *VII,231*R.,247*Descartes à Huygens* @
+568*568*CDLXII*Stockholm, 1/12/1646* *VII,232*X,609*Chanut à Descartes* @
+569*569*CDLXIII*Egmond, 14/12/1646* *VII,236*IV,583*Descartes à Mersenne* @
+570*570*CDLXIV*[Egmond], 14/12/1646* *VII,238*IV,584*Descartes au P. [Noel]*@
+571*571*CDLXV*[Egmond], [14/12/1646?]* *VII,241*IV,587*Descartes au P. [Charlet]* @
+572*572*CDLXVI*[Egmond], [12/1646]* *VII,242*IV,588*Descartes à Élisabeth* @
+573*573*CDLXVI bis*[Egmond], [12/1646]* *VII,245*IV,592*Descartes à la princesse [Sophie]* @
+574*574*CDLXVI quater*Egmond, 5/1/1647* *VII,246*X,613*Descartes à Van Foreest* @
+575*575*R.,CIV*La Haye, 7/1/1647* *VII,247*R.,249*Huygens à Descartes* @
+576*576*CDLXVII*[Egmond, 25/1/1647]* *VII,248*IV,593*Descartes à mersenne* @
+577*577*CDXXIV*Mantes, 29/1/1647* *VII,253*V,552*Joachim Descartes à Mersenne* @
+578*578*CDLXVIII*[Egmond], 1/2/1647* *VII,254*IV,600*Descartes à Chanut* @
+579*579*R.,CV*Egmond, 4/2/1647* *VII,267*R.,250*Descartes à Huygens* @
+580*580*CDLXIX*[Berlin, 21/2/1647]* *VII,268*IV,617*Élisabeth à Descartes* @
+581*581*CDLXX*[Egmond], 1/3/1647* *VII,270*IV,620*Descartes à l'abbé Picot*@
+582*582*CDLXXI*Egmond, [15/3/1647]* *VII,271*IV,621*Descartes à Mersenne* @
+583*583*CDLXXII*[La Haye, 3/1647]* *VII,274*IV,624*Descartes à Élisabeth* @
+584*584*CDLXXIII*Berlin, 11 Avril [1647]* *VII,277*IV,628*Élisabeth à Descartes* @
+585*585*CDLXXIV*Egmond, 19/4/1647* *VII,280*IV,631*Descartes à Heereboord* @
+586*586*CDLXXV*Egmond, 26/4/1647* *VII,282*IV,636*Descartes à Mersenne* @
+587*587*CDLXXVI*Egmond, 26/4/1647* *VII,284*IV,640*Descartes à l'abbé picot* @
+588*588*CDLXXVII*Egmond, 4/5/1647* *VII,287*V,1*Descartes aux curateurs de l'Université de Leyde* @
+589*589*CDLXXVIII*[Egmond, 10/5/1647]* *VII,307*V,15*Descartes à Élisabeth*@
+590*590*CDLXXIX*11/5/1647* *VII,311*X,617*Chanut à Descartes* @
+591*591*CDLXXXI*Egmond, 12/5/1647* *VII,317*V,24*Descartes à Servien* @
+592*592*R.,CVI*Egmond, 12/5/1647* *VII,319*R.,251*Descartes à Huygens* @
+593*593*CDLXXXII*[La Haye], 15/5/1647* *VII,321*V,27*Brasset à Descartes* @
+594*594*CDLXXXIII*Leyde, 20/5/1647* *VII,322*V,29*Les Curateurs de l'Université de Leyde à Descartes* @
+595*595*CDLXXXIII bis*Leyde, 20/5/1647* *VII,324*V,31*Wevelichoven à Descartes* @
+596*596*CDLXXXIV*Egmond, 24/5/1647* *VII,326*V,32*Descartes à Wilhem* @
+597*597*CDLXXXV*Egmond, 27/5/1647* *VII,328*V,35*Descartes aux Curateurs et aux Consuls de l'Université de Leyde* @
+598*598*CDLXXXV bis*[Egmond, 27/5/1647]* *VII,336*V,40*Descartes à Wevelichoven* @
+599*599*CDLXXXVI*[Egmond, 27/5/1647]* *VII,338*V,41*Descartes à [Wilhem?]* @
+600*600*CDLXXXVII*[Crossen, fin 5/1647]*Mai 1647*VII,342*V,46*Élisabeth à Descartes* @
+601*601*CDLXXXVIII*La Haye, 6/6/1647* *VII,345*V,50*Descartes à Chanut* @
+602*602*CDLXXXIX*[La Haye, 6/6/1647]* *VII,352*V,59*Descartes à Élisabeth* @
+603*603*CDXC*Rotterdam, 8/6/1647* *VII,354*V,63*Descartes à l'abbé Picot* @
+604*604*CDXCII*Paris, 9/1647?*9-10/1647*VII,355*V,74*Descartes à [Mersenne]* @
+605*605*CDXCIII*Stockholm, 21/9/1647* *VII,358*V,79*Chanut à Descartes* @
+606*606*CDXCIV*Stockholm, 9/11/1647* *VII,359*V,80*Chanut à Descartes* @
+607*607*R.,CVII*14/11/1647* *VII,360*R.,254*Huygens à Descartes* @
+608*608*CDXCV*Egmond, 20/11/1647* *VII,362*V,81*Descartes à Christine de Suède* @
+609*609*CDXCVI*Egmond, 20/11/1647* *VII,366*V,86*Descartes à Chanut* @
+610*610*CDXCVII*Egmond, 20/11/1647* *VII,368*V,89*Descartes à Élisabeth* @
+611*611*CDXCVIII*[La Haye], 4/12/1647* *VII,371*V,92*Brasset à Descartes* @
+612*612*CDXCIX*[Berlin], 5 Décembre [1647]* *VII,374*V,96*Élisabeth à Descartes* @
+613*613*R.,CVIII*8/12/1647* *VII,376*R.,256*Descartes à Huygens* @
+614*614*D*Egmond, 13/12/1647* *VII,378*V,98*Descartes à Mersenne* @
+615*615*DI*Egmond, [17?]/12/1647* *VII,382*V,107*Descartes à Brasset* @
+616*616*R.,CIX*27/12/1647* *VII,384*R.,258*Descartes à Huygens* @
+617*617*DII*Egmond, 12/1647* *VII,386*V,109*Descartes à [Hogelande?]* @
+618*618*DIII*Egmond, [31/1/1648]* *VIII,1*V,111*Descartes à Élisabeth* @
+619*619*DIV*Egmond, 31/1/1648* *VIII,4*V,114*Descartes à Mersenne* @
+620*620*DV*Egmond, 7/2/1648* *VIII,7*V,118*Descartes à Mersenne* @
+621*621*DCI*La Haye, 7/2/1648* *VIII,9*V,121*Brasset à Descartes* @
+622*622*DVII*Egmond, 7/2/1648* *VIII,11*V,123*Descartes à Pollot* @
+623*623*DVIII*Egmond, 21/2/1648* *VIII,13*V,125*Descartes au Vroedschap d'Utrecht* @
+624*624*DIX*Egmond, 21/2/1648* *VIII,14*V,129*Descartes à Chanut* @
+625*625*DX*[Egmond], 28/2/1648* *VIII,17*V,132*Descartes à l'abbé Picot* @
+626*626*DXI*3-4/1648* *VIII,19*V,133*Descartes à [Silhon?]*D. [au marquis de Newcastle?]@
+627*627*DXII*[Egmond], 4/4/1648* *VIII,23*V,239*Descartes à l'abbé Picot* @
+628*628*DXIII*Egmond, 4/4/1648* *VIII,25*V,141*Descartes à Mersenne* @
+630*630*DXV*La Haye, 30/4/1648* *VIII,29*V,179*Brasset à Descartes* @
+631*631*DXVI*Paris, 5/1648*[Paris, 5/1648]*VIII,31*V,182*Descartes à Chanut* @
+632*632*DXVII*[3/6/1648]* *VIII,33*V,184*[Arnauld] à Descartes* @
+633*633*DXVIII*Paris, 4/6/1648]* *VIII,45*V,192*Descartes pour [Arnauld]* @
+634*634*DXVIII bis*Paris, 5/6/1648* *VIII,50*Sup.20*Descartes à Debeaune* @
+635*635*DIXIX*Crossen, 30/6/1648]* *VIII,52*V,195*Élisabeth à Descartes* @
+636*636*DXX*[6-7/1648]*[Paris]*VIII,54*V,197*Descartes à Élisabeth* @
+637*637*DXXI*[6-7/1648]*[Paris]*VIII,56*V,202*Descartes à Mersenne* @
+638*638*DXXII*Crossen, [7/1648]*[Crossen]*VIII,60*V,209*Élisabeth à Descartes* @
+639*639*DXXIII*[7/1648]* *VIII,62*V,211*[Arnauld] à Descartes* @
+640*640*DXXIV*La Haye, 27/7/1648* *VIII,70*V,216*Brasset à Descartes* @
+641*641*DXXV*Paris, 29/7/1648* *VIII,71*V,219*Descartes pour [Arnauld]* @
+642*642*DXXVI*Crossen, 23/8/1648* *VIII,80*V,224*Élisabeth à Descartes* @
+643*643*DXXVII*Boulogne, 1/9/1648* *VIII,82*V,227*Descartes à l'abbé Picot*@
+644*644*DXXVIII*Amsterdam, 6/9/1648* *VIII,84*V,229*Descartes à l'abbé Picot* @
+645*645*DXXIX*[Egmond, 10/1648]* *VIII,85*V,231*Descartes à Élisabeth*@
+646*646*CDXCI*[Egmond], 13/11/1648* *VIII,87*V,68*Descartes à l'abbé Picot*@
+647*647*DXXX*[Egmond], 7/12/1648* *VIII,89*V,234*Descartes à l'abbé Picot* @
+648*648*DXXXI*Cambridge, 11/12/1648* *VIII,90*V,235*Morus à Descartes* @
+649*649*DXXXII*Stockholm, 12/12/1648* *VIII,10*V,251*Christine à Descartes*@
+650*650*DXXXIII*Stockholm, 12/12/1648* *VIII,10*V,252*Chanut à Descartes* @
+651*651*DXXXIV*[Egmond], 18/12/1648* *VIII,11*V,254et554*Descartes à [Auzout]*Descartes à X%%%@
+652*652*DXXXV*[1648 ou 1649?]* *VIII,11*V,258*Descartes à X%%%* @
+653*653*DXXXVI bis*[1648?]* *VIII,119*V,556*Descartes à [Pollot?]* @
+654*654*DXXXVII*Egmond, 5/2/1649* *VIII,121*V,267*Descartes à Morus* @
+655*655*DXXXVIII*[Egmond], 21/2/1649* *VIII,140*V,279*Descartes à l'abbé Picot* @
+656*656*DXXXIX*[Egmond], [22/2/1649]* *VIII,142*V,280*Descartes à Élisabeth* @
+657*657*DXL*Egmond, 26/2/1649* *VIII,146*V,289*Descartes à Chanut* @
+658*658*DXLI*[Egmond], [26/2/1649]* *VIII,150*V,293*Descartes à Christine* @
+659*659*DXLII*Stockholm, 27/2/1649* *VIII,151*V,295*Chanut à Descartes* @
+660*660*DXLIII*[La Haye], 2/3/1649* *VIII,152*V,296*Brasset à Descartes* @
+661*661*DXLIV*Cambridge, 5/3/1649* *VIII,154*V,298*Morus à Descartes* @
+662*662*DXLV*Stockholm, 6/3/1649* *VIII,186*V,317*Chanut à Descartes* @
+663*663*DXLVI*Leyde, 10/3/1649* *VIII,187*V,318*Schooten à Descartes* @
+664*664*DXLVII*Stockholm, 27/3/1649* *VIII,190*V,322*Chanut à Descartes* @
+665*665*DXLVIII*[Egmond, 31/3/1649]* *VIII,191*V,323*Descartes à Chanut* @
+666*666*DXLIX*[Egmond, 31/3/1649]* *VIII,193*V,326*Descartes à Chanut* @
+667*667*DL*[Egmond, 31/3/1649]* *VIII,196*V,330*Descartes à Élisabeth* @
+668*668*DLI*[Egmond, 31/3/1649]* *VIII,198*V,331*Descartes à Brasset* @
+669*669*DLII*[Egmond, 2/4/1649]* *VIII,200*V,335*Descartes à l'abbé Picot* @
+670*670*DLIII*Egmond, 9/4/1649* *VIII,201*V,336 et sup.22*Descartes à Schooten* @
+671*671*DLIV*Egmond, 15/4/1649* *VIII,204*V,340*Descartes à Morus* @
+672*672*DLV*[Egmond, 23/4/1649]* *VIII,218*V,349*Descartes à Brasset* @
+673*673*DLVI*[Egmond, 23/4/1649]* *VIII,220*V,351*Descartes à Chanut* @
+674*674*DLVII*[Egmond, 23/4/1649]* *VIII,222*V,352*Descartes à Clerselier* @
+675*675*DLVIII*[Egmond], 23/4/1649* *VIII,226*V,357*Descartes à l'abbé Picot* @
+676*676*DLIX*Egmond, 7 et 14 Mai 1649* *VIII,227*V,358*Descartes à l'abbé Picot* @
+677*677*DLX*[Egmond, 6/1649]* *VIII,228*V,359*Descartes à Élisabeth* @
+678*678*DLXI*[Egmond, 6/1649]* *VIII,229*V,361*Descartes à Freinshemius*@
+679*679*DLXII*11/6/1649* *VIII,232*V,365*Descartes à Carcavi* @
+680*680*DLXIII*Paris, 9/7/1649* *VIII,235*V,369*Carcavi à Descartes* @
+681*681*DLXIV*[Cambridge, 23/7/1649]* *VIII,240*V,376*Morus à Descartes* @
+682*682*DLXV*La Haye, 17/8/1649* *VIII,253*V,391*Descartes à Carcavi* @
+683*683*DLXVI*[Egmond, 8/1649]* *VIII,261*V,401*Descartes à Morus* @
+684*684*DLXVII*Egmond, 30/8/1649* *VIII,268*V,405*Descartes à l'abbé Picot*@
+685*685*DLXVIII*Egmond, 30/8/1649* *VIII,269*V,406*Descartes à l'abbé Picot* @
+686*686*DLXIX*Egmond, 30/8/1649* *VIII,271*V,409*Descartes à Hogelande* @
+687*687*DLXX*Paris, 24/9/1649* *VIII,273*V,412*Carcavi à Descartes* @
+688*688*DLXXI*[Stockholm, 9/10/1649]* *VIII,285*V,429*Descartes à Élisabeth* @
+689*689*DLXXII*Stockholm, 9/10/1649* *VIII,288*V,432*Descartes à l'abbé Picot* @
+690*690*DLXXIII*Stockholm, [17] Octobre 1649* *VIII,291*V,433*Descartes à Brasset* @
+691*691*DLXXIV*Cambridge, 21/10/1649* *VIII,292*V,434*Morus à Descartes* @
+692*692*DLXXV*La Haye, 4/11/1649* *VIII,293*V,444*Brasset à Descartes* @
+693*693*DLXXVI*Stockholm, 6/11/1649* *VIII,295*V,447*Descartes à Clerselier* @
+694*694*DLXXVII*La Haye, 27/11/1649* *VIII,297*V,449*Brasset à Descartes* @
+695*695*DLXXVIII*4 Décembre [1649]* *VIII,298*V,451*Élisabeth à Descartes* @
+696*696*DLXXIX*Stockholm, 4/12/1649* *VIII,300*V,453*Descartes à l'abbé Picot* @
+697*697* *[Stockholm], 4/12/1649* *VIII,303*Inedit*Descartes à Huygens* @
+698*698*DLXXX*Stockholm, 18/12/1649* *VIII,305*V,455*Descartes à Brégy* @
+699*699*DLXXXI*Stockholm, 25/12/1649* *VIII,308*V,461*Descartes à l'abbé Picot* @
+700*700*DLXXXII*[Stockholm, 12/1649-1/1650]* *VIII,309*V,462*Descartes à [De la Mare]* @
+701*701*DLXXXIII*Stockholm, 1649ou1650* *VIII, 311*V,464*Descartes à X%%%* @
+702*702*DLXXXIV*Stockholm, 15/1/1650* *VIII, 313*V,466*Descartes à Brégy* @
+703*703*DLXXXV*Stockholm, 15/1/1650* *VIII, 315*V,469*Descartes à l'abbé Picot*@
+704*704*DLXXXVI*Stockholm, 10/2/1650* *VIII, 316*V,470*Descartes à ses frères* @
