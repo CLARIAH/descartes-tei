@@ -1,0 +1,587 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Convert.pl &mdash; descartes-tei 4.4 documentation</title>
+    
+    <link rel="stylesheet" href="_static/default.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '4.4',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="descartes-tei 4.4 documentation" href="index.html" />
+    <link rel="prev" title="descartes-tei documentation" href="index.html" /> 
+  </head>
+  <body>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="index.html" title="descartes-tei documentation"
+             accesskey="P">previous</a> |</li>
+        <li><a href="index.html">descartes-tei 4.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body">
+            
+  <div class="section" id="convert-pl">
+<h1>Convert.pl<a class="headerlink" href="#convert-pl" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="description">
+<h2>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h2>
+<p>Conversion development environment for converting the Descartes Corpus.</p>
+<dl class="docutils">
+<dt>Source format</dt>
+<dd>the JapAM edition: plain unicode text with line numbers plus illustrations in gif.</dd>
+<dt>Target format</dt>
+<dd>(pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.</dd>
+</dl>
+</div>
+<div class="section" id="authors">
+<h2>Authors<a class="headerlink" href="#authors" title="Permalink to this headline">¶</a></h2>
+<dl class="docutils">
+<dt><a class="reference external" href="http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866">Erik-Jan Bos</a></dt>
+<dd>Expert on Descartes and his works.
+Found the source data, supplied additional metadata from his own database.</dd>
+<dt><a class="reference external" href="http://www.linkedin.com/in/dirkroorda">Dirk Roorda</a></dt>
+<dd>Expert in converting, wrote the conversion program.</dd>
+</dl>
+</div>
+<div class="section" id="project">
+<h2>Project<a class="headerlink" href="#project" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference external" href="http://www.huygens.knaw.nl/en/ckcc-%E2%80%9Cgeleerdenbrieven%E2%80%9D/">CKCC (Circulation of Knowledge ... Collaboratory of Correspondences)</a></p>
+<p>The Descartes letters were part of this project, which also contains letters by
+Hugo Grotius, Constantijn Huygens, Christiaan Huygens, Anthoni van Leeuwenhoek
+and others.</p>
+<p>The result of the project is the <a class="reference external" href="http://ckcc.huygens.knaw.nl/epistolarium/">ePistolarium</a>
+an online environment to do research on these letters.</p>
+<p>The data has been archived at DANS, and will be Open Access available from Mid December 2013:
+The archived CKCC dataset at DANS has the persistent identifier
+<a class="reference external" href="http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji">urn:nbn:nl:ui:13-scpm-ji</a>.</p>
+</div>
+<div class="section" id="timeframe-of-this-conversion">
+<h2>Timeframe of this conversion<a class="headerlink" href="#timeframe-of-this-conversion" title="Permalink to this headline">¶</a></h2>
+<p>2011, October-December
+Current date: 2012-01-17</p>
+</div>
+<div class="section" id="provenance-of-the-source-data">
+<h2>Provenance of the source data<a class="headerlink" href="#provenance-of-the-source-data" title="Permalink to this headline">¶</a></h2>
+<p>The source data (the file <em>JapAM.txt</em>) is a file created in 1998 by</p>
+<ul class="simple">
+<li>Katsuzo Murakami (University of Tokyo)</li>
+<li>Meguru Sasaki (École normale superieure d&#8217;Hokkaido)</li>
+<li>Takehumi Tokoro (University of Chyuo) 1998</li>
+</ul>
+<p>This file is in a private ASCII encoding using characters 32-254, with identifier JAPAM.txt.</p>
+<p>It was received on CD by Erik-Jan Bos and in 2011 converted by
+* Erik-Jan Bos (then <a class="reference external" href="http://www.descartescentre.com">Descartes Centre, University of Utrecht</a>)
+* Dirk Roorda (<a class="reference external" href="http://www.dans.knaw.nl/en">Data Archiving and Networked Services (DANS)</a>)</p>
+<p>The conversion result (file <em>JapAM-EJB-DR.xml</em>) is XML-TEI.</p>
+<p>The illustrations are taken from <em>Oeuvres de Descartes, 11 vols.,</em>,
+editor: Charles Adam et Paul Tannery, Paris, Vrin, 1896-1911.</p>
+<p>The complete metadata of the CKCC material can be found
+in the <a class="reference external" href="https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:55049/tab/2#">dataset at DANS</a>
+(navigate to the file <em>ckcc-ead.xml</em> in the folder <em>original/data/Niet-DC-metadata/EAD</em>,
+screenshot</p>
+<img alt="_images/CKCC-EAD.png" src="_images/CKCC-EAD.png" />
+<p>).</p>
+</div>
+<div class="section" id="about-the-sources-and-results">
+<h2>About the sources and results<a class="headerlink" href="#about-the-sources-and-results" title="Permalink to this headline">¶</a></h2>
+<p>The script takes as input most of the material in the data directory (and subdirectories) and nothing else.
+The script produces its result files in subdirs of directory <em>results</em>:</p>
+<dl class="docutils">
+<dt>texts:</dt>
+<dd>converted texts (end result and all intermediate stages)</dd>
+<dt>messages:</dt>
+<dd>per conversion step:  information of what has been encountered, warnings, errors</dd>
+<dt>review:</dt>
+<dd>selected information extracted from inut and result, to be checked.
+Corrected version must be manually copied to the data directory in order to be included in a next conversion run.</dd>
+<dt>formulas:</dt>
+<dd>gif or svg representation of all formulas that have been typeset with TeX during the conversion run</dd>
+<dt>formulatex:</dt>
+<dd>contains a pdf with all formulas, on pages corresponding to the AM edition. For proofreading.</dd>
+</dl>
+</div>
+<div class="section" id="installation-instructions">
+<h2>Installation Instructions<a class="headerlink" href="#installation-instructions" title="Permalink to this headline">¶</a></h2>
+<p>This is a nearly self contained Perl Script, it does not call other user-developed Perl modules.
+It does call TeX and related programs, though.
+It requires, however, some modules that might have to been added to the perl installation.</p>
+<dl class="docutils">
+<dt>These are::</dt>
+<dd>Time
+Time::HiRes
+File::Path
+File::Copy.</dd>
+</dl>
+<p>The script calls programs from the TeXLive distribution. Make sure the following commands can be run from the command-line:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="n">tex</span>
+<span class="n">xetex</span>
+<span class="n">dvipng</span>
+</pre></div>
+</div>
+<p>If that is the case, this script will run without knowing where TeXLive is located.</p>
+</div>
+<div class="section" id="environment">
+<h2>Environment<a class="headerlink" href="#environment" title="Permalink to this headline">¶</a></h2>
+<p>This script presupposes an environment with a number of directories, filled with all kinds of material.
+After unzipping the package of which this script is part, adjust the configuration section marked with:</p>
+<div class="highlight-python"><pre># o-o-o BEGIN CUSTOMISE o-o-o #
+
+my $rootdir = '/Users/dirk/Data/DANS/projects/CKCC/descartes';
+my $versiondir = '2012-01-17';
+
+#my $formulaformat = 'svg';
+my $formulaformat = 'gif';
+
+# o-o-o END   CUSTOMISE o-o-o #</pre>
+</div>
+<p>to the local situation.</p>
+</div>
+<div class="section" id="usage">
+<h2>Usage<a class="headerlink" href="#usage" title="Permalink to this headline">¶</a></h2>
+<p>Commmand forms:</p>
+<div class="highlight-python"><pre>perl convert.pl
+./convert.pl taskname1-taskname2</pre>
+</div>
+<p>The first form does all tasks.</p>
+<p>The second form does all tasks from <tt class="docutils literal"><span class="pre">taskname1</span></tt> til (including) <tt class="docutils literal"><span class="pre">taskname2</span></tt>.</p>
+<ul class="simple">
+<li>If <tt class="docutils literal"><span class="pre">taskname1</span></tt> is omitted, start with the first task.</li>
+<li>If <tt class="docutils literal"><span class="pre">taskname2</span></tt> is omitted, continue till the last task.</li>
+<li>If the <tt class="docutils literal"><span class="pre">-</span></tt> is omitted and also one of <tt class="docutils literal"><span class="pre">taskname1</span></tt> or <tt class="docutils literal"><span class="pre">taskname2</span></tt>, execute the specified task only</li>
+</ul>
+<p>The script must be run from the commandline, positioned in the directory of this script.</p>
+</div>
+<div class="section" id="conversion-steps">
+<h2>Conversion steps<a class="headerlink" href="#conversion-steps" title="Permalink to this headline">¶</a></h2>
+<p>The full conversion is complex, because there are a lot of phenomena to deal with.
+That is why the conversion has been split up in a sequence of conversion steps.
+Each steps read as input the outcome of a previous step.
+All intermediate results are written to disk, so the conversion steps can be checked thoroughly
+and effectively.</p>
+<p>Sometimes steps take other inputs as well, e.g. manually prepared instructions.
+These instructions are sometimes based on the output of a previous step, and then
+manually corrected by Erik-Jan.</p>
+<p>Here is a list of the tasks:</p>
+<div class="highlight-python"><div class="highlight"><pre><span class="s">&#39;escape&#39;</span><span class="p">,</span>               <span class="c"># escape the italic markings and backslashes, because they will interfere with formulas</span>
+<span class="s">&#39;greek&#39;</span><span class="p">,</span>                <span class="c"># greek character translation</span>
+<span class="s">&#39;trans&#39;</span><span class="p">,</span>                <span class="c"># character codes translated to symbols</span>
+<span class="s">&#39;hyphen9&#39;</span><span class="p">,</span>              <span class="c"># replace weird usage of 9 as hyphen by real hyphen</span>
+<span class="s">&#39;meta&#39;</span><span class="p">,</span>                 <span class="c"># insert metadata per letter on the basis of EJB export</span>
+<span class="s">&#39;heads&#39;</span><span class="p">,</span>                <span class="c"># insert headings per letter on the basis of EJB material</span>
+<span class="s">&#39;images&#39;</span><span class="p">,</span>               <span class="c"># insert image links, based on EJB export</span>
+<span class="s">&#39;lines&#39;</span><span class="p">,</span>                <span class="c"># remove line numbers, end-of-line hyphens, make paragraph structure</span>
+<span class="s">&#39;formit&#39;</span><span class="p">,</span>               <span class="c"># formula symbols in italic scope</span>
+<span class="s">&#39;enmarge&#39;</span><span class="p">,</span>              <span class="c"># handle marginal notes</span>
+<span class="s">&#39;openers&#39;</span><span class="p">,</span>              <span class="c"># mark-up opening sections, based on heuristics</span>
+<span class="s">&#39;closers&#39;</span><span class="p">,</span>              <span class="c"># mark-up closing sections, based on even more heuristics</span>
+<span class="s">&#39;pagenumbers&#39;</span><span class="p">,</span>          <span class="c"># mark-up page breaks, special attention to in-word ones</span>
+<span class="s">&#39;ququ&#39;</span><span class="p">,</span>                 <span class="c"># remove ?? markers</span>
+<span class="s">&#39;brackets&#39;</span><span class="p">,</span>             <span class="c"># replace #( ... )# by ( ... )</span>
+<span class="s">&#39;abbrev&#39;</span><span class="p">,</span>               <span class="c"># replace marked abbreviations ##xxx(.) by xxx.</span>
+<span class="s">&#39;formulas&#39;</span><span class="p">,</span>             <span class="c"># translate formulas in the source into TEI/TeX</span>
+<span class="s">&#39;formset&#39;</span><span class="p">,</span>              <span class="c"># translate tex formulas to individual gif or svg files</span>
+<span class="s">&#39;italic&#39;</span><span class="p">,</span>               <span class="c"># translate remaining italic markers into TEI &lt;hi rend=&quot;i&quot;&gt;</span>
+<span class="s">&#39;atat&#39;</span><span class="p">,</span>                 <span class="c"># remove @@ markers</span>
+<span class="s">&#39;superscript&#39;</span><span class="p">,</span>          <span class="c"># translate remaining superscript markers into TEI &lt;hi rend=&quot;sup&quot;&gt;</span>
+<span class="s">&#39;marginals&#39;</span><span class="p">,</span>            <span class="c"># translate marginal indicators into TEI &lt;add place=&quot;margin&gt;</span>
+<span class="s">&#39;headings&#39;</span><span class="p">,</span>             <span class="c"># translate paragraphs starting with §xx§ to &lt;hi rend=&quot;xxx&quot;&gt;, also treat ±</span>
+<span class="s">&#39;tidyup&#39;</span><span class="p">,</span>               <span class="c"># remove XML comments &lt;!-- ... --&gt;; other tidyings</span>
+<span class="s">&#39;checkxml&#39;</span><span class="p">,</span>             <span class="c"># check the well-formedness of the individual letters</span>
+</pre></div>
+</div>
+</div>
+<div class="section" id="source-observations">
+<h2>Source observations<a class="headerlink" href="#source-observations" title="Permalink to this headline">¶</a></h2>
+<p>Here is an inventory of patterns and idiosyncrasies that we found in the source file plus
+indactions how we treated those.</p>
+<div class="section" id="codes-with">
+<h3>codes with #...#<a class="headerlink" href="#codes-with" title="Permalink to this headline">¶</a></h3>
+<p><strong>Pattern =&gt; conversion step that deals with it =&gt; interpretation =&gt; result/action</strong>:</p>
+<div class="highlight-python"><pre>#astérisque3#       =&gt; do_trans         Three daggers                               =&gt; unicode string
+#cit ... #end       =&gt; do_trans         No visible meaning, occurs only once        =&gt; source adaption made
+#gre ... #end       =&gt; do_greek         Greek character runs                        =&gt; characters translated to Unicode
+#cos1#              =&gt; do_formulas      cossic symbol 1 (outside TeX)               =&gt; graphic cossic1.png
+#cos2#              =&gt; do_formulas      cossic symbol 2 (outside TeX)               =&gt; graphic cossic2.png
+#musique1#          =&gt; do_trans         Music: G-clef with bars                     =&gt; graphic musique.png inline
+#point#             =&gt; do_trans         A dot                                       =&gt; .
+#point25#           =&gt; do_trans         Linefill with dots                          =&gt;   [...] (paragraph with 3 dots
+#infinitum#         =&gt; do_formulas      variant on equals sign                      =&gt; graphic propto.png = hor.flipped \propto, ∝
+                                        occurs in TeX, cannot deal with that: split formula in three parts, so that #infinitum# outside TeX
+. (escaped as ¡)    =&gt; do_formulas      .                                           =&gt; .</pre>
+</div>
+<p>NB: #infinitum# and = !!! I see that</p>
+<ul class="simple">
+<li>where JapAM has =, the facsimile has the reversed propto symbol (AM4L233F047)</li>
+<li>where JapAM has #infinitum#, the facsimile has the || symbol</li>
+</ul>
+<p>NB: squares are coded as &#64;x&#64;x. I typeset them as x^{2}, controlled by the switch: detect_squares</p>
+<p><strong>Other stuff</strong>:</p>
+<div class="highlight-python"><pre>a#¢t£#9il
+#chanut
+#dordrecht
+#fermat
+#mersenne
+#Pag.
+#sle&gt;#
+
+##cit
+##pag
+
+&lt;nt ...&gt; &lt;nt1 ...&gt;  Marginal indicators. Some have been recoded as &lt;mt A-Z&gt;
+                    others have been transformed into normal text.
+&lt;mt A-Z&gt;            In fact a marginal note, coming from &lt;nt(1)&gt; by Erik-Jan and Dirk: &lt;add place="margin"&gt;A-Z&lt;/margin&gt;
+&lt;g&gt;                 gauche (left align, left column)
+&lt;c&gt;                 centre (mid align, mid column);
+&lt;d&gt;                 droite (right align, right column);
+&lt;d end&gt;             has been removed</pre>
+</div>
+<p>N.B. near &lt;c&gt; and &lt;d&gt; page numbers &lt;m xxx&gt; are repeated, I have removed it.</p>
+</div>
+<div class="section" id="formulas">
+<h3>Formulas<a class="headerlink" href="#formulas" title="Permalink to this headline">¶</a></h3>
+<p>There are many formulas in the letters.
+In order to translate them into TeX, we need to comprehend first the way they are coded in the source.
+It was very hard to do that in one step, so we prepared the way by changing some symbols to others,
+removing some ambiguities in the process.</p>
+<p><strong>pattern interpretation</strong>:</p>
+<div class="highlight-python"><pre>" ... "             grouping
+‚" ... ‚"           nested grouping
+\'d9 .... \'c4      squareroot
+\'d9 .... \'e4      also a squareroot, I think
+\'f9 .... \'e4      also a squareroot, I think
+\Ÿ .... \ƒ          sqareroot (genest)
+\" .... "           sqareroot (genest)
+\                   also a squareroot, but simple, only over next symbol(group)
+\C                  cubic root, only once!
+÷                   in TeX: \over (much ado with braces), outside TeX: simply /
+/                   in TEI /, in TeX: \slash (a fraction of the form x / y without stacking)
+≥ .... ¥            superscript
+º .... ¿            subscript
++-                  plus of min ±
+|                   single bar in TeX: \vert
+||                  double bar in TeX: \Vert
+~                   hard space (tweaked into JapAM by Dirk and Erik-Jan
+@                   variable symbol: the next character is a letter to be interpreted as a variable in a formula
+&amp;                   same as @, but the symbol should stay roman (added by Dirk, occurrences where it has been added automatically:
+                        in every sequence of 2 or more capital roman vaiables, @ has been replaced by &amp;
+                        Erik-Jan has indicated more occurrences where @ should be replaced by &amp;
+€                   same as @, but the symbol is explicitly italic (added by Dirk, occurrences where it has been added automatically:
+
+♠                   displayed equation marker. If it occurs anywhere in a formula, it signals that the whole formula should be typeset
+                        as a displayed equation (in the TeX sense). The symbol has no other function</pre>
+</div>
+</div>
+<div class="section" id="italics">
+<h3>Italics<a class="headerlink" href="#italics" title="Permalink to this headline">¶</a></h3>
+<p>I remove all italic scopes out of formulas, because what is italic and not is governed by rules.
+* Formulas outside TeX: no italic.
+* Formulas inside TeX: follow the TeX rules.</p>
+</div>
+<div class="section" id="corrections">
+<h3>Corrections<a class="headerlink" href="#corrections" title="Permalink to this headline">¶</a></h3>
+<p>In some cases there were obvious errors in the JapAM source.
+We have commented out the offending line and put a corrected line in place.
+See the lines starting with <tt class="docutils literal"><span class="pre">!</span></tt> (after the leading number) in the JapAM source.</p>
+</div>
+<div class="section" id="headings">
+<h3>Headings<a class="headerlink" href="#headings" title="Permalink to this headline">¶</a></h3>
+<p><strong>space space</strong> starts a paragraph, in JapAM. Sometimes we need to start a heading:</p>
+<p><strong>space space §h4§ space</strong> will start a heading.</p>
+<p>It will be translated to a normal <tt class="docutils literal"><span class="pre">&lt;p&gt;</span></tt> element, but with the text in a <tt class="docutils literal"><span class="pre">&lt;hi</span> <span class="pre">rend=&quot;h4&quot;&gt;</span></tt> subelement.
+Any other text than h4 will translate into the value of the rend attribute.</p>
+<p><strong>``&lt;div type=&#8221;para&#8221;&gt;``</strong> Sometimes a paragraph should be surrounded by a <tt class="docutils literal"><span class="pre">&lt;div</span> <span class="pre">type=&quot;para&quot;&gt;</span> <span class="pre">..</span> <span class="pre">&lt;/div&gt;</span></tt>.
+That effect can be achieved by letting the paragraph start with <strong>space space ±</strong></p>
+</div>
+<div class="section" id="metadata-values">
+<h3>Metadata values<a class="headerlink" href="#metadata-values" title="Permalink to this headline">¶</a></h3>
+<p>About the certainty of metadata values (sender, recipient, location, time).</p>
+<p>Pattern =&gt; result:</p>
+<div class="highlight-python"><pre>between [ and ]            : cert="high"
+between ( and )            : cert ="high"
+with ?                     : cert="low"
+combination of []/() and ? : cert="low"
+
+resp attribute: only resp="EJB"</pre>
+</div>
+<p><tt class="docutils literal"><span class="pre">resp</span></tt> only occurs if we use metadata from Erik-Jan, and that occurs only in <em>senderloc</em> and <em>recipientloc</em>.</p>
+</div>
+<div class="section" id="formulas-revisited">
+<h3>Formulas (revisited)<a class="headerlink" href="#formulas-revisited" title="Permalink to this headline">¶</a></h3>
+<p>When parsing formulas, we sprinkle new, fancy symbols in the formula material that help us to
+chunk the formula in logical pieces, after which we can make the translation to TeX.
+We use some pretty weird regular expressions underway, and here is a show case:</p>
+<p><strong>identify formula candidates</strong>:</p>
+<div class="highlight-python"><pre>$n += $body =~ s/
+(
+    (?:\A | [.,:;!?&lt;&gt;⊂⊃'\s]+)
+    (?:
+        (?: \b
+                (?: bis |
+                    in  |
+                    aequat
+                )
+            (?!\p{Alpha})
+                                    ) | # multiletter symbols
+        (?: \#
+                (?: point |
+                    infinitum |
+                    cos1 |
+                    cos2
+                )
+            \#                      ) | # multiletter codes
+        (?: \#gre
+                .*?
+            \#end
+                                    ) | # greek
+        (?: □'[a-z][0-9]            ) | # special operators, such as sqrt
+        (?: □[Ÿƒ]                   ) | # other special operators
+        (?: □C?                     ) | # cubic-simple root symbol
+        (?: [º¿]                    ) | # other special operators
+        (?: [&amp;€]\p{Alpha}           ) | # variables
+        (?: [0-9]+                  ) | # digits
+        (?: [~\s]+                  ) | # white space
+        (?: [⌈⌉]                    ) | # italic markers
+        (?: [^&lt;&gt;○⊂⊃\p{Alnum}]       )   # operators, brackets, relations, and whatever,
+                                        #   NB ○○ (coming from @@) is not part of a formula
+                                        #   NB ⊂ and ⊃ (coming from #&lt; and &gt;#) is not part of a formula
+    ) {1,}
+    (?: \z|[.,:;!?&lt;&gt;⊂⊃'\s+])
+)
+/analyseformulas($amid, $1)/sgex;</pre>
+</div>
+<p><strong>getting the braces (grouping) right</strong>:</p>
+<div class="highlight-python"><pre>extra braces to constrain the scope of TeX's \over:  A + B/C + D =&gt; A + { B/C } + D
+
+$n = $newform =~ s/
+    (
+        (?:                                 # the piece before the division
+            (?:                             #   either a subexpression enclosed in braces
+                【
+                    [^÷【】]+               #       that does not contain other braces and divisions and extra braces
+                】
+            ) |
+            (?:                             #   either a subexpression enclosed in subbraces
+                〔
+                    [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
+                〕
+            ) |
+            (?:                             #   either a subexpression enclosed in parentheses
+                \(
+                    [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
+                \)
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ⌊
+                    [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
+                ⌋
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◐
+                    [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
+                ◑
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◀
+                    [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
+                ▶
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◁
+                    [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
+                ▷
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                〈
+                    [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
+                〉
+            ) |
+            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+                [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
+            )
+        )
+    )
+    (\s*÷\s*)                               # the division itself
+    (
+        (?:                                 # the piece after the division
+            (?:                             #   either a subexpression enclosed in braces
+                【
+                    [^÷【】]+               #       that does not contain other braces and divisions and extra braces
+                】
+            ) |
+            (?:                             #   either a subexpression enclosed in subbraces
+                〔
+                    [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
+                〕
+            ) |
+            (?:                             #   either a subexpression enclosed in parentheses
+                \(
+                    [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
+                \)
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ⌊
+                    [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
+                ⌋
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◐
+                    [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
+                ◑
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◀
+                    [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
+                ▶
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◁
+                    [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
+                ▷
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                〈
+                    [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
+                〉
+            ) |
+            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+                [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
+            )
+        )
+    )
+/addbraces($1,$2,$3)/sxge;</pre>
+</div>
+<p><strong>check whether all temporary symbols have been removed</strong>:</p>
+<div class="highlight-python"><pre>for my $symbol ([
+        '【',
+        '】',
+        '〔',
+        '〕',
+        '⊂',
+        '⊃',
+        '⌊',
+        '⌋',
+        '◀',
+        '▶',
+        '◁',
+        '▷',
+        '◐',
+        '◑',
+        '□',
+        'º',
+        '¿',
+        ['\\', 1],
+        ['/', 1],
+        '÷',
+        '|',
+        '~',
+        '#',
+        '€',
+        '&amp;',
+    ]) {
+    ...
+}</pre>
+</div>
+</div>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="index.html">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Convert.pl</a><ul>
+<li><a class="reference internal" href="#description">Description</a></li>
+<li><a class="reference internal" href="#authors">Authors</a></li>
+<li><a class="reference internal" href="#project">Project</a></li>
+<li><a class="reference internal" href="#timeframe-of-this-conversion">Timeframe of this conversion</a></li>
+<li><a class="reference internal" href="#provenance-of-the-source-data">Provenance of the source data</a></li>
+<li><a class="reference internal" href="#about-the-sources-and-results">About the sources and results</a></li>
+<li><a class="reference internal" href="#installation-instructions">Installation Instructions</a></li>
+<li><a class="reference internal" href="#environment">Environment</a></li>
+<li><a class="reference internal" href="#usage">Usage</a></li>
+<li><a class="reference internal" href="#conversion-steps">Conversion steps</a></li>
+<li><a class="reference internal" href="#source-observations">Source observations</a><ul>
+<li><a class="reference internal" href="#codes-with">codes with #...#</a></li>
+<li><a class="reference internal" href="#formulas">Formulas</a></li>
+<li><a class="reference internal" href="#italics">Italics</a></li>
+<li><a class="reference internal" href="#corrections">Corrections</a></li>
+<li><a class="reference internal" href="#headings">Headings</a></li>
+<li><a class="reference internal" href="#metadata-values">Metadata values</a></li>
+<li><a class="reference internal" href="#formulas-revisited">Formulas (revisited)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+
+  <h4>Previous topic</h4>
+  <p class="topless"><a href="index.html"
+                        title="previous chapter">descartes-tei documentation</a></p>
+  <h3>This Page</h3>
+  <ul class="this-page-menu">
+    <li><a href="_sources/convert.txt"
+           rel="nofollow">Show Source</a></li>
+  </ul>
+<div id="searchbox" style="display: none">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="index.html" title="descartes-tei documentation"
+             >previous</a> |</li>
+        <li><a href="index.html">descartes-tei 4.4 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer">
+        &copy; Copyright 2013, Dirk Roorda.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b3.
+    </div>
+  </body>
+</html>
