@@ -2,9 +2,6 @@ Convert.pl
 ==========
 Description
 -----------
-
-.. image:: descartes-tei.png
-
 Conversion development environment for converting the Descartes Corpus.
 
 Source format

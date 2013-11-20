@@ -1,6 +1,8 @@
 descartes-tei documentation
 ===========================
 
+.. image:: descartes-tei.png
+
 Contents:
 
 .. toctree::

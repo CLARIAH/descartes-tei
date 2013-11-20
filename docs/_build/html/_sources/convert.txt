@@ -9,6 +9,8 @@ Source format
 Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
 
+It was a messy conversion, but we had a lot of fun doing it!
+
 Authors 
 -------
 `Erik-Jan Bos <http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866>`_
