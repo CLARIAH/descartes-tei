@@ -1,7 +1,3 @@
-![descartes-tei](https://raw.github.com/dirkroorda/descartes-tei/master/docs/descartes-tei.png)
+![descartes-tei](https://raw.github.com/dirkroorda/descartes-tei/master/docs/files/descartes-tei.png)
 
-descartes-tei
-=============
-
-Conversion of complete letters by Descartes from legacy ascii to XML-TEI
-Read the docs at http://descartes-tei.readthedocs.org/en/latest/index.html
+[Read the docs](http://descartes-tei.readthedocs.org/en/latest/index.html)
