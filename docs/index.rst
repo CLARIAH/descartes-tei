@@ -1,7 +1,6 @@
 descartes-tei documentation
 ===========================
-
-.. image:: descartes-tei.png
+.. image:: /files/descartes-tei.png
 
 Contents:
 
