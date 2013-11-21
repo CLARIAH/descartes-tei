@@ -2,7 +2,7 @@ Convert.pl
 ==========
 Description
 -----------
-.. image:: Descartes.png
+.. image:: /files/Descartes.png
 
 Conversion development environment for converting the Descartes Corpus.
 
@@ -65,17 +65,17 @@ in the `dataset at DANS <https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:5
 (navigate to the file *ckcc-ead.xml* in the folder *original/data/Niet-DC-metadata/EAD*,
 screenshot
 
-.. image:: CKCC-EAD.png
+.. image:: /files/CKCC-EAD.png
 
 ).
 
 About the sources and results
 -----------------------------
-.. image:: desc-facsimile.png
+.. image:: /files/Desc-facsimile.png
 
-.. image:: japam.png
+.. image:: /files/Japam.png
 
-.. image:: desc-tei.png
+.. image:: /files/Desc-tei.png
 
 The script takes as input most of the material in the data directory (and subdirectories) and nothing else.
 The script produces its result files in subdirs of directory *results*:
