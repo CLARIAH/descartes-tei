@@ -1,55 +1,125 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    
-    <title>Convert.pl &mdash; descartes-tei 4.4 documentation</title>
-    
-    <link rel="stylesheet" href="_static/default.css" type="text/css" />
-    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
-    
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Convert.pl &mdash; Descartes to TEI 4.4 documentation</title>
+  
+
+  
+  
+
+  
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700' rel='stylesheet' type='text/css'>
+
+  
+  
+
     <script type="text/javascript">
       var DOCUMENTATION_OPTIONS = {
-        URL_ROOT:    './',
-        VERSION:     '4.4',
-        COLLAPSE_INDEX: false,
-        FILE_SUFFIX: '.html',
+        URL_ROOT:'./',
+        VERSION:'4.4',
+        COLLAPSE_INDEX:false,
+        FILE_SUFFIX:'.html',
         HAS_SOURCE:  true
       };
     </script>
-    <script type="text/javascript" src="_static/jquery.js"></script>
-    <script type="text/javascript" src="_static/underscore.js"></script>
-    <script type="text/javascript" src="_static/doctools.js"></script>
-    <link rel="top" title="descartes-tei 4.4 documentation" href="index.html" />
-    <link rel="prev" title="descartes-tei documentation" href="index.html" /> 
-  </head>
-  <body>
-    <div class="related">
-      <h3>Navigation</h3>
-      <ul>
-        <li class="right" style="margin-right: 10px">
-          <a href="genindex.html" title="General Index"
-             accesskey="I">index</a></li>
-        <li class="right" >
-          <a href="index.html" title="descartes-tei documentation"
-             accesskey="P">previous</a> |</li>
-        <li><a href="index.html">descartes-tei 4.4 documentation</a> &raquo;</li> 
-      </ul>
-    </div>  
+      <script type="text/javascript" src="_static/jquery.js"></script>
+      <script type="text/javascript" src="_static/underscore.js"></script>
+      <script type="text/javascript" src="_static/doctools.js"></script>
+      <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-    <div class="document">
-      <div class="documentwrapper">
-        <div class="bodywrapper">
-          <div class="body">
-            
+    
+
+  
+
+  
+  
+    <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+    <script type="text/javascript" src="_static/js/theme.js"></script>
+  
+
+  
+    <link rel="top" title="Descartes to TEI 4.4 documentation" href="index.html"/>
+        <link rel="prev" title="descartes-tei documentation" href="index.html"/> 
+
+  <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-nav-search">
+        <a href="index.html" class="icon icon-home"> Descartes to TEI</a>
+        <form id ="rtd-search-form" class="wy-form" action="search.html" method="get">
+  <input type="text" name="q" placeholder="Search docs" />
+  <input type="hidden" name="check_keywords" value="yes" />
+  <input type="hidden" name="area" value="default" />
+</form>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix">
+        
+        
+            <ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="">Convert.pl</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#description">Description</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#authors">Authors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#project">Project</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#timeframe-of-this-conversion">Timeframe of this conversion</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#provenance-of-the-source-data">Provenance of the source data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#about-the-sources-and-results">About the sources and results</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#installation-instructions">Installation Instructions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#environment">Environment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#usage">Usage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#conversion-steps">Conversion steps</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#source-observations">Source observations</a></li>
+</ul>
+</li>
+</ul>
+
+        
+      </div>
+      &nbsp;
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top">
+        <i data-toggle="wy-nav-top" class="icon icon-reorder"></i>
+        <a href="/">Descartes to TEI</a>
+      </nav>
+
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <ul class="wy-breadcrumbs">
+  <li><a href="index.html">Docs</a> &raquo;</li>
+  <li><a href="">Convert.pl</a></li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="_sources/convert.txt" rel="nofollow"> View page source</a>
+      
+    </li>
+</ul>
+<hr/>
+
+          
   <div class="section" id="convert-pl">
 <h1>Convert.pl<a class="headerlink" href="#convert-pl" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="description">
 <h2>Description<a class="headerlink" href="#description" title="Permalink to this headline">¶</a></h2>
-<img alt="files/Descartes.png" src="files/Descartes.png" />
+<img alt="_images/Descartes.png" src="_images/Descartes.png" />
 <p>Conversion development environment for converting the Descartes Corpus.</p>
 <dl class="docutils">
 <dt>Source format</dt>
@@ -105,14 +175,14 @@ editor: Charles Adam et Paul Tannery, Paris, Vrin, 1896-1911.</p>
 in the <a class="reference external" href="https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:55049/tab/2#">dataset at DANS</a>
 (navigate to the file <em>ckcc-ead.xml</em> in the folder <em>original/data/Niet-DC-metadata/EAD</em>,
 screenshot</p>
-<img alt="files/CKCC-EAD.png" src="files/CKCC-EAD.png" />
+<img alt="_images/CKCC-EAD.png" src="_images/CKCC-EAD.png" />
 <p>).</p>
 </div>
 <div class="section" id="about-the-sources-and-results">
 <h2>About the sources and results<a class="headerlink" href="#about-the-sources-and-results" title="Permalink to this headline">¶</a></h2>
-<img alt="files/Desc-facsimile.png" src="files/Desc-facsimile.png" />
-<img alt="files/Japam.png" src="files/Japam.png" />
-<img alt="files/Desc-tei.png" src="files/Desc-tei.png" />
+<img alt="_images/Desc-facsimile.png" src="_images/Desc-facsimile.png" />
+<img alt="_images/Japam.png" src="_images/Japam.png" />
+<img alt="_images/Desc-tei.png" src="_images/Desc-tei.png" />
 <p>The script takes as input most of the material in the data directory (and subdirectories) and nothing else.
 The script produces its result files in subdirs of directory <em>results</em>:</p>
 <dl class="docutils">
@@ -515,78 +585,31 @@ $n = $newform =~ s/
 </div>
 
 
-          </div>
-        </div>
-      </div>
-      <div class="sphinxsidebar">
-        <div class="sphinxsidebarwrapper">
-  <h3><a href="index.html">Table Of Contents</a></h3>
-  <ul>
-<li><a class="reference internal" href="#">Convert.pl</a><ul>
-<li><a class="reference internal" href="#description">Description</a></li>
-<li><a class="reference internal" href="#authors">Authors</a></li>
-<li><a class="reference internal" href="#project">Project</a></li>
-<li><a class="reference internal" href="#timeframe-of-this-conversion">Timeframe of this conversion</a></li>
-<li><a class="reference internal" href="#provenance-of-the-source-data">Provenance of the source data</a></li>
-<li><a class="reference internal" href="#about-the-sources-and-results">About the sources and results</a></li>
-<li><a class="reference internal" href="#installation-instructions">Installation Instructions</a></li>
-<li><a class="reference internal" href="#environment">Environment</a></li>
-<li><a class="reference internal" href="#usage">Usage</a></li>
-<li><a class="reference internal" href="#conversion-steps">Conversion steps</a></li>
-<li><a class="reference internal" href="#source-observations">Source observations</a><ul>
-<li><a class="reference internal" href="#codes-with">codes with #...#</a></li>
-<li><a class="reference internal" href="#formulas">Formulas</a></li>
-<li><a class="reference internal" href="#italics">Italics</a></li>
-<li><a class="reference internal" href="#corrections">Corrections</a></li>
-<li><a class="reference internal" href="#headings">Headings</a></li>
-<li><a class="reference internal" href="#metadata-values">Metadata values</a></li>
-<li><a class="reference internal" href="#formulas-revisited">Formulas (revisited)</a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
+          <footer>
+  
+    <div class="rst-footer-buttons">
+      
+      
+        <a href="index.html" class="btn btn-neutral" title="descartes-tei documentation"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+      
+    </div>
+  
 
-  <h4>Previous topic</h4>
-  <p class="topless"><a href="index.html"
-                        title="previous chapter">descartes-tei documentation</a></p>
-  <h3>This Page</h3>
-  <ul class="this-page-menu">
-    <li><a href="_sources/convert.txt"
-           rel="nofollow">Show Source</a></li>
-  </ul>
-<div id="searchbox" style="display: none">
-  <h3>Quick search</h3>
-    <form class="search" action="search.html" method="get">
-      <input type="text" name="q" />
-      <input type="submit" value="Go" />
-      <input type="hidden" name="check_keywords" value="yes" />
-      <input type="hidden" name="area" value="default" />
-    </form>
-    <p class="searchtip" style="font-size: 90%">
-    Enter search terms or a module, class or function name.
-    </p>
-</div>
-<script type="text/javascript">$('#searchbox').show(0);</script>
+  <hr/>
+
+  <p>
+      &copy; Copyright 2012, Dirk Roorda.
+  </p>
+
+  <a href="https://www.github.com/snide/sphinx_rtd_theme">Sphinx theme</a> provided by <a href="http://readthedocs.org">Read the Docs</a>
+</footer>
         </div>
       </div>
-      <div class="clearer"></div>
-    </div>
-    <div class="related">
-      <h3>Navigation</h3>
-      <ul>
-        <li class="right" style="margin-right: 10px">
-          <a href="genindex.html" title="General Index"
-             >index</a></li>
-        <li class="right" >
-          <a href="index.html" title="descartes-tei documentation"
-             >previous</a> |</li>
-        <li><a href="index.html">descartes-tei 4.4 documentation</a> &raquo;</li> 
-      </ul>
-    </div>
-    <div class="footer">
-        &copy; Copyright 2013, Dirk Roorda.
-      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b3.
-    </div>
-  </body>
+
+    </section>
+
+  </div>
+  
+
+</body>
 </html>
