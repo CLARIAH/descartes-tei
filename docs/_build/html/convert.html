@@ -225,11 +225,11 @@ File::Copy.</dd>
 After unzipping the package of which this script is part, adjust the configuration section marked with:</p>
 <div class="highlight-python"><pre># o-o-o BEGIN CUSTOMISE o-o-o #
 
-my $rootdir = '/Users/dirk/Data/DANS/projects/CKCC/descartes';
-my $versiondir = '2012-01-17';
+my $rootdir = &#x27;/Users/dirk/Data/DANS/projects/CKCC/descartes&#x27;;
+my $versiondir = &#x27;2012-01-17&#x27;;
 
-#my $formulaformat = 'svg';
-my $formulaformat = 'gif';
+#my $formulaformat = &#x27;svg&#x27;;
+my $formulaformat = &#x27;gif&#x27;;
 
 # o-o-o END   CUSTOMISE o-o-o #</pre>
 </div>
@@ -328,7 +328,7 @@ indactions how we treated those.</p>
 
 &lt;nt ...&gt; &lt;nt1 ...&gt;  Marginal indicators. Some have been recoded as &lt;mt A-Z&gt;
                     others have been transformed into normal text.
-&lt;mt A-Z&gt;            In fact a marginal note, coming from &lt;nt(1)&gt; by Erik-Jan and Dirk: &lt;add place="margin"&gt;A-Z&lt;/margin&gt;
+&lt;mt A-Z&gt;            In fact a marginal note, coming from &lt;nt(1)&gt; by Erik-Jan and Dirk: &lt;add place=&quot;margin&quot;&gt;A-Z&lt;/margin&gt;
 &lt;g&gt;                 gauche (left align, left column)
 &lt;c&gt;                 centre (mid align, mid column);
 &lt;d&gt;                 droite (right align, right column);
@@ -343,13 +343,13 @@ In order to translate them into TeX, we need to comprehend first the way they ar
 It was very hard to do that in one step, so we prepared the way by changing some symbols to others,
 removing some ambiguities in the process.</p>
 <p><strong>pattern interpretation</strong>:</p>
-<div class="highlight-python"><pre>" ... "             grouping
-‚" ... ‚"           nested grouping
-\'d9 .... \'c4      squareroot
-\'d9 .... \'e4      also a squareroot, I think
-\'f9 .... \'e4      also a squareroot, I think
+<div class="highlight-python"><pre>&quot; ... &quot;             grouping
+‚&quot; ... ‚&quot;           nested grouping
+\&#x27;d9 .... \&#x27;c4      squareroot
+\&#x27;d9 .... \&#x27;e4      also a squareroot, I think
+\&#x27;f9 .... \&#x27;e4      also a squareroot, I think
 \Ÿ .... \ƒ          sqareroot (genest)
-\" .... "           sqareroot (genest)
+\&quot; .... &quot;           sqareroot (genest)
 \                   also a squareroot, but simple, only over next symbol(group)
 \C                  cubic root, only once!
 ÷                   in TeX: \over (much ado with braces), outside TeX: simply /
@@ -395,12 +395,12 @@ That effect can be achieved by letting the paragraph start with <strong>space sp
 <h3>Metadata values<a class="headerlink" href="#metadata-values" title="Permalink to this headline">¶</a></h3>
 <p>About the certainty of metadata values (sender, recipient, location, time).</p>
 <p>Pattern =&gt; result:</p>
-<div class="highlight-python"><pre>between [ and ]            : cert="high"
-between ( and )            : cert ="high"
-with ?                     : cert="low"
-combination of []/() and ? : cert="low"
+<div class="highlight-python"><pre>between [ and ]            : cert=&quot;high&quot;
+between ( and )            : cert =&quot;high&quot;
+with ?                     : cert=&quot;low&quot;
+combination of []/() and ? : cert=&quot;low&quot;
 
-resp attribute: only resp="EJB"</pre>
+resp attribute: only resp=&quot;EJB&quot;</pre>
 </div>
 <p><tt class="docutils literal"><span class="pre">resp</span></tt> only occurs if we use metadata from Erik-Jan, and that occurs only in <em>senderloc</em> and <em>recipientloc</em>.</p>
 </div>
@@ -412,7 +412,7 @@ We use some pretty weird regular expressions underway, and here is a show case:<
 <p><strong>identify formula candidates</strong>:</p>
 <div class="highlight-python"><pre>$n += $body =~ s/
 (
-    (?:\A | [.,:;!?&lt;&gt;⊂⊃'\s]+)
+    (?:\A | [.,:;!?&lt;&gt;⊂⊃&#x27;\s]+)
     (?:
         (?: \b
                 (?: bis |
@@ -432,7 +432,7 @@ We use some pretty weird regular expressions underway, and here is a show case:<
                 .*?
             \#end
                                     ) | # greek
-        (?: □'[a-z][0-9]            ) | # special operators, such as sqrt
+        (?: □&#x27;[a-z][0-9]            ) | # special operators, such as sqrt
         (?: □[Ÿƒ]                   ) | # other special operators
         (?: □C?                     ) | # cubic-simple root symbol
         (?: [º¿]                    ) | # other special operators
@@ -444,12 +444,12 @@ We use some pretty weird regular expressions underway, and here is a show case:<
                                         #   NB ○○ (coming from @@) is not part of a formula
                                         #   NB ⊂ and ⊃ (coming from #&lt; and &gt;#) is not part of a formula
     ) {1,}
-    (?: \z|[.,:;!?&lt;&gt;⊂⊃'\s+])
+    (?: \z|[.,:;!?&lt;&gt;⊂⊃&#x27;\s+])
 )
 /analyseformulas($amid, $1)/sgex;</pre>
 </div>
 <p><strong>getting the braces (grouping) right</strong>:</p>
-<div class="highlight-python"><pre>extra braces to constrain the scope of TeX's \over:  A + B/C + D =&gt; A + { B/C } + D
+<div class="highlight-python"><pre>extra braces to constrain the scope of TeX&#x27;s \over:  A + B/C + D =&gt; A + { B/C } + D
 
 $n = $newform =~ s/
     (
@@ -494,7 +494,7 @@ $n = $newform =~ s/
                     [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
                 〉
             ) |
-            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+            (?:                             #   or an &quot;atomic&quot; subexpression (no braces, brackets, spaces, divisions
                 [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
             )
         )
@@ -542,7 +542,7 @@ $n = $newform =~ s/
                     [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
                 〉
             ) |
-            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+            (?:                             #   or an &quot;atomic&quot; subexpression (no braces, brackets, spaces, divisions
                 [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
             )
         )
@@ -551,31 +551,31 @@ $n = $newform =~ s/
 </div>
 <p><strong>check whether all temporary symbols have been removed</strong>:</p>
 <div class="highlight-python"><pre>for my $symbol ([
-        '【',
-        '】',
-        '〔',
-        '〕',
-        '⊂',
-        '⊃',
-        '⌊',
-        '⌋',
-        '◀',
-        '▶',
-        '◁',
-        '▷',
-        '◐',
-        '◑',
-        '□',
-        'º',
-        '¿',
-        ['\\', 1],
-        ['/', 1],
-        '÷',
-        '|',
-        '~',
-        '#',
-        '€',
-        '&amp;',
+        &#x27;【&#x27;,
+        &#x27;】&#x27;,
+        &#x27;〔&#x27;,
+        &#x27;〕&#x27;,
+        &#x27;⊂&#x27;,
+        &#x27;⊃&#x27;,
+        &#x27;⌊&#x27;,
+        &#x27;⌋&#x27;,
+        &#x27;◀&#x27;,
+        &#x27;▶&#x27;,
+        &#x27;◁&#x27;,
+        &#x27;▷&#x27;,
+        &#x27;◐&#x27;,
+        &#x27;◑&#x27;,
+        &#x27;□&#x27;,
+        &#x27;º&#x27;,
+        &#x27;¿&#x27;,
+        [&#x27;\\&#x27;, 1],
+        [&#x27;/&#x27;, 1],
+        &#x27;÷&#x27;,
+        &#x27;|&#x27;,
+        &#x27;~&#x27;,
+        &#x27;#&#x27;,
+        &#x27;€&#x27;,
+        &#x27;&amp;&#x27;,
     ]) {
     ...
 }</pre>
