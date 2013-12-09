@@ -54,21 +54,21 @@ latex_elements = {
 }
 
 latex_documents = [
-  ('index', 'Descartes to TEI.tex', u'Descartes to TEI Documentation',
+  ('index', 'Descartes_to_TEI.tex', u'Descartes to TEI Documentation',
    u'Dirk Roorda', 'manual'),
 ]
 
 # -- Options for manual page output ---------------------------------------
 
 man_pages = [
-    ('index', 'Descartes to TEI', u'Descartes to TEI Documentation',
+    ('index', 'Descartes_to_TEI', u'Descartes to TEI Documentation',
      [u'Dirk Roorda'], 1)
 ]
 
 # -- Options for Texinfo output -------------------------------------------
 
 texinfo_documents = [
-  ('index', 'Descartes to TEI', u'Descartes to TEI Documentation',
+  ('index', 'Descartes_to_TEI', u'Descartes to TEI Documentation',
    u'Dirk Roorda', 'Descartes to TEI', 'One line description of project.',
    'Miscellaneous'),
 ]
@@ -79,7 +79,7 @@ epub_title = u'Descartes to TEI'
 epub_author = u'Dirk Roorda'
 epub_publisher = u'Dirk Roorda'
 epub_copyright = u'2012, Dirk Roorda'
-epub_basename = u'Descartes to TEI'
+epub_basename = u'Descartes_to_TEI'
 epub_theme = 'epub'
 epub_show_urls = 'footnote'
 epub_use_index = True
