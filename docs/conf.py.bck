@@ -13,7 +13,10 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
+    'sphinx.ext.intersphinx',
 ]
+
+intersphinx_mapping = {'python': ('http://docs.python.org/3.3', None)}
 
 templates_path = ['_templates']
 source_suffix = '.rst'
@@ -21,7 +24,7 @@ master_doc = 'index'
 project = u'Descartes to TEI'
 copyright = u'2012, Dirk Roorda'
 version = '4.4'
-release = '4.4'
+release = '4.4.5'
 exclude_patterns = ['_build']
 add_function_parentheses = True
 add_module_names = False
@@ -69,7 +72,7 @@ man_pages = [
 
 texinfo_documents = [
   ('index', 'Descartes_to_TEI', u'Descartes to TEI Documentation',
-   u'Dirk Roorda', 'Descartes to TEI', 'One line description of project.',
+   u'Dirk Roorda', 'Descartes to TEI', 'One line description of project_name.',
    'Miscellaneous'),
 ]
 
