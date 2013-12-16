@@ -12,6 +12,8 @@ Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
 
 It was a messy conversion, but we had a lot of fun doing it!
+See also this
+`presentation <http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned>`_.
 
 Authors 
 -------
