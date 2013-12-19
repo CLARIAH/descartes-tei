@@ -1,5 +1,5 @@
-descartes-tei documentation
-===========================
+descartes-tei |version|
+=======================
 .. image:: /files/descartes-tei.png
 
 Contents:
