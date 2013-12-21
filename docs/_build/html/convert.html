@@ -127,19 +127,24 @@
 <dt>Target format</dt>
 <dd>(pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.</dd>
 </dl>
-<p>It was a messy conversion, but we had a lot of fun doing it!
-See also this
-<a class="reference external" href="http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned">presentation</a>.</p>
 </div>
 <div class="section" id="authors">
 <h2>Authors<a class="headerlink" href="#authors" title="Permalink to this headline">¶</a></h2>
 <dl class="docutils">
 <dt><a class="reference external" href="http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866">Erik-Jan Bos</a></dt>
-<dd>Expert on Descartes and his works.
-Found the source data, supplied additional metadata from his own database.</dd>
+<dd>Formerly at Utrecht University (<a class="reference external" href="http://www.descartescentre.com">Descartes Centre, University of Utrecht</a>),
+now (late 2013) at <a class="reference external" href="http://www.ens-lyon.eu">École normale supérieure de Lyon</a>.
+Expert on Descartes and his works.
+Received permission to use the source data, nicknamed JapAM, and
+supplied additional metadata from his own database.</dd>
 <dt><a class="reference external" href="http://www.linkedin.com/in/dirkroorda">Dirk Roorda</a></dt>
-<dd>Expert in converting, wrote the conversion program.</dd>
+<dd><a class="reference external" href="http://www.dans.knaw.nl/en">Data Archiving and Networked Services (DANS)</a> and now also at <a class="reference external" href="http://tla.mpi.nl">The Language Archive</a>.
+Expert in converting, wrote the conversion program.</dd>
 </dl>
+<p>It was a messy conversion, but we had a lot of fun doing it!
+See also these presentations held at the <a class="reference external" href="http://www.ehumanities.nl">eHumanities lecture series Amsterdam</a>:
+<a class="reference external" href="http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned">dirk</a>
+<a class="reference external" href="https://github.com/dirkroorda/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx">Erik-Jan</a>.</p>
 </div>
 <div class="section" id="project">
 <h2>Project<a class="headerlink" href="#project" title="Permalink to this headline">¶</a></h2>
@@ -149,7 +154,7 @@ Hugo Grotius, Constantijn Huygens, Christiaan Huygens, Anthoni van Leeuwenhoek
 and others.</p>
 <p>The result of the project is the <a class="reference external" href="http://ckcc.huygens.knaw.nl/epistolarium/">ePistolarium</a>
 an online environment to do research on these letters.</p>
-<p>The data has been archived at DANS, and will be Open Access available from Mid December 2013:
+<p>The data has been archived at DANS, and is Open Access available since 16 December 2013:
 The archived CKCC dataset at DANS has the persistent identifier
 <a class="reference external" href="http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji">urn:nbn:nl:ui:13-scpm-ji</a>.</p>
 </div>
@@ -167,10 +172,11 @@ Current date: 2012-01-17</p>
 <li>Takehumi Tokoro (University of Chyuo) 1998</li>
 </ul>
 <p>This file is in a private ASCII encoding using characters 32-254, with identifier JAPAM.txt.</p>
-<p>It was received on CD by Erik-Jan Bos and in 2011 converted by
-* Erik-Jan Bos (then <a class="reference external" href="http://www.descartescentre.com">Descartes Centre, University of Utrecht</a>)
-* Dirk Roorda (<a class="reference external" href="http://www.dans.knaw.nl/en">Data Archiving and Networked Services (DANS)</a>)</p>
-<p>The conversion result (file <em>JapAM-EJB-DR.xml</em>) is XML-TEI.</p>
+<p>It was received on CD by Erik-Jan Bos and in 2011 and hence converted by a program
+developed by Dirk. This program evolved into something quite complex through ongoing analysis and
+additional input by Erik-Jan.</p>
+<p>The result (file <em>JapAM-EJB-DR.xml</em>) is in XML-TEI format.
+The conversion from source to result can still be executed.</p>
 <p>The illustrations are taken from <em>Oeuvres de Descartes, 11 vols.,</em>,
 editor: Charles Adam et Paul Tannery, Paris, Vrin, 1896-1911.</p>
 <p>The complete metadata of the CKCC material can be found
@@ -191,7 +197,7 @@ The script produces its result files in subdirs of directory <em>results</em>:</
 <dt>texts:</dt>
 <dd>converted texts (end result and all intermediate stages)</dd>
 <dt>messages:</dt>
-<dd>per conversion step:  information of what has been encountered, warnings, errors</dd>
+<dd>per conversion step: information of what has been encountered, warnings, errors</dd>
 <dt>review:</dt>
 <dd>selected information extracted from inut and result, to be checked.
 Corrected version must be manually copied to the data directory in order to be included in a next conversion run.</dd>
@@ -205,7 +211,7 @@ Corrected version must be manually copied to the data directory in order to be i
 <h2>Installation Instructions<a class="headerlink" href="#installation-instructions" title="Permalink to this headline">¶</a></h2>
 <p>This is a nearly self contained Perl Script, it does not call other user-developed Perl modules.
 It does call TeX and related programs, though.
-It requires, however, some modules that might have to been added to the perl installation.</p>
+It requires, however, some modules that might have to be added to the perl installation.</p>
 <dl class="docutils">
 <dt>These are::</dt>
 <dd>Time
@@ -213,7 +219,8 @@ Time::HiRes
 File::Path
 File::Copy.</dd>
 </dl>
-<p>The script calls programs from the TeXLive distribution. Make sure the following commands can be run from the command-line:</p>
+<p>The script calls programs from the TeXLive distribution.
+Make sure the following commands can be run from the command-line:</p>
 <div class="highlight-python"><div class="highlight"><pre><span class="n">tex</span>
 <span class="n">xetex</span>
 <span class="n">dvipng</span>
@@ -250,15 +257,15 @@ my $formulaformat = &#x27;gif&#x27;;
 <li>If <tt class="docutils literal"><span class="pre">taskname2</span></tt> is omitted, continue till the last task.</li>
 <li>If the <tt class="docutils literal"><span class="pre">-</span></tt> is omitted and also one of <tt class="docutils literal"><span class="pre">taskname1</span></tt> or <tt class="docutils literal"><span class="pre">taskname2</span></tt>, execute the specified task only</li>
 </ul>
-<p>The script must be run from the commandline, positioned in the directory of this script.</p>
+<p>The script must be run from the command line, positioned in the directory of this script.</p>
 </div>
 <div class="section" id="conversion-steps">
 <h2>Conversion steps<a class="headerlink" href="#conversion-steps" title="Permalink to this headline">¶</a></h2>
 <p>The full conversion is complex, because there are a lot of phenomena to deal with.
 That is why the conversion has been split up in a sequence of conversion steps.
-Each steps read as input the outcome of a previous step.
-All intermediate results are written to disk, so the conversion steps can be checked thoroughly
-and effectively.</p>
+Each step reads as input the outcome of a previous step.
+All intermediate results are written to disk,
+so the conversion steps can be checked thoroughly and effectively.</p>
 <p>Sometimes steps take other inputs as well, e.g. manually prepared instructions.
 These instructions are sometimes based on the output of a previous step, and then
 manually corrected by Erik-Jan.</p>
@@ -374,9 +381,11 @@ removing some ambiguities in the process.</p>
 </div>
 <div class="section" id="italics">
 <h3>Italics<a class="headerlink" href="#italics" title="Permalink to this headline">¶</a></h3>
-<p>I remove all italic scopes out of formulas, because what is italic and not is governed by rules.
-* Formulas outside TeX: no italic.
-* Formulas inside TeX: follow the TeX rules.</p>
+<p>I remove all italic scopes out of formulas, because what is italic and not is governed by rules.</p>
+<ul class="simple">
+<li>Formulas outside TeX: no italic.</li>
+<li>Formulas inside TeX: follow the TeX rules.</li>
+</ul>
 </div>
 <div class="section" id="corrections">
 <h3>Corrections<a class="headerlink" href="#corrections" title="Permalink to this headline">¶</a></h3>
@@ -386,11 +395,14 @@ See the lines starting with <tt class="docutils literal"><span class="pre">!</sp
 </div>
 <div class="section" id="headings">
 <h3>Headings<a class="headerlink" href="#headings" title="Permalink to this headline">¶</a></h3>
-<p><strong>space space</strong> starts a paragraph, in JapAM. Sometimes we need to start a heading:</p>
-<p><strong>space space §h4§ space</strong> will start a heading.</p>
+<p><strong>space space</strong>
+starts a paragraph, in JapAM. Sometimes we need to start a heading:</p>
+<p><strong>space space §h4§ space</strong>
+will start a heading.</p>
 <p>It will be translated to a normal <tt class="docutils literal"><span class="pre">&lt;p&gt;</span></tt> element, but with the text in a <tt class="docutils literal"><span class="pre">&lt;hi</span> <span class="pre">rend=&quot;h4&quot;&gt;</span></tt> subelement.
 Any other text than h4 will translate into the value of the rend attribute.</p>
-<p><strong>``&lt;div type=&#8221;para&#8221;&gt;``</strong> Sometimes a paragraph should be surrounded by a <tt class="docutils literal"><span class="pre">&lt;div</span> <span class="pre">type=&quot;para&quot;&gt;</span> <span class="pre">..</span> <span class="pre">&lt;/div&gt;</span></tt>.
+<p><strong>``&lt;div type=&#8221;para&#8221;&gt;``</strong>
+Sometimes a paragraph should be surrounded by a <tt class="docutils literal"><span class="pre">&lt;div</span> <span class="pre">type=&quot;para&quot;&gt;</span> <span class="pre">..</span> <span class="pre">&lt;/div&gt;</span></tt>.
 That effect can be achieved by letting the paragraph start with <strong>space space ±</strong></p>
 </div>
 <div class="section" id="metadata-values">

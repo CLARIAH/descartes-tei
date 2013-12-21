@@ -11,17 +11,22 @@ Source format
 Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
 
-It was a messy conversion, but we had a lot of fun doing it!
-See also this
-`presentation <http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned>`_.
-
 Authors 
 -------
 `Erik-Jan Bos <http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866>`_
+    Formerly at Utrecht University (`Descartes Centre, University of Utrecht <http://www.descartescentre.com>`_),
+    now (late 2013) at `École normale supérieure de Lyon <http://www.ens-lyon.eu>`_.
     Expert on Descartes and his works.
-    Found the source data, supplied additional metadata from his own database.
+    Received permission to use the source data, nicknamed JapAM, and 
+    supplied additional metadata from his own database.
 `Dirk Roorda <http://www.linkedin.com/in/dirkroorda>`_
+    `Data Archiving and Networked Services (DANS) <http://www.dans.knaw.nl/en>`_ and now also at `The Language Archive <http://tla.mpi.nl>`_.
     Expert in converting, wrote the conversion program.
+
+It was a messy conversion, but we had a lot of fun doing it!
+See also these presentations held at the `eHumanities lecture series Amsterdam <http://www.ehumanities.nl>`_:
+`dirk <http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned>`_
+`Erik-Jan <https://github.com/dirkroorda/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx>`_.
 
 Project
 -------
@@ -34,7 +39,7 @@ and others.
 The result of the project is the `ePistolarium <http://ckcc.huygens.knaw.nl/epistolarium/>`_ 
 an online environment to do research on these letters.
 
-The data has been archived at DANS, and will be Open Access available from Mid December 2013:
+The data has been archived at DANS, and is Open Access available since 16 December 2013:
 The archived CKCC dataset at DANS has the persistent identifier
 `urn:nbn:nl:ui:13-scpm-ji <http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji>`_.
 
@@ -53,11 +58,12 @@ The source data (the file *JapAM.txt*) is a file created in 1998 by
 
 This file is in a private ASCII encoding using characters 32-254, with identifier JAPAM.txt.
 
-It was received on CD by Erik-Jan Bos and in 2011 converted by
-* Erik-Jan Bos (then `Descartes Centre, University of Utrecht <http://www.descartescentre.com>`_)
-* Dirk Roorda (`Data Archiving and Networked Services (DANS) <http://www.dans.knaw.nl/en>`_)
+It was received on CD by Erik-Jan Bos and in 2011 and hence converted by a program
+developed by Dirk. This program evolved into something quite complex through ongoing analysis and 
+additional input by Erik-Jan. 
 
-The conversion result (file *JapAM-EJB-DR.xml*) is XML-TEI.
+The result (file *JapAM-EJB-DR.xml*) is in XML-TEI format.
+The conversion from source to result can still be executed.
 
 The illustrations are taken from *Oeuvres de Descartes, 11 vols.,*,
 editor: Charles Adam et Paul Tannery, Paris, Vrin, 1896-1911.
@@ -85,7 +91,7 @@ The script produces its result files in subdirs of directory *results*:
 texts:
     converted texts (end result and all intermediate stages)
 messages:
-    per conversion step:  information of what has been encountered, warnings, errors 
+    per conversion step: information of what has been encountered, warnings, errors 
 review:
     selected information extracted from inut and result, to be checked.
     Corrected version must be manually copied to the data directory in order to be included in a next conversion run.
@@ -98,7 +104,7 @@ Installation Instructions
 -------------------------
 This is a nearly self contained Perl Script, it does not call other user-developed Perl modules.
 It does call TeX and related programs, though.
-It requires, however, some modules that might have to been added to the perl installation.
+It requires, however, some modules that might have to be added to the perl installation.
 
 These are::
     Time
@@ -106,7 +112,8 @@ These are::
     File::Path
     File::Copy.
 
-The script calls programs from the TeXLive distribution. Make sure the following commands can be run from the command-line::
+The script calls programs from the TeXLive distribution.
+Make sure the following commands can be run from the command-line::
 
     tex
     xetex
@@ -146,15 +153,15 @@ The second form does all tasks from ``taskname1`` til (including) ``taskname2``.
 * If ``taskname2`` is omitted, continue till the last task.
 * If the ``-`` is omitted and also one of ``taskname1`` or ``taskname2``, execute the specified task only
 
-The script must be run from the commandline, positioned in the directory of this script.
+The script must be run from the command line, positioned in the directory of this script.
 
 Conversion steps
 ----------------
 The full conversion is complex, because there are a lot of phenomena to deal with.
 That is why the conversion has been split up in a sequence of conversion steps.
-Each steps read as input the outcome of a previous step.
-All intermediate results are written to disk, so the conversion steps can be checked thoroughly
-and effectively.
+Each step reads as input the outcome of a previous step.
+All intermediate results are written to disk,
+so the conversion steps can be checked thoroughly and effectively.
 
 Sometimes steps take other inputs as well, e.g. manually prepared instructions.
 These instructions are sometimes based on the output of a previous step, and then
@@ -278,6 +285,7 @@ removing some ambiguities in the process.
 Italics
 ^^^^^^^
 I remove all italic scopes out of formulas, because what is italic and not is governed by rules.
+
 * Formulas outside TeX: no italic.
 * Formulas inside TeX: follow the TeX rules.
 
@@ -289,14 +297,17 @@ See the lines starting with ``!`` (after the leading number) in the JapAM source
 
 Headings
 ^^^^^^^^
-**space space** starts a paragraph, in JapAM. Sometimes we need to start a heading:
+**space space**
+starts a paragraph, in JapAM. Sometimes we need to start a heading:
 
-**space space §h4§ space** will start a heading. 
+**space space §h4§ space**
+will start a heading. 
 
 It will be translated to a normal ``<p>`` element, but with the text in a ``<hi rend="h4">`` subelement.
 Any other text than h4 will translate into the value of the rend attribute.
 
-**``<div type="para">``** Sometimes a paragraph should be surrounded by a ``<div type="para"> .. </div>``.
+**``<div type="para">``**
+Sometimes a paragraph should be surrounded by a ``<div type="para"> .. </div>``.
 That effect can be achieved by letting the paragraph start with **space space ±**
 
 Metadata values
