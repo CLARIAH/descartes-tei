@@ -7,7 +7,8 @@ Description
 Conversion development environment for converting the Descartes Corpus.
 
 Source format
-    the JapAM edition: plain unicode text with line numbers plus illustrations in gif.
+    * the JapAM edition: plain unicode text with line numbers
+    * illustrations in gif taken from *Oeuvres de Descartes*, Adam and Tannery, 1911
 Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
 
