@@ -27,7 +27,7 @@ Authors
 It was a messy conversion, but we had a lot of fun doing it!
 See also these presentations held at the `eHumanities lecture series Amsterdam <http://www.ehumanities.nl>`_:
 `dirk <http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned>`_
-`Erik-Jan <https://github.com/dirkroorda/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx>`_.
+`Erik-Jan <https://github.com/Dans-labs/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx>`_.
 
 Project
 -------
