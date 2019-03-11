@@ -1,8 +1,8 @@
-Convert.pl
-==========
-Description
------------
-.. image:: /files/Descartes.png
+# Convert.pl
+
+## Description
+
+![img](files/Descartes.png)
 
 Conversion development environment for converting the Descartes Corpus.
 
@@ -12,45 +12,46 @@ Source format
 Target format
     (pseudo) TEI, plus TeX-typeset formulas in gif, plus extra symbols in gif/png, plus same illustrations in gif.
 
-Authors 
--------
-`Erik-Jan Bos <http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866>`_
-    Formerly at Utrecht University (`Descartes Centre, University of Utrecht <http://www.descartescentre.com>`_),
-    now (late 2013) at `École normale supérieure de Lyon <http://www.ens-lyon.eu>`_.
-    Expert on Descartes and his works.
-    Received permission to use the source data, nicknamed JapAM, and 
-    supplied additional metadata from his own database.
-`Dirk Roorda <http://www.linkedin.com/in/dirkroorda>`_
-    `Data Archiving and Networked Services (DANS) <http://www.dans.knaw.nl/en>`_ and now also at `The Language Archive <http://tla.mpi.nl>`_.
-    Expert in converting, wrote the conversion program.
+## Authors 
+
+* [Erik-Jan Bos](http://fr.linkedin.com/pub/erik-jan-bos/1b/b12/866)
+  Formerly at Utrecht University [Descartes Centre, University of Utrecht](http://www.descartescentre.com],
+  (late 2013) at [École normale supérieure de Lyon](http://www.ens-lyon.eu),
+  now (2019) at [Radboud University Nijmegen](https://www.ru.nl/personen/bos-j-j/)
+  Expert on Descartes and his works.
+  Received permission to use the source data, nicknamed JapAM, and 
+  supplied additional metadata from his own database.
+* [Dirk Roorda](http://www.linkedin.com/in/dirkroorda)
+  [Data Archiving and Networked Services -DANS](http://www.dans.knaw.nl/en) and in 2013 also at [The Language Archive](http://tla.mpi.nl).
+  Expert in converting, wrote the conversion program.
 
 It was a messy conversion, but we had a lot of fun doing it!
-See also these presentations held at the `eHumanities lecture series Amsterdam <http://www.ehumanities.nl>`_:
-`dirk <http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned>`_
-`Erik-Jan <https://github.com/Dans-labs/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx>`_.
+See also these presentations held at the [eHumanities lecture series Amsterdam](http://www.ehumanities.nl):
+[dirk](http://www.slideshare.net/dirkroorda/2012-ehumanities-amsterdam-descartes-text-conversion-lessons-learned)
+[Erik-Jan](https://github.com/Dans-labs/descartes-tei/blob/master/slides/eR%20Descartes%202012.pptx).
 
-Project
--------
-`CKCC (Circulation of Knowledge ... Collaboratory of Correspondences) <http://www.huygens.knaw.nl/en/ckcc-%E2%80%9Cgeleerdenbrieven%E2%80%9D/>`_
+## Project
+
+[CKCC (Circulation of Knowledge ... Collaboratory of Correspondences)](http://www.huygens.knaw.nl/en/ckcc-%E2%80%9Cgeleerdenbrieven%E2%80%9D/)
 
 The Descartes letters were part of this project, which also contains letters by
 Hugo Grotius, Constantijn Huygens, Christiaan Huygens, Anthoni van Leeuwenhoek
 and others.
 
-The result of the project is the `ePistolarium <http://ckcc.huygens.knaw.nl/epistolarium/>`_ 
+The result of the project is the [ePistolarium](http://ckcc.huygens.knaw.nl/epistolarium/) 
 an online environment to do research on these letters.
 
 The data has been archived at DANS, and is Open Access available since 16 December 2013:
 The archived CKCC dataset at DANS has the persistent identifier
-`urn:nbn:nl:ui:13-scpm-ji <http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji>`_.
+[urn:nbn:nl:ui:13-scpm-ji](http://www.persistent-identifier.nl/?identifier=urn%3Anbn%3Anl%3Aui%3A13-scpm-ji).
 
-Timeframe of this conversion
-----------------------------
+## Timeframe of this conversion
+
 2011, October-December
 Current date: 2012-01-17
  
-Provenance of the source data
------------------------------
+## Provenance of the source data
+
 The source data (the file *JapAM.txt*) is a file created in 1998 by
 
 * Katsuzo Murakami (University of Tokyo)
@@ -70,63 +71,64 @@ The illustrations are taken from *Oeuvres de Descartes, 11 vols.,*,
 editor: Charles Adam et Paul Tannery, Paris, Vrin, 1896-1911.
 
 The complete metadata of the CKCC material can be found
-in the `dataset at DANS <https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:55049/tab/2#>`_
+in the [dataset at DANS](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:55049/tab/2#)
 (navigate to the file *ckcc-ead.xml* in the folder *original/data/Niet-DC-metadata/EAD*,
 screenshot
 
-.. image:: /files/CKCC-EAD.png
+![img](files/CKCC-EAD.png)
 
 ).
 
-About the sources and results
------------------------------
-.. image:: /files/Desc-facsimile.png
+## About the sources and results
 
-.. image:: /files/Japam.png
+![img](files/Desc-facsimile.png)
 
-.. image:: /files/Desc-tei.png
+![img](files/Japam.png)
+
+![img](files/Desc-tei.png)
 
 The script takes as input most of the material in the data directory (and subdirectories) and nothing else.
 The script produces its result files in subdirs of directory *results*:
 
-texts:
-    converted texts (end result and all intermediate stages)
-messages:
-    per conversion step: information of what has been encountered, warnings, errors 
-review:
-    selected information extracted from inut and result, to be checked.
-    Corrected version must be manually copied to the data directory in order to be included in a next conversion run.
-formulas:
-    gif or svg representation of all formulas that have been typeset with TeX during the conversion run
-formulatex:
-    contains a pdf with all formulas, on pages corresponding to the AM edition. For proofreading.
+* **texts**: converted texts (end result and all intermediate stages)
+* **messages**: per conversion step: information of what has been encountered, warnings, errors 
+* **review**: selected information extracted from inut and result, to be checked.
+  Corrected version must be manually copied to the data directory in order to be included in a next conversion run.
+* **formulas**: gif or svg representation of all formulas that have been typeset with TeX during the conversion run
+* **formulatex**: contains a pdf with all formulas, on pages corresponding to the AM edition. For proofreading.
 
-Installation Instructions
--------------------------
+## Installation Instructions
+
 This is a nearly self contained Perl Script, it does not call other user-developed Perl modules.
 It does call TeX and related programs, though.
 It requires, however, some modules that might have to be added to the perl installation.
 
 These are::
+
+```
     Time
     Time::HiRes
     File::Path
     File::Copy.
+```
 
 The script calls programs from the TeXLive distribution.
 Make sure the following commands can be run from the command-line::
 
+```
     tex
     xetex
     dvipng
+```
 
 If that is the case, this script will run without knowing where TeXLive is located.
 
-Environment
------------
+## Environment
+
 This script presupposes an environment with a number of directories, filled with all kinds of material.
 After unzipping the package of which this script is part, adjust the configuration section marked with::
 
+```perl
     # o-o-o BEGIN CUSTOMISE o-o-o #
 
     my $rootdir = '/Users/dirk/Data/DANS/projects/CKCC/descartes';
@@ -136,28 +138,31 @@ After unzipping the package of which this script is part, adjust the configurati
     my $formulaformat = 'gif';
 
     # o-o-o END   CUSTOMISE o-o-o #
+```
 
 to the local situation.
 
-Usage
------
+## Usage
+
 Commmand forms::
 
+```sh
     perl convert.pl
     ./convert.pl taskname1-taskname2
+```
 
 The first form does all tasks.
 
-The second form does all tasks from ``taskname1`` til (including) ``taskname2``.
+The second form does all tasks from `taskname1` til (including) `taskname2`.
 
-* If ``taskname1`` is omitted, start with the first task.
-* If ``taskname2`` is omitted, continue till the last task.
-* If the ``-`` is omitted and also one of ``taskname1`` or ``taskname2``, execute the specified task only
+* If `taskname1` is omitted, start with the first task.
+* If `taskname2` is omitted, continue till the last task.
+* If the `-` is omitted and also one of `taskname1` or `taskname2`, execute the specified task only
 
 The script must be run from the command line, positioned in the directory of this script.
 
-Conversion steps
-----------------
+## Conversion steps
+
 The full conversion is complex, because there are a lot of phenomena to deal with.
 That is why the conversion has been split up in a sequence of conversion steps.
 Each step reads as input the outcome of a previous step.
@@ -170,6 +175,7 @@ manually corrected by Erik-Jan.
 
 Here is a list of the tasks::
 
+```
     'escape',               # escape the italic markings and backslashes, because they will interfere with formulas
     'greek',                # greek character translation
     'trans',                # character codes translated to symbols
@@ -195,16 +201,18 @@ Here is a list of the tasks::
     'headings',             # translate paragraphs starting with §xx§ to <hi rend="xxx">, also treat ±
     'tidyup',               # remove XML comments <!-- ... -->; other tidyings
     'checkxml',             # check the well-formedness of the individual letters
+```
 
-Source observations
--------------------
+## Source observations
+
 Here is an inventory of patterns and idiosyncrasies that we found in the source file plus
 indactions how we treated those.
 
-codes with #...#
-^^^^^^^^^^^^^^^^
+### codes with #...#
+
 **Pattern => conversion step that deals with it => interpretation => result/action**::
 
+```
     #astérisque3#       => do_trans         Three daggers                               => unicode string
     #cit ... #end       => do_trans         No visible meaning, occurs only once        => source adaption made
     #gre ... #end       => do_greek         Greek character runs                        => characters translated to Unicode
@@ -216,6 +224,7 @@ codes with #...#
     #infinitum#         => do_formulas      variant on equals sign                      => graphic propto.png = hor.flipped \propto, ∝
                                             occurs in TeX, cannot deal with that: split formula in three parts, so that #infinitum# outside TeX
     . (escaped as ¡)    => do_formulas      .                                           => .
+```
 
 NB: #infinitum# and = !!! I see that
 
@@ -226,6 +235,7 @@ NB: squares are coded as @x@x. I typeset them as x^{2}, controlled by the switch
 
 **Other stuff**::
 
+```
     a#¢t£#9il
     #chanut
     #dordrecht
@@ -244,11 +254,12 @@ NB: squares are coded as @x@x. I typeset them as x^{2}, controlled by the switch
     <c>                 centre (mid align, mid column); 
     <d>                 droite (right align, right column);
     <d end>             has been removed
+```
 
-N.B. near <c> and <d> page numbers <m xxx> are repeated, I have removed it.
+N.B. near `<c>` and `<d>` page numbers `<m xxx>` are repeated, I have removed it.
 
-Formulas
-^^^^^^^^
+### Formulas
+
 There are many formulas in the letters.
 In order to translate them into TeX, we need to comprehend first the way they are coded in the source.
 It was very hard to do that in one step, so we prepared the way by changing some symbols to others,
@@ -256,6 +267,7 @@ removing some ambiguities in the process.
 
 **pattern interpretation**::
 
+```
     " ... "             grouping
     ‚" ... ‚"           nested grouping
     \'d9 .... \'c4      squareroot
@@ -281,200 +293,209 @@ removing some ambiguities in the process.
 
     ♠                   displayed equation marker. If it occurs anywhere in a formula, it signals that the whole formula should be typeset
                             as a displayed equation (in the TeX sense). The symbol has no other function
+```
 
 
-Italics
-^^^^^^^
+### Italics
+
 I remove all italic scopes out of formulas, because what is italic and not is governed by rules.
 
 * Formulas outside TeX: no italic.
 * Formulas inside TeX: follow the TeX rules.
 
-Corrections
-^^^^^^^^^^^
+### Corrections
+
 In some cases there were obvious errors in the JapAM source.
 We have commented out the offending line and put a corrected line in place.
-See the lines starting with ``!`` (after the leading number) in the JapAM source.
+See the lines starting with `!` (after the leading number) in the JapAM source.
 
-Headings
-^^^^^^^^
+### Headings
+
 **space space**
 starts a paragraph, in JapAM. Sometimes we need to start a heading:
 
 **space space §h4§ space**
 will start a heading. 
 
-It will be translated to a normal ``<p>`` element, but with the text in a ``<hi rend="h4">`` subelement.
+It will be translated to a normal `<p>` element, but with the text in a `<hi rend="h4">` subelement.
 Any other text than h4 will translate into the value of the rend attribute.
 
-**``<div type="para">``**
-Sometimes a paragraph should be surrounded by a ``<div type="para"> .. </div>``.
+**`<div type="para">`**
+Sometimes a paragraph should be surrounded by a `<div type="para"> .. </div>`.
 That effect can be achieved by letting the paragraph start with **space space ±**
 
-Metadata values
-^^^^^^^^^^^^^^^
+### Metadata values
+
 About the certainty of metadata values (sender, recipient, location, time).
 
 Pattern => result::
 
+```
     between [ and ]            : cert="high"
     between ( and )            : cert ="high"
     with ?                     : cert="low"
     combination of []/() and ? : cert="low"
 
     resp attribute: only resp="EJB"
+```
 
-``resp`` only occurs if we use metadata from Erik-Jan, and that occurs only in *senderloc* and *recipientloc*.
+`resp` only occurs if we use metadata from Erik-Jan, and that occurs only in *senderloc* and *recipientloc*.
 
-Formulas (revisited)
-^^^^^^^^^^^^^^^^^^^^
+### Formulas (revisited)
+
 When parsing formulas, we sprinkle new, fancy symbols in the formula material that help us to
 chunk the formula in logical pieces, after which we can make the translation to TeX.
 We use some pretty weird regular expressions underway, and here is a show case:
 
 **identify formula candidates**::
 
-    $n += $body =~ s/
-    (
-        (?:\A | [.,:;!?<>⊂⊃'\s]+)
-        (?:
-            (?: \b
-                    (?: bis |
-                        in  |
-                        aequat
-                    )
-                (?!\p{Alpha})
-                                        ) | # multiletter symbols
-            (?: \#
-                    (?: point |
-                        infinitum |
-                        cos1 |
-                        cos2
-                    )
-                \#                      ) | # multiletter codes
-            (?: \#gre
-                    .*?
-                \#end
-                                        ) | # greek
-            (?: □'[a-z][0-9]            ) | # special operators, such as sqrt
-            (?: □[Ÿƒ]                   ) | # other special operators
-            (?: □C?                     ) | # cubic-simple root symbol
-            (?: [º¿]                    ) | # other special operators
-            (?: [&€]\p{Alpha}           ) | # variables
-            (?: [0-9]+                  ) | # digits
-            (?: [~\s]+                  ) | # white space
-            (?: [⌈⌉]                    ) | # italic markers
-            (?: [^<>○⊂⊃\p{Alnum}]       )   # operators, brackets, relations, and whatever,
-                                            #   NB ○○ (coming from @@) is not part of a formula
-                                            #   NB ⊂ and ⊃ (coming from #< and >#) is not part of a formula
-        ) {1,}
-        (?: \z|[.,:;!?<>⊂⊃'\s+])
-    )
-    /analyseformulas($amid, $1)/sgex;
+```
+$n += $body =~ s/
+(
+    (?:\A | [.,:;!?<>⊂⊃'\s]+)
+    (?:
+        (?: \b
+                (?: bis |
+                    in  |
+                    aequat
+                )
+            (?!\p{Alpha})
+                                    ) | # multiletter symbols
+        (?: \#
+                (?: point |
+                    infinitum |
+                    cos1 |
+                    cos2
+                )
+            \#                      ) | # multiletter codes
+        (?: \#gre
+                .*?
+            \#end
+                                    ) | # greek
+        (?: □'[a-z][0-9]            ) | # special operators, such as sqrt
+        (?: □[Ÿƒ]                   ) | # other special operators
+        (?: □C?                     ) | # cubic-simple root symbol
+        (?: [º¿]                    ) | # other special operators
+        (?: [&€]\p{Alpha}           ) | # variables
+        (?: [0-9]+                  ) | # digits
+        (?: [~\s]+                  ) | # white space
+        (?: [⌈⌉]                    ) | # italic markers
+        (?: [^<>○⊂⊃\p{Alnum}]       )   # operators, brackets, relations, and whatever,
+                                        #   NB ○○ (coming from @@) is not part of a formula
+                                        #   NB ⊂ and ⊃ (coming from #< and >#) is not part of a formula
+    ) {1,}
+    (?: \z|[.,:;!?<>⊂⊃'\s+])
+)
+/analyseformulas($amid, $1)/sgex;
+```
 
 **getting the braces (grouping) right**::
 
-    extra braces to constrain the scope of TeX's \over:  A + B/C + D => A + { B/C } + D
+```
+extra braces to constrain the scope of TeX's \over:  A + B/C + D => A + { B/C } + D
 
-    $n = $newform =~ s/
-        (
-            (?:                                 # the piece before the division
-                (?:                             #   either a subexpression enclosed in braces
-                    【
-                        [^÷【】]+               #       that does not contain other braces and divisions and extra braces
-                    】
-                ) |
-                (?:                             #   either a subexpression enclosed in subbraces
-                    〔
-                        [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
-                    〕
-                ) |
-                (?:                             #   either a subexpression enclosed in parentheses
-                    \(
-                        [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
-                    \)
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ⌊
-                        [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
-                    ⌋
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◐
-                        [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
-                    ◑
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◀
-                        [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
-                    ▶
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◁
-                        [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
-                    ▷
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    〈
-                        [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
-                    〉
-                ) |
-                (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
-                    [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
-                )
+$n = $newform =~ s/
+    (
+        (?:                                 # the piece before the division
+            (?:                             #   either a subexpression enclosed in braces
+                【
+                    [^÷【】]+               #       that does not contain other braces and divisions and extra braces
+                】
+            ) |
+            (?:                             #   either a subexpression enclosed in subbraces
+                〔
+                    [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
+                〕
+            ) |
+            (?:                             #   either a subexpression enclosed in parentheses
+                \(
+                    [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
+                \)
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ⌊
+                    [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
+                ⌋
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◐
+                    [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
+                ◑
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◀
+                    [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
+                ▶
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◁
+                    [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
+                ▷
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                〈
+                    [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
+                〉
+            ) |
+            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+                [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
+            )
+        )
+    ) 
+    (\s*÷\s*)                               # the division itself
+    (
+        (?:                                 # the piece after the division
+            (?:                             #   either a subexpression enclosed in braces
+                【
+                    [^÷【】]+               #       that does not contain other braces and divisions and extra braces
+                】
+            ) |
+            (?:                             #   either a subexpression enclosed in subbraces
+                〔
+                    [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
+                〕
+            ) |
+            (?:                             #   either a subexpression enclosed in parentheses
+                \(
+                    [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
+                \)
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ⌊
+                    [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
+                ⌋
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◐
+                    [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
+                ◑
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◀
+                    [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
+                ▶
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                ◁
+                    [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
+                ▷
+            ) |
+            (?:                             #   either a subexpression enclosed in root braces
+                〈
+                    [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
+                〉
+            ) |
+            (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
+                [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
             )
         ) 
-        (\s*÷\s*)                               # the division itself
-        (
-            (?:                                 # the piece after the division
-                (?:                             #   either a subexpression enclosed in braces
-                    【
-                        [^÷【】]+               #       that does not contain other braces and divisions and extra braces
-                    】
-                ) |
-                (?:                             #   either a subexpression enclosed in subbraces
-                    〔
-                        [^÷〔〕]+               #       that does not contain other braces and divisions and extra subbraces
-                    〕
-                ) |
-                (?:                             #   either a subexpression enclosed in parentheses
-                    \(
-                        [^÷()]+                 #       that does not contain other braces and divisions and extra parentheses
-                    \)
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ⌊
-                        [^÷⌊⌋]+                 #       that does not contain other braces and divisions and extra braces
-                    ⌋
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◐
-                        [^÷◐◑]+                 #       that does not contain other braces and divisions and extra braces
-                    ◑
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◀
-                        [^÷◀▶]+                 #       that does not contain other braces and divisions and extra braces
-                    ▶
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    ◁
-                        [^÷◁▷]+                 #       that does not contain other braces and divisions and extra braces
-                    ▷
-                ) |
-                (?:                             #   either a subexpression enclosed in root braces
-                    〈
-                        [^÷〈〉]+               #       that does not contain other braces and divisions and extra braces
-                    〉
-                ) |
-                (?:                             #   or an "atomic" subexpression (no braces, brackets, spaces, divisions
-                    [^÷()【】〔〕⌊⌋◐◑◀▶◁▷〈〉\s~]+
-                )
-            ) 
-        )
-    /addbraces($1,$2,$3)/sxge;
+    )
+/addbraces($1,$2,$3)/sxge;
+```
 
 **check whether all temporary symbols have been removed**::
+
+```perl
 
     for my $symbol ([
             '【',
@@ -505,4 +526,5 @@ We use some pretty weird regular expressions underway, and here is a show case:
         ]) {
         ...
     }
+```
 

@@ -1,3 +1,3 @@
-![descartes-tei](https://raw.github.com/Dans-labs/descartes-tei/master/docs/files/logo.png)
+![descartes](/docs/files/Descartes.png)
 
-[Read the docs](http://descartes-tei.readthedocs.org/en/latest/index.html)
+[Read the docs](/docs/index.md)
