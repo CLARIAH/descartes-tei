@@ -1,0 +1,3709 @@
+
+%===FORMULA TABLE============================================
+
+%===TYPE Cn============================================
+% f0001: AM8-273-687 (1 x); 
+$$\displaylines{+ b^{2}c^{2}d^{2} - 2b^{2}cdga + b^{2}g^{2}a^{2} + 2bdga^{3} - 2bga^{4}\cr
+ - 2da^{5} + a^{6} = 0 \cr
+- 2b^{2}c^{2}da + b^{2}c^{2}a^{2} + 4bdca^{3} - 2bca^{4} \cr
+- 2b^{2}cd^{2}a^{2} - 2b^{2}fa^{3} + d^{2}a^{4} \cr
++ 2b^{2}cga^{2} + b^{2}a^{4} \cr
++ b^{2}f^{2}a^{2} \cr
+- b^{2}h^{2}a^{2}}$$
+========================================
+% f0002: AM6-070-414 (1 x); 
+$$\displaylines{ddeeff = 2deffxx + 2deeffx\cr
++ ddeexx + 2deefxx + 2ddeffx\cr
++ ddffxx + 2ddefxx + 2ddeefx\cr
++eeffxx}$$
+========================================
+% f0003: AM6-052-408 (1 x); 
+$$\displaylines{aa + 2ax + xx = dd - 2dz + zz + yy \cr
+bb + 2bx + xx = ee - 2ey + yy + zz \cr
+cc + 2cx + xx = ff - 2fz + zz + yy}$$
+========================================
+% f0004: AM8-111-651 (1 x); 
+$$\displaylines{{\rm BA} - {\rm AA} \cr
++ {\rm ZZ} + {\rm DA} + {\rm AA} \cr
++ {\rm MA} \cr
++ {\rm DD} - {\rm AA} \cr
++ {\rm RA} + {\rm AA} \cr
++ {\rm BB} + 2{\rm BA} + {\rm AA}}$$
+========================================
+% f0005: AM6-052-408 (1 x); 
+$$\displaylines{{\rm AD} = a + x \cr
+{\rm BD} = b + x \cr
+{\rm CD} = c + x}$$
+========================================
+% f0006: AM6-052-408 (1 x); 
+$$\displaylines{{\rm AE} = d  {\rm BE} = e  {\rm CE} = f \cr
+{\rm DF}}$$
+========================================
+% f0007: AM3-200-197 (1 x); 
+$$\displaylines{+ {{1\over 9}}n^{2} \cr
+- {{2\over 3}}nx  \cr
+- x^{2}}$$
+========================================
+% f0008: AM3-200-197 (1 x); 
+$$\displaylines{+ {{1\over 9}}n^{2} \cr
+- {{2\over 3}}nx  \cr
++ x^{2}}$$
+========================================
+% f0009: AM6-052-408 (1 x); 
+$$\displaylines{{\rm AF} = d - z}$$
+========================================
+
+%===TYPE C1============================================
+% f0010: AM3-111-184 (1 x); 
+$- x^{6} - {\displaystyle\strut {4nx^{5}}\over \displaystyle\strut 3} - {\displaystyle\strut {2n^{2}x^{4}}\over \displaystyle\strut 9} + {\displaystyle\strut {4n^{3}x^{3}}\over \displaystyle\strut 27} - {\displaystyle\strut {n^{4}x^{2}}\over \displaystyle\strut 81} + {\displaystyle\strut {nx^{5}}\over \displaystyle\strut 3} + {\displaystyle\strut {4n^{2}x^{4}}\over \displaystyle\strut 9} + {\displaystyle\strut {2n^{3}x^{3}}\over \displaystyle\strut 27} - {\displaystyle\strut {4n^{4}x^{2}}\over \displaystyle\strut 81} + {\displaystyle\strut {n^{5}x}\over \displaystyle\strut 243} + {\displaystyle\strut {n^{2}x^{4}}\over \displaystyle\strut 36} + {\displaystyle\strut {n^{3}x^{3}}\over \displaystyle\strut 27} + {\displaystyle\strut {n^{4}x^{2}}\over \displaystyle\strut 162} - {\displaystyle\strut {n^{5}x}\over \displaystyle\strut 243} + {\displaystyle\strut n^{6}\over \displaystyle\strut 2916}$
+========================================
+% f0011: AM8-201-670 (1 x); 
+${23220\over 3137} + {{11088\over 3137}}Ve3 + {{12276\over 3137}}Ve2 + {{5820\over 3137}}Ve9 + {{7278\over 3137}}  Ve4 + {{7788\over 3137}}Ve6 + {{4536\over 3137}}Ve18 + {{5022\over 3137}}Ve12 + {{3186\over 3137}}Ve36$
+========================================
+% f0012: AM3-111-184 (1 x); 
+${\displaystyle\strut {n^{2}x}\over \displaystyle\strut 6} \pm  nx\sqrt{{\displaystyle\strut n^{2}\over \displaystyle\strut 36} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2}}= x^{3} + {\displaystyle\strut n^{3}\over \displaystyle\strut 54} + {\displaystyle\strut {n^{2}x}\over \displaystyle\strut 6} - {\displaystyle\strut {nx^{2}}\over \displaystyle\strut 2} \pm  ({\displaystyle\strut n^{2}\over \displaystyle\strut 9} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2})\sqrt{{\displaystyle\strut n^{2}\over \displaystyle\strut 36} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2}}$
+========================================
+% f0013: AM8-253-682 (1 x); 
+$a + b + c + 2\sqrt{ab} + 2\sqrt{ac} + 2\sqrt{bc} = d + e + f +  2\sqrt{dc} + 2\sqrt{df} + 2\sqrt{ef}$
+========================================
+% f0014: AM6-052-408 (1 x); 
+$2ey = ee + aa + 2ax - bb - 2bx - dd + dd - df + {\displaystyle\strut {ccd - aad - 2cdx - 2adx}\over \displaystyle\strut {d + f}}$
+========================================
+% f0015: AM6-052-408 (1 x); 
+$y = {{1\over 2}}e - {{\displaystyle\strut bb\over \displaystyle\strut 2e}} - {{\displaystyle\strut bx\over \displaystyle\strut e}} - {{\displaystyle\strut df\over \displaystyle\strut 2e}} + {\displaystyle\strut {ccd + aaf + 2cdx + 2afx}\over \displaystyle\strut {2ed + 2ef}}$
+========================================
+% f0016: AM3-111-184 (1 x); 
+${\displaystyle\strut n^{3}\over \displaystyle\strut 54} + {\displaystyle\strut {n^{2}x}\over \displaystyle\strut 6} - {\displaystyle\strut {nx^{2}}\over \displaystyle\strut 2} \pm  ({\displaystyle\strut n^{2}\over \displaystyle\strut 9} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2})\sqrt{{\displaystyle\strut {n^{2}}\over \displaystyle\strut 36} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2}}$
+========================================
+% f0017: AM3-111-184 (1 x); 
+$x^{3} - {\displaystyle\strut {nx^{3}}\over \displaystyle\strut 2} + {\displaystyle\strut n^{3}\over \displaystyle\strut 54} = \pm  (x^{2} + {\displaystyle\strut {2nx}\over \displaystyle\strut 3} - {\displaystyle\strut n^{2}\over \displaystyle\strut 9})\sqrt{{\displaystyle\strut n^{2}\over \displaystyle\strut 36} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2}}$
+========================================
+% f0018: AM2-287-159 (1 x); 
+$cb^{3} + eb^{3} = {\displaystyle\strut {cb^{2}a^{3} + 3b^{3}caae + 3b^{3}acee + cb^{3}e^{3}}\over \displaystyle\strut a^{3}}$
+========================================
+% f0019: AM1-246-060 (1 x); 
+$4.900x^{6} \ {\it aequat}\  - 4.899x^{5} + 2.354x^{4} + 16.858x^{3} + 9.458xx + 429x - 4.900$
+========================================
+% f0020: AM3-111-184 (1 x); 
+$x^{6} - nx^{5} + {\displaystyle\strut {n^{2}x^{4}}\over \displaystyle\strut 4} + {\displaystyle\strut {n^{3}x^{3}}\over \displaystyle\strut 27} - {\displaystyle\strut {n^{4}x^{2}}\over \displaystyle\strut 54} + {\displaystyle\strut n^{6}\over \displaystyle\strut 2916}$
+========================================
+% f0021: AM8-253-682 (1 x); 
+$\sqrt{a} + \sqrt{b} + \sqrt{c} = \sqrt{d} + \sqrt{e} + \sqrt{f}$
+========================================
+% f0022: AM3-028-174 (1 x); 
+${\displaystyle\strut {y}\over \displaystyle\strut {y - b}}\sqrt{ - 2by + bb + cc + aa + 2c\sqrt{aa - yy}}$
+========================================
+% f0023: AM3-028-174 (1 x); 
+${\displaystyle\strut {y}\over \displaystyle\strut {y - b}}\sqrt{ - 2by + bb + dd + aa - 2d\sqrt{aa - yy}}$
+========================================
+% f0024: AM3-111-184 (1 x); 
+$x^{4} + {\displaystyle\strut {4nx^{3}}\over \displaystyle\strut 3} + {\displaystyle\strut {2n^{2}x^{2}}\over \displaystyle\strut 9} - {\displaystyle\strut {4n^{3}x}\over \displaystyle\strut 27} + {\displaystyle\strut n^{4}\over \displaystyle\strut 81}$
+========================================
+% f0025: AM3-028-174 (1 x); 
+$xx - nx\sqrt{{{1\over 3}} + {{1\over 6}}nn} - {\displaystyle\strut {nn}\over \displaystyle\strut {6\sqrt{ 3}}} = 0$
+========================================
+% f0026: AM3-028-174 (1 x); 
+$xx + nx\sqrt{{{1\over 3}} + {{1\over 6}}nn} + {\displaystyle\strut {nn}\over \displaystyle\strut {6\sqrt{ 3}}} = 0$
+========================================
+% f0027: AM8-232-679 (1 x); 
+$\sqrt{a} + \sqrt{b} + \sqrt{c} = \sqrt{d} + \sqrt{e}$
+========================================
+% f0028: AM2-287-159 (2 x); 
+${\displaystyle\strut {b^{3}a^{3} + 3b^{3}aae + 3b^{3}aee + b^{3}e^{3}}\over \displaystyle\strut a^{3}}$
+========================================
+% f0029: AM3-028-174 (1 x); 
+$x = n\sqrt{{{1\over 12}}} \pm  \sqrt{{\displaystyle\strut {nn}\over \displaystyle\strut {6\sqrt{3}}} - {{1\over 12}}nn}$
+========================================
+% f0030: AM6-052-408 (1 x); 
+${{1\over 2}}d - {{1\over 2}}f + {\displaystyle\strut {cc - aa + 2cx - 2ax}\over \displaystyle\strut {2d + 2f}}$
+========================================
+% f0031: AM6-052-408 (1 x); 
+$z = {\displaystyle\strut {cc - aa + dd - ff + 2cx - 2ax}\over \displaystyle\strut {2d + 2f}}$
+========================================
+% f0032: AM3-028-174 (1 x); 
+${\rm LQ} = {\displaystyle\strut {dygz + cygz}\over \displaystyle\strut {cy + b\sqrt{aa - yy}}}$
+========================================
+% f0033: AM3-028-174 (1 x); 
+$\sqrt{ - 2by + bb + dd + aa - 2d\sqrt{aa - yy}}$
+========================================
+% f0034: AM3-028-174 (1 x); 
+$\sqrt{ - 2by + bb + cc + aa + 2c\sqrt{aa - yy}}$
+========================================
+% f0035: AM2-251-156 (1 x); 
+${\displaystyle\strut {Aq \ {\it in}\  Bq + A \ {\it in}\  E \ {\it in}\  Bq \ {\it bis}\  + Eq \ {\it in}\  Bq}\over \displaystyle\strut Aq}$
+========================================
+% f0036: AM5-181-339 (1 x); 
+$x^{3} - {{1\over 2}}cxx + px - q = nxx - nrx + ns$
+========================================
+% f0037: AM8-273-687 (1 x); 
+${\rm IH} \Vert  f \vert  {\displaystyle\strut {da}\over \displaystyle\strut b} - {\displaystyle\strut {cd}\over \displaystyle\strut a} + g - {\displaystyle\strut a^{2}\over \displaystyle\strut b} + c$
+========================================
+% f0038: AM3-028-174 (1 x); 
+$n\sqrt{{{1\over 12}}} - \sqrt{{\displaystyle\strut {nn}\over \displaystyle\strut {6\sqrt{3}}} - {{1\over 12}}nn}$
+========================================
+% f0039: AM3-028-174 (1 x); 
+$n\sqrt{{{1\over 12}}} + \sqrt{{\displaystyle\strut {nn}\over \displaystyle\strut {6\sqrt{3}}} - {{1\over 12}}nn}$
+========================================
+% f0040: AM3-184-193 (1 x); 
+${\rm FD} = {\displaystyle\strut {nb - b}\over \displaystyle\strut m} + {\displaystyle\strut {n \omega  }\over \displaystyle\strut {m\sqrt{2}}} -  {\displaystyle\strut \omega  \over  \displaystyle\strut {m\sqrt{2}}}$
+========================================
+% f0041: AM3-028-174 (1 x); 
+$y = {{1\over 6}}n \pm  \sqrt{{{1\over 36}}nn + {{1\over 3}}nx - xx}$
+========================================
+% f0042: AM3-028-174 (1 x); 
+$x - {{1\over 6}}n \pm  \sqrt{{{1\over 36}}nn + {{1\over 3}}nx - xx}$
+========================================
+% f0043: AM3-028-174 (1 x); 
+${\displaystyle\strut {dyhz + cyhz}\over \displaystyle\strut {dy - b\sqrt{aa - yy}}}$
+========================================
+% f0044: AM2-071-131 (1 x); 
+$Bq + {\displaystyle\strut {Bq \ {\it in}\  E}\over \displaystyle\strut D} + Aq + A \ {\it in}\  E \ {\it bis}\  + Eq$
+========================================
+% f0045: AM8-253-682 (1 x); 
+$a + b + 2\sqrt{ab} = c + d + 2\sqrt{cd}$
+========================================
+% f0046: AM8-253-682 (1 x); 
+$\sqrt{a} + \sqrt{b} = \sqrt{c} + \sqrt{d}$
+========================================
+% f0047: AM2-213-152 (1 x); 
+${\rm m} - {{\displaystyle\strut {\rm n}\over \displaystyle\strut {\rm z}}}{\rm x} + \sqrt{{\rm mm} + {\rm ox} - {{\displaystyle\strut {\rm p}\over \displaystyle\strut {\rm m}}}{\rm xx}}$
+========================================
+% f0048: AM3-028-174 (1 x); 
+$vv = - {{1\over 3}}nv + 2ev + {{2\over 3}}ne - 2ee$
+========================================
+% f0049: AM3-111-184 (1 x); 
+$2x^{6} - {\displaystyle\strut {2n^{3}x^{3}}\over \displaystyle\strut 9} + {\displaystyle\strut {n^{4}x^{2}}\over \displaystyle\strut 27} = 0$
+========================================
+% f0050: AM6-070-414 (1 x); 
+${\rm AK} = {\displaystyle\strut {dd + df + dx - fx}\over \displaystyle\strut {d + f}}$
+========================================
+% f0051: AM6-070-414 (1 x); 
+${\rm AD} = {\displaystyle\strut {dd + df + de - fe}\over \displaystyle\strut {d + f}}$
+========================================
+% f0052: AM3-111-184 (1 x); 
+${\displaystyle\strut n\over \displaystyle\strut 6} \pm  \sqrt{{\displaystyle\strut n^{2}\over \displaystyle\strut 36} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} - x^{2}}$
+========================================
+% f0053: AM3-184-193 (1 x); 
+${{1\over 15}}b + {{1\over 14}}b + + {{1\over 13}}b + {{1\over 12}}b$
+========================================
+% f0054: AM2-251-156 (1 x); 
+${\displaystyle\strut {A \ {\it in}\  E \ {\it in}\  Bq \ {\it bis}\  + Eq \ {\it in}\  Bq}\over \displaystyle\strut Aq}$
+========================================
+% f0055: AM3-028-174 (1 x); 
+$z^{6}. - {{2\over 27}}n^{4}zz - {{1\over 81}}n^{6} = 0$
+========================================
+% f0056: AM3-184-193 (1 x); 
+${{1\over 16}}b + {{1\over 15}}b + {{1\over 14}}b + {{1\over 13}}b$
+========================================
+% f0057: AM3-028-174 (1 x); 
+${\displaystyle\strut {dy - b\sqrt{aa - yy}}\over \displaystyle\strut {y - b}}$
+========================================
+% f0058: AM3-028-174 (1 x); 
+${\displaystyle\strut {cy + b\sqrt{aa - yy}}\over \displaystyle\strut {y - b}}$
+========================================
+% f0059: AM3-028-174 (1 x); 
+${\displaystyle\strut {dy - y\sqrt{aa - yy}}\over \displaystyle\strut {y - b}}$
+========================================
+% f0060: AM3-028-174 (1 x); 
+${\displaystyle\strut {cy + y\sqrt{aa - yy}}\over \displaystyle\strut {y - b}}$
+========================================
+% f0061: AM3-028-174 (1 x); 
+$x^{4}.. - {{1\over 9}}n^{3}x + {{1\over 54}}n^{4} = 0$
+========================================
+% f0062: AM4-361-303 (1 x); 
+$+ {{\displaystyle\strut aa\over \displaystyle\strut b}}xx + crx - {{1\over 4}}brr$
+========================================
+% f0063: AM3-028-174 (1 x); 
+$x^{4} - {{1\over 9}}n^{3}x + {{1\over 54}}n^{4} = 0$
+========================================
+% f0064: AM2-071-131 (1 x); 
+${\displaystyle\strut {Bq \ {\it in}\  E}\over \displaystyle\strut D} + A \ {\it in}\  E \ {\it bis}\  + Eq$
+========================================
+% f0065: AM3-184-193 (1 x); 
+${\displaystyle\strut b\over \displaystyle\strut m} = {\displaystyle\strut {n \omega   -  \omega   + n \epsilon  }\over \displaystyle\strut m}\sqrt{2}$
+========================================
+% f0066: AM3-028-174 (1 x); 
+$\sqrt{{\displaystyle\strut {2nn}\over \displaystyle\strut {3\sqrt{3}}} - {{1\over 3}}nn}$
+========================================
+% f0067: AM3-028-174 (1 x); 
+$\sqrt{{\displaystyle\strut {4nn}\over \displaystyle\strut {3\sqrt{3}}} - {{2\over 3}}nn}$
+========================================
+% f0068: AM6-070-414 (1 x); 
+$x = - {{156\over 47}} + \sqrt{{31104\over 2209}}$
+========================================
+% f0069: AM4-021-233 (1 x); 
+${{1\over 4}}nn + {{1\over 2}}c + {{\displaystyle\strut cc\over \displaystyle\strut 4nn}}$
+========================================
+% f0070: AM4-021-233 (1 x); 
+${{1\over 4}}nn - {{1\over 2}}c + {{\displaystyle\strut cc\over \displaystyle\strut 4nn}}$
+========================================
+% f0071: AM3-111-184 (1 x); 
+$x^{4} - {\displaystyle\strut {n^{3}x}\over \displaystyle\strut 9} + {\displaystyle\strut n^{4}\over \displaystyle\strut 54} = 0$
+========================================
+% f0072: AM3-028-174 (1 x); 
+$dgy - bg\sqrt{aa - yy}$
+========================================
+% f0073: AM3-028-174 (1 x); 
+$chy + bh\sqrt{aa - yy}$
+========================================
+% f0074: AM3-028-174 (1 x); 
+${\rm ID} = c + \sqrt{aa - yy}$
+========================================
+% f0075: AM3-111-184 (1 x); 
+$x^{3} - {\displaystyle\strut {nx^{2}}\over \displaystyle\strut 2} + {\displaystyle\strut n^{3}\over \displaystyle\strut 54}$
+========================================
+% f0076: AM3-184-193 (1 x); 
+${\rm FD} = {\displaystyle\strut nb\over \displaystyle\strut m} - {\displaystyle\strut {n \epsilon  }\over \displaystyle\strut m}\sqrt{2}$
+========================================
+% f0077: AM3-111-184 (1 x); 
+$- x^{2} + {\displaystyle\strut {nx}\over \displaystyle\strut 3} + {\displaystyle\strut n^{2}\over \displaystyle\strut 36}$
+========================================
+% f0078: AM2-251-156 (1 x); 
+${\displaystyle\strut {Bq \ {\it in}\  D + Bq \ {\it in}\  E}\over \displaystyle\strut D}$
+========================================
+% f0079: AM2-071-131 (1 x); 
+${\displaystyle\strut {Bq \ {\it in}\  D + Bq \ {\it in}\  E}\over \displaystyle\strut {\rm D}}$
+========================================
+% f0080: AM3-111-184 (1 x); 
+$x^{2} + 2{\displaystyle\strut {nx}\over \displaystyle\strut 3} - {\displaystyle\strut n^{2}\over \displaystyle\strut 9}$
+========================================
+% f0081: AM2-287-159 (1 x); 
+$bh = {\displaystyle\strut {gba + gbe}\over \displaystyle\strut a}$
+========================================
+% f0082: AM3-142-188 (1 x); 
+$28{{1\over 2}} - \sqrt{263{{1\over 4}}}$
+========================================
+% f0083: AM3-028-174 (1 x); 
+${\rm AB} = \sqrt{aa - yy}$
+========================================
+% f0084: AM3-142-188 (1 x); 
+$28{{1\over 2}} + \sqrt{263{{1\over 4}}}$
+========================================
+% f0085: AM3-142-188 (1 x); 
+$28{{1\over 2}}- \sqrt{263{{1\over 4}}}$
+========================================
+% f0086: AM3-028-174 (1 x); 
+$d - \sqrt{aa - yy}$
+========================================
+% f0087: AM2-251-156 (1 x); 
+${\displaystyle\strut {A \ {\it in}\  B + E \ {\it in}\  B}\over \displaystyle\strut A}$
+========================================
+% f0088: AM2-287-159 (2 x); 
+${\rm DF} = {\displaystyle\strut {ba + be}\over \displaystyle\strut a}$
+========================================
+% f0089: AM3-028-174 (1 x); 
+${\displaystyle\strut {dy + cy}\over \displaystyle\strut {y - b}}$
+========================================
+% f0090: AM8-187-663 (1 x); 
+${\displaystyle\strut 12\over \displaystyle\strut {3 - {\rm Ve}3 - {\rm Ve}2}}$
+========================================
+% f0091: AM3-184-193 (1 x); 
+${\displaystyle\strut {b\sqrt{2} -  \epsilon  }\over \displaystyle\strut {n - 1}}$
+========================================
+% f0092: AM3-184-193 (1 x); 
+${\rm RX} = {\displaystyle\strut {nb - b}\over \displaystyle\strut m}$
+========================================
+% f0093: AM2-071-131 (1 x); 
+${\displaystyle\strut Bq\over \displaystyle\strut D} + A \ {\it bis}\  + E$
+========================================
+% f0094: AM2-251-156 (1 x); 
+${\displaystyle\strut {C \ {\it in}\  B}\over \displaystyle\strut {2B + C}}$
+========================================
+% f0095: AM3-028-174 (1 x); 
+$\sqrt{36\sqrt{3} - 54}$
+========================================
+% f0096: AM3-028-174 (1 x); 
+$z = n\sqrt{{{1\over 3}}}$
+========================================
+% f0097: AM1-208-046 (1 x); 
+${1\over 3} {4\over 9} {16\over 27} {64\over 81}$
+========================================
+% f0098: AM4-021-233 (2 x); 
+${{1\over 2}}n + {{\displaystyle\strut c\over \displaystyle\strut 2n}}$
+========================================
+% f0099: AM4-021-233 (2 x); 
+${{1\over 2}}n - {{\displaystyle\strut c\over \displaystyle\strut 2n}}$
+========================================
+% f0100: AM3-028-174 (1 x); 
+$\sqrt{4\sqrt{3} - 6}$
+========================================
+% f0101: AM3-184-193 (1 x); 
+${{1\over 8}}b + {{1\over 7}}b$
+========================================
+% f0102: AM3-184-193 (1 x); 
+${{1\over 7}}b + {{1\over 6}}b$
+========================================
+% f0103: AM2-287-159 (1 x); 
+${\displaystyle\strut {ba + be}\over \displaystyle\strut a}$
+========================================
+% f0104: AM3-184-193 (1 x); 
+${\rm RX} = {{12\over 16}}b$
+========================================
+% f0105: AM2-071-131 (1 x); 
+${\displaystyle\strut Bq\over \displaystyle\strut D} + A \ {\it bis}\ $
+========================================
+% f0106: AM3-204-198 (3 x); 
+$2b\sqrt{{\displaystyle\strut 2b\over \displaystyle\strut a}} - 1$
+========================================
+% f0107: AM3-184-193 (1 x); 
+${\rm PV} = {{13\over 16}}b$
+========================================
+% f0108: AM4-361-303 (1 x); 
+$- {{\displaystyle\strut cc\over \displaystyle\strut b}}xx$
+========================================
+% f0109: AM3-184-193 (1 x); 
+${\displaystyle\strut {b\sqrt{2} +  \omega  }\over \displaystyle\strut n}$
+========================================
+% f0110: AM2-275-158 (1 x); 
+$7 + 2{\rm N} + {\displaystyle\strut 6\over \displaystyle\strut 1{\rm N}}$
+========================================
+% f0111: AM3-184-193 (1 x); 
+${\rm PV} = {\displaystyle\strut nb\over \displaystyle\strut m}$
+========================================
+% f0112: AM3-184-193 (1 x); 
+${\displaystyle\strut {b\sqrt{2}}\over \displaystyle\strut {n - 1}}$
+========================================
+% f0113: AM1-246-060 (1 x); 
+${\displaystyle\strut {3xx - 1x}\over \displaystyle\strut 2}$
+========================================
+% f0114: AM2-251-156 (1 x); 
+${\displaystyle\strut {Bq \ {\it in}\  E}\over \displaystyle\strut D}$
+========================================
+% f0115: AM3-184-193 (1 x); 
+${\displaystyle\strut {nb - b}\over \displaystyle\strut m}$
+========================================
+% f0116: AM3-184-193 (1 x); 
+${\rm PV} = {\displaystyle\strut nb\over \displaystyle\strut m}$
+========================================
+% f0117: AM8-273-687 (1 x); 
+${1411200\over 40931}$
+========================================
+% f0118: AM3-204-198 (1 x); 
+$\sqrt{{\displaystyle\strut 2b\over \displaystyle\strut a}} - 1$
+========================================
+% f0119: AM3-321-227bis (1 x); 
+${\rm CD} = {{1\over 2}}p$
+========================================
+% f0120: AM6-070-414 (1 x); 
+${\displaystyle\strut d\over \displaystyle\strut 2} {\displaystyle\strut e\over \displaystyle\strut 3} {\displaystyle\strut f\over \displaystyle\strut 4}$
+========================================
+% f0121: AM8-273-687 (1 x); 
+$\sqrt{{671\over 4}}$
+========================================
+% f0122: AM2-275-158 (1 x); 
+${\displaystyle\strut {2 - 1{\rm Q}}\over \displaystyle\strut 2{\rm N}}$
+========================================
+% f0123: AM2-275-158 (1 x); 
+${\displaystyle\strut {1 - 1{\rm Q}}\over \displaystyle\strut 2{\rm N}}$
+========================================
+% f0124: AM4-021-233 (1 x); 
+$3c + {\displaystyle\strut 2a\over \displaystyle\strut z}$
+========================================
+% f0125: AM8-273-687 (1 x); 
+${20736\over 419375}$
+========================================
+% f0126: AM8-235-680 (1 x); 
+$\sqrt{ba}$
+========================================
+% f0127: AM3-184-193 (1 x); 
+${\displaystyle\strut b\over \displaystyle\strut {n - 1}}$
+========================================
+% f0128: AM2-275-158 (1 x); 
+$3 - {\displaystyle\strut 1{\rm Q}\over \displaystyle\strut 2{\rm N}}$
+========================================
+% f0129: AM4-021-233 (1 x); 
+$n + {\displaystyle\strut c\over \displaystyle\strut n}$
+========================================
+% f0130: AM4-021-233 (2 x); 
+$m + {\displaystyle\strut c\over \displaystyle\strut m}$
+========================================
+% f0131: AM8-273-687 (1 x); 
+$39{{31\over 50}}$
+========================================
+% f0132: AM3-315-227 (1 x); 
+${1\over 1296} e$
+========================================
+% f0133: AM3-028-174 (1 x); 
+${{1\over 3}}nn$
+========================================
+% f0134: AM3-315-227 (1 x); 
+${1\over 216} d$
+========================================
+% f0135: AM3-204-198 (3 x); 
+${\displaystyle\strut 2bb\over \displaystyle\strut a}$
+========================================
+% f0136: AM8-273-687 (1 x); 
+$12{{1\over 2}}$
+========================================
+% f0137: AM2-275-158 (1 x); 
+${4901\over 21}$
+========================================
+% f0138: AM3-184-193 (1 x); 
+${{1\over 2}}b$
+========================================
+% f0139: AM2-291-160 (1 x); 
+${337\over 60}$
+========================================
+% f0140: AM8-273-687 (1 x); 
+$12{{1\over 2}}$
+========================================
+% f0141: AM2-071-131 (1 x); AM2-251-156 (1 x); 
+${\displaystyle\strut Bq\over \displaystyle\strut D}$
+========================================
+% f0142: AM4-021-233 (1 x); 
+$+ {\displaystyle\strut c\over \displaystyle\strut n}$
+========================================
+% f0143: AM3-184-193 (1 x); 
+$b{\displaystyle\strut \sqrt{2}\over \displaystyle\strut n}$
+========================================
+% f0144: AM3-184-193 (2 x); 
+${{3\over 4}}b$
+========================================
+% f0145: AM8-273-687 (1 x); 
+${409\over 61}$
+========================================
+% f0146: AM2-275-158 (1 x); 
+${700\over 3}$
+========================================
+% f0147: AM7-019-523 (1 x); 
+$[{\rm AD}]$
+========================================
+% f0148: AM5-103-324 (1 x); 
+$78 {1\over 2}$
+========================================
+% f0149: AM2-275-158 (1 x); 
+${202\over 3}$
+========================================
+% f0150: AM5-103-324 (2 x); 
+$72 {1\over 2}$
+========================================
+% f0151: AM2-291-160 (1 x); 
+${35\over 12}$
+========================================
+% f0152: AM4-130-255 (1 x); 
+$11 {3\over 5}$
+========================================
+% f0153: AM2-291-160 (1 x); 
+${25\over 2}$
+========================================
+% f0154: AM4-021-233 (4 x); 
+${\displaystyle\strut c\over \displaystyle\strut n}$
+========================================
+% f0155: AM3-184-193 (1 x); 
+${31\over 32}$
+========================================
+% f0156: AM2-291-160 (1 x); 
+${65\over 6}$
+========================================
+% f0157: AM3-184-193 (1 x); 
+${15\over 16}$
+========================================
+% f0158: AM2-275-158 (1 x); 
+${9\over 100}$
+========================================
+% f0159: AM5-103-324 (1 x); 
+$4 {1\over 4}$
+========================================
+% f0160: AM5-103-324 (1 x); 
+$4 {1\over 3}$
+========================================
+% f0161: AM2-275-158 (2 x); 
+${9\over 128}$
+========================================
+% f0162: AM2-275-158 (1 x); 
+${225\over 9}$
+========================================
+% f0163: AM4-021-233 (3 x); 
+${\displaystyle\strut c\over \displaystyle\strut m}$
+========================================
+% f0164: AM3-184-193 (1 x); 
+${\displaystyle\strut b\over \displaystyle\strut n}$
+========================================
+% f0165: AM2-291-160 (1 x); 
+${21\over 2}$
+========================================
+% f0166: AM5-103-324 (1 x); 
+${1\over 27}$
+========================================
+% f0167: AM2-291-160 (1 x); 
+${7\over 2}$
+========================================
+% f0168: AM2-275-158 (1 x); 
+${36\over 9}$
+========================================
+% f0169: AM3-184-193 (1 x); 
+${8\over 4}$
+========================================
+% f0170: AM3-184-193 (1 x); 
+${8\over 3}$
+========================================
+% f0171: AM2-275-158 (1 x); 
+${3\over 16}$
+========================================
+% f0172: AM2-275-158 (1 x); 
+${1\over 64}$
+========================================
+% f0173: AM2-291-160 (1 x); 
+${24\over 5}$
+========================================
+% f0174: AM2-275-158 (1 x); 
+${40\over 3}$
+========================================
+% f0175: AM3-184-193 (1 x); 
+${6\over 8}$
+========================================
+% f0176: AM5-103-324 (1 x); 
+${1\over 81}$
+========================================
+% f0177: AM3-184-193 (1 x); 
+${4\over 8}$
+========================================
+% f0178: AM2-275-158 (1 x); 
+${33\over 7}$
+========================================
+% f0179: AM4-095-251 (1 x); 
+$» {\rm R}$
+========================================
+% f0180: AM3-184-193 (1 x); 
+${8\over 2}$
+========================================
+% f0181: AM3-184-193 (1 x); 
+${5\over 8}$
+========================================
+% f0182: AM2-275-158 (1 x); 
+${3\over 10}$
+========================================
+% f0183: AM2-275-158 (2 x); AM4-021-233 (2 x); AM5-103-324 (1 x); 
+${1\over 2}$
+========================================
+% f0184: AM5-103-324 (1 x); 
+${1\over 9}$
+========================================
+% f0185: AM2-291-160 (1 x); 
+${8\over 3}$
+========================================
+% f0186: AM2-275-158 (2 x); 
+${1\over 8}$
+========================================
+% f0187: AM2-275-158 (1 x); 
+${1\over 4}$
+========================================
+% f0188: AM3-184-193 (1 x); 
+${8\over 7}$
+========================================
+% f0189: AM3-184-193 (1 x); 
+${8\over 5}$
+========================================
+% f0190: AM3-184-193 (1 x); 
+${8\over 6}$
+========================================
+% f0191: AM3-184-193 (1 x); 
+${7\over 8}$
+========================================
+% f0192: AM2-275-158 (2 x); AM3-184-193 (1 x); 
+${3\over 8}$
+========================================
+% f0193: AM3-184-193 (1 x); 
+${4\over 3}$
+========================================
+% f0194: AM4-130-255 (1 x); 
+${2\over 5}$
+========================================
+
+%===TYPE A+============================================
+% f0195: AM8-232-679 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">7</hi><hi rend="i">b</hi> + 7<hi rend="i">a</hi><hi rend="sup">5</hi><hi rend="i">b</hi><hi rend="sup">3</hi> + 9<hi rend="i">a</hi><hi rend="sup">5</hi><hi rend="i">bbc</hi> + 22<hi rend="i">a</hi><hi rend="sup">5</hi><hi rend="i">bcd</hi> + 94<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">bcde</hi> 
++ 52<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">b</hi><hi rend="sup">3</hi><hi rend="i">cd</hi> + 34<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">bbccd</hi> + 190<hi rend="i">aabbccde</hi>
+========================================
+% f0196: AM8-273-687 (1 x); 
++ 1296 − 3060<hi rend="i">a</hi> + 2664<hi rend="i">a</hi><hi rend="sup">2</hi> − 1115<hi rend="i">a</hi><hi rend="sup">3</hi> + 239<hi rend="i">a</hi><hi rend="sup">4</hi> − 25<hi rend="i">a</hi><hi rend="sup">5</hi> 
++ <hi rend="i">a</hi><hi rend="sup">6</hi> = 0
+========================================
+% f0197: AM8-253-682 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi> − 25<hi rend="i">x</hi><hi rend="sup">5</hi> + 239<hi rend="i">x</hi><hi rend="sup">4</hi> − 1115<hi rend="i">x</hi><hi rend="sup">3</hi> + 2664<hi rend="i">xx</hi> − 3060<hi rend="i">x</hi> 
++ 1296 = 0
+========================================
+% f0198: AM2-251-156 (1 x); 
+<hi rend="i">Aq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> <hi rend="i">bis</hi> + <hi rend="i">Eq</hi> + <hi rend="i">Bq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi> + <hi rend="i">E</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi>
+========================================
+% f0199: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">2</hi><hi rend="i">c</hi> + <hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">e</hi> = <hi rend="i">ca</hi><hi rend="sup">3</hi> + 3<hi rend="i">caae</hi> + 3<hi rend="i">caee</hi> + <hi rend="i">ce</hi><hi rend="sup">3</hi>
+========================================
+% f0200: AM5-181-339 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi> − <hi rend="i">ax</hi><hi rend="sup">5</hi> + <hi rend="i">bx</hi><hi rend="sup">4</hi> − <hi rend="i">cx</hi><hi rend="sup">3</hi> + <hi rend="i">dxx</hi> − <hi rend="i">ex</hi> + <hi rend="i">f</hi> = 0
+========================================
+% f0201: AM3-315-227 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi> + <hi rend="i">ax</hi><hi rend="sup">5</hi> + <hi rend="i">bx</hi><hi rend="sup">4</hi> − <hi rend="i">cx</hi><hi rend="sup">3</hi> − <hi rend="i">dxx</hi> + <hi rend="i">ex</hi> + <hi rend="i">f</hi> = 0
+========================================
+% f0202: AM3-028-174 (1 x); 
+2<hi rend="i">x</hi><hi rend="sup">3</hi> − 4<hi rend="i">exx</hi> + 2<hi rend="i">eex</hi>
+− 2<hi rend="i">fxx</hi> + 4<hi rend="i">efx</hi> − 2<hi rend="i">eef</hi> = 0
+========================================
+% f0203: AM6-052-408 (1 x); 
+<hi rend="i">cc</hi> + 2<hi rend="i">cx</hi> − <hi rend="i">aa</hi> − 2<hi rend="i">ax</hi> = <hi rend="i">ff</hi> + 2<hi rend="i">fz</hi> − <hi rend="i">dd</hi> + 2<hi rend="i">dz</hi>
+========================================
+% f0204: AM3-028-174 (1 x); 
+2<hi rend="i">x</hi><hi rend="sup">3</hi> − 3<hi rend="i">vxx</hi> + 3<hi rend="i">vvx</hi> − <hi rend="i">v</hi><hi rend="sup">3</hi> = 0 
+− <hi rend="i">nxx</hi> + <hi rend="i">nvx</hi>
+========================================
+% f0205: AM6-052-408 (1 x); 
+<hi rend="i">aa</hi> + 2<hi rend="i">ax</hi> − <hi rend="i">bb</hi> − 2<hi rend="i">bx</hi> = <hi rend="i">dd</hi> − 2<hi rend="i">dx</hi> − <hi rend="i">ee</hi> + 2<hi rend="i">ey</hi>
+========================================
+% f0206: AM2-251-156 (3 x); 
+<hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">C</hi> + <hi rend="i">E</hi> <hi rend="i">in</hi> <hi rend="i">C</hi> + <hi rend="i">Bq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi> + <hi rend="i">E</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi>
+========================================
+% f0207: AM3-028-174 (1 x); 
+2<hi rend="i">x</hi><hi rend="sup">3</hi> − 3<hi rend="i">vxx</hi> + 3<hi rend="i">vvx</hi> − <hi rend="i">v</hi><hi rend="sup">3</hi> = <hi rend="i">nxx</hi> − <hi rend="i">nvx</hi>
+========================================
+% f0208: AM2-251-156 (2 x); 
+<hi rend="i">C</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> + <hi rend="i">C</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> − <hi rend="i">Aq</hi> − <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> <hi rend="i">bis</hi> − <hi rend="i">Eq</hi>
+========================================
+% f0209: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">Aq</hi> + <hi rend="i">D</hi> <hi rend="i">in</hi>
+<hi rend="i">Eq</hi> − <hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> <hi rend="i">bis</hi>
+========================================
+% f0210: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> + 3<hi rend="i">xy</hi> + 3<hi rend="i">xx</hi>√<hi rend="i">y</hi> + <hi rend="i">y</hi>√<hi rend="i">y</hi> = <hi rend="i">a</hi> + √<hi rend="i">b</hi>
+========================================
+% f0211: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi><hi rend="i">e</hi> = 3<hi rend="i">caae</hi> + 3<hi rend="i">caee</hi> +
+<hi rend="i">ce</hi><hi rend="sup">3</hi>
+========================================
+% f0212: AM4-021-233 (1 x); 
+−<hi rend="i">x</hi><hi rend="sup">6</hi> + 3<hi rend="i">x</hi><hi rend="sup">4</hi><hi rend="i">y</hi> − 3<hi rend="i">xxyy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi>
+========================================
+% f0213: AM8-273-687 (1 x); 
+12 − 16 <hi rend="i">a</hi> + 7<hi rend="i">a</hi><hi rend="sup">2</hi> − 4<hi rend="i">a</hi><hi rend="sup">3</hi> + <hi rend="i">a</hi><hi rend="sup">4</hi>
+========================================
+% f0214: AM3-028-174 (1 x); 
+6<hi rend="i">ev</hi> + 2<hi rend="i">en</hi> − 6<hi rend="i">ee</hi> = 3<hi rend="i">vv</hi> + <hi rend="i">nv</hi>
+========================================
+% f0215: AM3-172-192 (1 x); 
+<hi rend="i">y</hi><hi rend="sup">3</hi> − 9<hi rend="i">yy</hi> + 13<hi rend="i">y</hi> − 12√2 + 15 = 0
+========================================
+% f0216: AM4-021-233 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">6</hi> − 3<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">b</hi> + 3<hi rend="i">aabb</hi> − <hi rend="i">b</hi><hi rend="sup">3</hi>
+========================================
+% f0217: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi> − 3<hi rend="i">x</hi><hi rend="sup">4</hi><hi rend="i">y</hi> + 3<hi rend="i">xxyy</hi> − <hi rend="i">y</hi><hi rend="sup">3</hi>
+========================================
+% f0218: AM2-353-166 (1 x); 
++ <hi rend="i">y</hi><hi rend="sup">6</hi> + 8<hi rend="i">y</hi><hi rend="sup">4</hi> − 124<hi rend="i">yy</hi> + 64 = 0
+========================================
+% f0219: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi> = 3<hi rend="i">caa</hi> + 3<hi rend="i">cae</hi> + <hi rend="i">cee</hi>
+========================================
+% f0220: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi> = 3<hi rend="i">caa</hi> = 3<hi rend="i">cae</hi> + <hi rend="i">cee</hi>
+========================================
+% f0221: AM3-028-174 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> − 3<hi rend="i">vxx</hi> + 3<hi rend="i">vvx</hi> − <hi rend="i">v</hi><hi rend="sup">3</hi>
+========================================
+% f0222: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> + 3<hi rend="i">xy</hi> + 3<hi rend="i">xx</hi>√<hi rend="i">y</hi> + <hi rend="i">y</hi>√<hi rend="i">y</hi>
+========================================
+% f0223: AM2-143-144 (1 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi>
+<hi rend="i">Eq</hi> − <hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+<hi rend="i">bis</hi>
+========================================
+% f0224: AM2-143-144 (1 x); 
+<hi rend="i">D</hi>
+<hi rend="i">in</hi> <hi rend="i">Eq</hi> − <hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+<hi rend="i">bis</hi>
+========================================
+% f0225: AM3-172-192 (1 x); 
+<hi rend="i">yy</hi> − 6<hi rend="i">y</hi> − <hi rend="i">y</hi>√2 + 3√2 − 3 = 0
+========================================
+% f0226: AM3-028-174 (1 x); 
+AF = <hi rend="i">b</hi>  DF = <hi rend="i">c</hi> 
+FE = <hi rend="i">d</hi>
+========================================
+% f0227: AM4-021-233 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi> − <hi rend="i">ab</hi> + <hi rend="i">aa</hi>√<hi rend="i">b</hi> − <hi rend="i">b</hi>√<hi rend="i">b</hi>
+========================================
+% f0228: AM2-251-156 (3 x); 
+<hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">C</hi> + <hi rend="i">Bq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi>
+========================================
+% f0229: AM4-021-233 (1 x); 
+9<hi rend="i">x</hi><hi rend="sup">4</hi><hi rend="i">y</hi> + 6<hi rend="i">xxyy</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi>
+========================================
+% f0230: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi> + 6<hi rend="i">x</hi><hi rend="sup">4</hi><hi rend="i">y</hi> + 9<hi rend="i">xxyy</hi>
+========================================
+% f0231: AM3-184-193 (1 x); 
+<hi rend="i">b</hi>√2 = <hi rend="i">n</hi> ω  −  ω  + <hi rend="i">n</hi> ε
+========================================
+% f0232: AM3-142-188 (2 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> − 2700 <hi rend="i">x</hi> + 31293 = 0
+========================================
+% f0233: AM4-021-233 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">6</hi> − 2<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">b</hi> + <hi rend="i">aabb</hi>
+========================================
+% f0234: AM3-142-188 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> − 2700 <hi rend="i">x</hi> + 31283 = 0
+========================================
+% f0235: AM4-021-233 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">4</hi><hi rend="i">b</hi> − 2<hi rend="i">aabb</hi> + <hi rend="i">b</hi><hi rend="sup">3</hi>
+========================================
+% f0236: AM2-071-131 (1 x); 
+<hi rend="i">Aq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> <hi rend="i">bis</hi> + <hi rend="i">Eq</hi>
+========================================
+% f0237: AM2-251-156 (1 x); 
+<hi rend="i">Aq</hi> + <hi rend="i">Bq</hi> + <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi>
+========================================
+% f0238: AM5-181-339 (1 x); 
+<hi rend="i">y</hi><hi rend="sup">10</hi> + <hi rend="i">ay</hi><hi rend="sup">8</hi> − <hi rend="i">by</hi><hi rend="sup">7</hi>
+========================================
+% f0239: AM2-143-144 (2 x); 
+<hi rend="i">Aq</hi> + <hi rend="i">Eq</hi> − <hi rend="i">A</hi> <hi rend="i">in</hi>
+<hi rend="i">E</hi> <hi rend="i">bis</hi>
+========================================
+% f0240: AM6-052-408 (1 x); 
+DG = <hi rend="i">z</hi> 
+CF = <hi rend="i">f</hi> − <hi rend="i">z</hi>
+========================================
+% f0241: AM6-052-408 (1 x); 
+FD = <hi rend="i">y</hi> 
+BG = <hi rend="i">e</hi> − <hi rend="i">y</hi>
+========================================
+% f0242: AM8-273-687 (1 x); 
+4 − 4<hi rend="i">a</hi> + 4<hi rend="i">a</hi><hi rend="sup">2</hi> − <hi rend="i">a</hi><hi rend="sup">3</hi>
+========================================
+% f0243: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">Eq</hi> + <hi rend="i">Aq</hi> <hi rend="i">in</hi>
+<hi rend="i">E</hi>
+========================================
+% f0244: AM3-028-174 (1 x); 
+<hi rend="i">xx</hi> − 2<hi rend="i">ex</hi> + <hi rend="i">ee</hi> = 0
+========================================
+% f0245: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi>
+<hi rend="i">Aq</hi> − <hi rend="i">Aq</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0246: AM2-251-156 (1 x); 
+<hi rend="i">E</hi> <hi rend="i">in</hi> <hi rend="i">C</hi> + <hi rend="i">E</hi> <hi rend="i">in</hi> <hi rend="i">B</hi> <hi rend="i">bis</hi>
+========================================
+% f0247: AM3-142-188 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> − 2700 <hi rend="i">x</hi> + 31283
+========================================
+% f0248: AM3-028-174 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi> = <hi rend="i">xyn</hi>
+========================================
+% f0249: AM4-021-233 (1 x); 
+3<hi rend="i">xy</hi> = 3<hi rend="i">x</hi><hi rend="sup">3</hi> − 3<hi rend="i">cx</hi>
+========================================
+% f0250: AM3-111-184 (1 x); 
+<hi rend="i">nxy</hi> = <hi rend="i">x</hi><hi rend="sup">3</hi> + <hi rend="i">y</hi><hi rend="sup">3</hi>
+========================================
+% f0251: AM2-275-158 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">4</hi> + 2<hi rend="i">x</hi><hi rend="sup">3</hi> + <hi rend="i">xx</hi>
+========================================
+% f0252: AM4-021-233 (1 x); 
+8<hi rend="i">x</hi><hi rend="sup">3</hi> = 6<hi rend="i">cx</hi> + 2<hi rend="i">a</hi>
+========================================
+% f0253: AM3-028-174 (1 x); 
+2<hi rend="i">f</hi> = 3<hi rend="i">v</hi> + <hi rend="i">n</hi> − 4<hi rend="i">e</hi>
+========================================
+% f0254: AM4-021-233 (1 x); 
+4<hi rend="i">x</hi><hi rend="sup">3</hi> − 3<hi rend="i">cx</hi> = <hi rend="i">a</hi>
+========================================
+% f0255: AM4-021-233 (3 x); 
+<hi rend="i">z</hi><hi rend="sup">3</hi> = 3<hi rend="i">cz</hi> + 2<hi rend="i">a</hi>
+========================================
+% f0256: AM2-143-144 (1 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> − <hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0257: AM2-143-144 (1 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> − <hi rend="i">D</hi>
+<hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0258: AM4-021-233 (1 x); 
+4<hi rend="i">x</hi><hi rend="sup">3</hi> = 3<hi rend="i">cx</hi> + <hi rend="i">a</hi>
+========================================
+% f0259: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi>
+<hi rend="i">in</hi> <hi rend="i">E</hi> <hi rend="i">bis</hi>
+========================================
+% f0260: AM2-287-159 (2 x); 
+<hi rend="i">ha</hi> = <hi rend="i">ga</hi> + <hi rend="i">ge</hi>
+========================================
+% f0261: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> + 3<hi rend="i">xy</hi> = <hi rend="i">a</hi>
+========================================
+% f0262: AM8-187-663 (1 x); 
+3 − Ve3 − Ve2
+========================================
+% f0263: AM3-184-193 (1 x); 
+NF = <hi rend="i">b</hi>√2 −  ε
+========================================
+% f0264: AM8-201-670 (2 x); 
+3 − <hi rend="i">Ve</hi>3 − <hi rend="i">Ve</hi>2
+========================================
+% f0265: AM8-273-687 (1 x); 
+<hi rend="i">hh</hi>
+HB || <hi rend="i">g</hi> |
+========================================
+% f0266: AM4-021-233 (1 x); 
+3<hi rend="i">xx</hi>√<hi rend="i">y</hi> + <hi rend="i">y</hi>√<hi rend="i">y</hi>
+========================================
+% f0267: AM3-172-192 (1 x); 
+1C − 9Q + 13N
+========================================
+% f0268: AM3-172-192 (1 x); 
+1C − 8Q + 19N
+========================================
+% f0269: AM3-028-174 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">10</hi> + <hi rend="i">Bx</hi><hi rend="sup">9</hi>
+========================================
+% f0270: AM6-052-408 (1 x); 
+DE = <hi rend="i">y</hi>  DG
+========================================
+% f0271: AM1-005-002 (1 x); 
+ON − O<figure rend="inline"><graphic url="cossic1.png"/></figure>
+========================================
+% f0272: AM3-172-192 (1 x); 
+<hi rend="i">y</hi> − 3 + √2 = 0
+========================================
+% f0273: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">E</hi> +
+<hi rend="i">Aq</hi>
+========================================
+% f0274: AM4-021-233 (1 x); 
+<hi rend="i">aa</hi>√<hi rend="i">b</hi> − <hi rend="i">b</hi>√<hi rend="i">b</hi>
+========================================
+% f0275: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi> = 3<hi rend="i">caa</hi>
+========================================
+% f0276: AM2-251-156 (1 x); 
+<hi rend="i">C</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> − <hi rend="i">Aq</hi>
+========================================
+% f0277: AM1-005-002 (1 x); 
+O<figure rend="inline"><graphic url="cossic1.png"/></figure> − ON
+========================================
+% f0278: AM3-315-227 (1 x); 
+− 216 <hi rend="i">n</hi><hi rend="sup">4</hi><hi rend="i">xx</hi>
+========================================
+% f0279: AM1-005-002 (1 x); 
+O<figure rend="inline"><graphic url="cossic1.png"/></figure> + ON
+========================================
+% f0280: AM4-164-262 (1 x); 
+1C − 6N = 40
+========================================
+% f0281: AM4-021-233 (1 x); 
+<hi rend="i">y</hi> = <hi rend="i">xx</hi> − <hi rend="i">c</hi>
+========================================
+% f0282: AM2-287-159 (1 x); 
+EF = <hi rend="i">a</hi> + <hi rend="i">e</hi>
+========================================
+% f0283: AM3-028-174 (1 x); 
+CI = <hi rend="i">y</hi> − <hi rend="i">b</hi>
+========================================
+% f0284: AM2-287-159 (1 x); 
+FA = <hi rend="i">c</hi> + <hi rend="i">e</hi>
+========================================
+% f0285: AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi> + 3<hi rend="i">xy</hi>
+========================================
+% f0286: AM3-028-174 (1 x); 
+2<hi rend="i">x</hi> − 2<hi rend="i">f</hi> = 0
+========================================
+% f0287: AM2-275-158 (1 x); 
+2<hi rend="i">x</hi><hi rend="sup">4</hi> + <hi rend="i">xx</hi>
+========================================
+% f0288: AM2-251-156 (1 x); 
+<hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">C</hi> − <hi rend="i">A</hi>
+========================================
+% f0289: AM3-315-227 (1 x); 
+<hi rend="i">y</hi> − 6<hi rend="i">n</hi> = <hi rend="i">x</hi>
+========================================
+% f0290: AM4-021-233 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi> − <hi rend="i">ab</hi>
+========================================
+% f0291: AM3-184-193 (1 x); 
+PF =  ε
+========================================
+% f0292: AM3-184-193 (1 x); 
+NP = <hi rend="i">b</hi>√2
+========================================
+% f0293: AM8-273-687 (1 x); 
+MH || <hi rend="i">a</hi> |
+========================================
+% f0294: AM2-143-144 (2 x); 
+− <hi rend="i">Aq</hi>
+<hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0295: AM3-315-227 (1 x); 
+CB <hi rend="i">in</hi> CH
+========================================
+% f0296: AM3-315-227 (1 x); 
+FC <hi rend="i">in</hi> CD
+========================================
+% f0297: AM8-273-687 (1 x); 
+AB || <hi rend="i">d</hi> |
+========================================
+% f0298: AM3-184-193 (1 x); 
+FR =  ω
+========================================
+% f0299: AM1-246-060 (1 x); 
+BC + 2GF
+========================================
+% f0300: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">A</hi> <hi rend="i">bis</hi>
+========================================
+% f0301: AM2-287-159 (1 x); 
+<hi rend="i">a</hi> = <hi rend="i">a</hi> + <hi rend="i">e</hi>
+========================================
+% f0302: AM8-273-687 (1 x); 
+DE || <hi rend="i">c</hi> |
+========================================
+% f0303: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi>
+<hi rend="i">A</hi> <hi rend="i">bis</hi>
+========================================
+% f0304: AM8-273-687 (1 x); 
+IC || <hi rend="i">h</hi> |
+========================================
+% f0305: AM3-315-227 (1 x); 
+1296 <hi rend="i">n</hi><hi rend="sup">5</hi><hi rend="i">x</hi>
+========================================
+% f0306: AM4-361-303 (1 x); 
+DO + DB
+========================================
+% f0307: AM4-361-303 (1 x); 
+DO − DB
+========================================
+% f0308: AM2-071-131 (2 x); 
+<hi rend="i">Aq</hi> + <hi rend="i">Bq</hi>
+========================================
+% f0309: AM3-184-193 (1 x); 
+NP = <hi rend="i">b</hi>√2
+========================================
+% f0310: AM2-353-166 (1 x); 
+<hi rend="i">ax</hi> + <hi rend="i">ay</hi>
+========================================
+% f0311: AM2-329-164 (1 x); 
+ABC
+DE
+========================================
+% f0312: AM3-028-174 (1 x); 
+AH = <hi rend="i">hz</hi>
+========================================
+% f0313: AM3-028-174 (1 x); 
+AG = <hi rend="i">gz</hi>
+========================================
+% f0314: AM3-184-193 (1 x); 
+MR = <hi rend="i">b</hi>√2
+========================================
+% f0315: AM3-028-174 (1 x); 
+GF = y
+========================================
+% f0316: AM4-164-262 (1 x); 
+20 + √392
+========================================
+% f0317: AM3-184-193 (1 x); 
+<hi rend="i">b</hi>√2 +  ω
+========================================
+% f0318: AM3-315-227 (1 x); 
+1296 <hi rend="i">n</hi><hi rend="sup">5</hi>
+========================================
+% f0319: AM3-184-193 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi><hi rend="sup">2</hi>
+========================================
+% f0320: AM8-232-679 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">7</hi> <hi rend="i">e</hi>
+========================================
+% f0321: AM3-028-174 (1 x); 
+AH = <hi rend="i">n</hi>
+========================================
+% f0322: AM8-232-679 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">7</hi> <hi rend="i">d</hi>
+========================================
+% f0323: AM8-232-679 (1 x); 
+<hi rend="i">b</hi><hi rend="sup">7</hi> <hi rend="i">c</hi>
+========================================
+% f0324: AM7-249-576 (1 x); 
+1 550 3/4
+========================================
+% f0325: AM2-287-159 (2 x); 
+BC = <hi rend="i">b</hi>
+========================================
+% f0326: AM3-315-227 (1 x); 
++ <hi rend="i">nx</hi><hi rend="sup">5</hi>
+========================================
+% f0327: AM2-287-159 (1 x); 
+CF = <hi rend="i">e</hi>
+========================================
+% f0328: AM8-232-679 (1 x); 
+<hi rend="i">b</hi><hi rend="sup">7</hi> <hi rend="i">a</hi>
+========================================
+% f0329: AM3-172-192 (1 x); 
+1C − 6N
+========================================
+% f0330: AM2-275-158 (1 x); 
+<hi rend="i">xx</hi> + <hi rend="i">x</hi>
+========================================
+% f0331: AM4-021-233 (2 x); 
+<hi rend="i">b</hi> − <hi rend="i">aa</hi>
+========================================
+% f0332: AM2-287-159 (2 x); 
+AC = <hi rend="i">c</hi>
+========================================
+% f0333: AM3-028-174 (1 x); 
+CA = <hi rend="i">a</hi>
+========================================
+% f0334: AM6-052-408 (1 x); 
+FD = <hi rend="i">y</hi>
+========================================
+% f0335: AM2-287-159 (1 x); 
+EC = <hi rend="i">a</hi>
+========================================
+% f0336: AM3-028-174 (1 x); 
+AC = <hi rend="i">a</hi>
+========================================
+% f0337: AM2-287-159 (1 x); 
+CE = <hi rend="i">a</hi>
+========================================
+% f0338: AM6-052-408 (1 x); 
+FE = <hi rend="i">z</hi>
+========================================
+% f0339: AM3-028-174 (1 x); 
+AG = x
+========================================
+% f0340: AM3-184-193 (1 x); 
+AB = <hi rend="i">b</hi>
+========================================
+% f0341: AM3-184-193 (1 x); 
+ε  +  ω
+========================================
+% f0342: AM3-028-174 (2 x); 
+CB = <hi rend="i">y</hi>
+========================================
+% f0343: AM4-021-233 (5 x); 
+<hi rend="i">aa</hi> − <hi rend="i">b</hi>
+========================================
+% f0344: AM4-164-262 (1 x); 
+20 − √392
+========================================
+% f0345: AM3-315-227 (1 x); 
+216 <hi rend="i">n</hi><hi rend="sup">4</hi>
+========================================
+% f0346: AM3-172-192 (1 x); 
+√288 − 15
+========================================
+% f0347: AM3-315-227 (1 x); 
++ <hi rend="i">ax</hi><hi rend="sup">5</hi>
+========================================
+% f0348: AM4-021-233 (2 x); 
+<hi rend="i">y</hi> − <hi rend="i">xx</hi>
+========================================
+% f0349: AM2-353-166 (1 x); 
+<hi rend="i">yy</hi> + 16
+========================================
+% f0350: AM4-021-233 (3 x); 
+<hi rend="i">xx</hi> − <hi rend="i">y</hi>
+========================================
+% f0351: AM2-143-144 (2 x); 
+<hi rend="i">A</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0352: AM3-204-198 (1 x); 
+IC 17
+========================================
+% f0353: AM4-021-233 (7 x); 
+<hi rend="i">a</hi> + √<hi rend="i">b</hi>
+========================================
+% f0354: AM2-287-159 (1 x); 
+<hi rend="i">a</hi> = 3<hi rend="i">c</hi>
+========================================
+% f0355: AM2-287-159 (1 x); 
+<hi rend="i">c</hi> + <hi rend="i">e</hi>
+========================================
+% f0356: AM8-232-679 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">7</hi> <hi rend="i">c</hi>
+========================================
+% f0357: AM4-270-289 (1 x); 
+B <hi rend="i">in</hi> F
+========================================
+% f0358: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi> <hi rend="i">E</hi>
+========================================
+% f0359: AM4-021-233 (3 x); 
+<hi rend="i">x</hi> + √<hi rend="i">y</hi>
+========================================
+% f0360: AM3-315-227 (1 x); 
+− <hi rend="i">dxx</hi>
+========================================
+% f0361: AM1-094-023 (1 x); 
+255/256
+========================================
+% f0362: AM1-383-117 (1 x); AM4-270-289 (1 x); 
+A <hi rend="i">in</hi> B
+========================================
+% f0363: AM4-021-233 (1 x); 
+<hi rend="i">z</hi> = 2<hi rend="i">x</hi>
+========================================
+% f0364: AM6-208-467 (2 x); 
+M C M
+========================================
+% f0365: AM1-094-023 (1 x); 
+127/128
+========================================
+% f0366: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">in</hi>
+<hi rend="i">E</hi>
+========================================
+% f0367: AM3-204-198 (1 x); 
+FL 136
+========================================
+% f0368: AM8-273-687 (1 x); 
+<hi rend="i">b</hi> <hi rend="i">in</hi> <hi rend="i">g</hi>
+========================================
+% f0369: AM8-232-679 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">7</hi> <hi rend="i">b</hi>
+========================================
+% f0370: AM3-321-227bis (1 x); 
+a − <hi rend="i">p</hi>
+========================================
+% f0371: AM3-184-193 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">2</hi><hi rend="i">y</hi>
+========================================
+% f0372: AM3-028-174 (3 x); 
+<hi rend="i">x</hi> − <hi rend="i">v</hi>
+========================================
+% f0373: AM8-273-687 (1 x); 
+|| <hi rend="i">b</hi> |
+========================================
+% f0374: AM3-172-192 (1 x); 
+3 + √18
+========================================
+% f0375: AM3-172-192 (1 x); 
+3 + 3√2
+========================================
+% f0376: AM3-028-174 (1 x); 
+<hi rend="i">y</hi> − <hi rend="i">b</hi>
+========================================
+% f0377: AM3-172-192 (1 x); 
+3 − 2√2
+========================================
+% f0378: AM8-273-687 (1 x); 
+IC<hi rend="sup">2</hi>
+========================================
+% f0379: AM3-142-188 (2 x); 
+<hi rend="i">x</hi> + 57
+========================================
+% f0380: AM3-321-227bis (1 x); 
+a + <hi rend="i">p</hi>
+========================================
+% f0381: AM2-353-166 (1 x); 
+4 − √12
+========================================
+% f0382: AM2-143-144 (3 x); 
+<hi rend="i">D</hi> − <hi rend="i">E</hi>
+========================================
+% f0383: AM2-071-131 (1 x); AM2-251-156 (1 x); 
+<hi rend="i">D</hi> + <hi rend="i">E</hi>
+========================================
+% f0384: AM2-353-166 (1 x); 
+γ  12
+========================================
+% f0385: AM2-353-166 (1 x); 
+4 + √12
+========================================
+% f0386: AM2-287-159 (1 x); 
+<hi rend="i">ca</hi><hi rend="sup">3</hi>
+========================================
+% f0387: AM7-249-576 (1 x); 
+47 3/20
+========================================
+% f0388: AM3-204-198 (1 x); 
+FL 20
+========================================
+% f0389: AM3-200-197 (2 x); 
+− <hi rend="i">x</hi><hi rend="sup">2</hi>
+========================================
+% f0390: AM3-204-198 (1 x); 
+IC 5
+========================================
+% f0391: AM6-070-414 (1 x); 
+36 <hi rend="i">xx</hi>
+========================================
+% f0392: AM8-273-687 (1 x); 
+<hi rend="i">f</hi> − <hi rend="i">a</hi>
+========================================
+% f0393: AM3-200-197 (1 x); 
++ <hi rend="i">x</hi><hi rend="sup">2</hi>
+========================================
+% f0394: AM2-071-131 (3 x); AM2-251-156 (9 x); 
+<hi rend="i">A</hi> + <hi rend="i">E</hi>
+========================================
+% f0395: AM2-071-131 (1 x); AM2-143-144 (1 x); AM2-251-156 (1 x); 
+<hi rend="i">A</hi> − <hi rend="i">E</hi>
+========================================
+% f0396: AM7-249-576 (1 x); 
+17 2/5
+========================================
+% f0397: AM7-355-604 (1 x); 
+E<hi rend="sub">3</hi>
+========================================
+% f0398: AM7-069-538 (1 x); 
+ZG 4
+========================================
+% f0399: AM2-287-159 (1 x); 
+<hi rend="i">b</hi><hi rend="sup">2</hi>
+========================================
+% f0400: AM3-315-227 (1 x); 
++ <hi rend="i">ex</hi>
+========================================
+% f0401: AM2-143-144 (2 x); 
+<hi rend="i">D</hi> <hi rend="i">bis</hi>
+========================================
+% f0402: AM3-184-193 (2 x); 
+A α
+========================================
+% f0403: AM3-172-192 (1 x); 
+3 − √2
+========================================
+% f0404: AM3-028-174 (1 x); 
+AE =
+========================================
+% f0405: AM7-355-604 (1 x); 
+F<hi rend="sub">2</hi>
+========================================
+% f0406: AM3-184-193 (1 x); 
+A β
+========================================
+% f0407: AM7-084-542 (2 x); 
+1/1000
+========================================
+% f0408: AM5-181-339 (1 x); 
+<hi rend="i">y</hi><hi rend="sup">12</hi>
+========================================
+% f0409: AM7-355-604 (1 x); 
+D<hi rend="sub">4</hi>
+========================================
+% f0410: AM3-172-192 (1 x); 
+3 − √8
+========================================
+% f0411: AM3-184-193 (1 x); 
+A α
+========================================
+% f0412: AM1-094-023 (1 x); 
+63/64
+========================================
+% f0413: AM2-353-166 (1 x); 
+13  υ
+========================================
+% f0414: AM2-353-166 (1 x); 
+μ  10
+========================================
+% f0415: AM1-048-017 (1 x); 
+256/81
+========================================
+% f0416: AM8-187-663 (1 x); 
+<hi rend="i">B</hi> − 2
+========================================
+% f0417: AM4-164-262 (1 x); 
+2 + √2
+========================================
+% f0418: AM7-355-604 (1 x); 
+B<hi rend="sub">5</hi>
+========================================
+% f0419: AM7-069-538 (1 x); 
+6 H 7
+========================================
+% f0420: AM4-164-262 (1 x); 
+2 − √2
+========================================
+% f0421: AM4-361-303 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi>
+========================================
+% f0422: AM2-353-166 (1 x); 
+11  ν
+========================================
+% f0423: AM7-249-576 (1 x); 
+DC 2
+========================================
+% f0424: AM1-094-023 (1 x); 
+C 2/3
+========================================
+% f0425: AM2-287-159 (1 x); 
+BC =
+========================================
+% f0426: AM7-249-576 (1 x); 
+5 3/20
+========================================
+% f0427: AM1-094-023 (1 x); 
+31/32
+========================================
+% f0428: AM1-094-023 (1 x); 
+B 1/3
+========================================
+% f0429: AM5-181-339 (2 x); 
+<hi rend="i">y</hi><hi rend="sup">10</hi>
+========================================
+% f0430: AM5-181-339 (6 x); 
+<hi rend="i">x</hi><hi rend="sup">5</hi>
+========================================
+% f0431: AM6-244-480 (1 x); 
+A B
+========================================
+% f0432: AM6-244-480 (1 x); 
+B 18
+========================================
+% f0433: AM6-208-467 (1 x); 
+S M
+========================================
+% f0434: AM3-184-193 (1 x); 
+A β
+========================================
+% f0435: AM3-028-174 (1 x); 
+<hi rend="i">y</hi><hi rend="sup">6</hi>
+========================================
+% f0436: AM1-278-069 (1 x); 
+15/25
+========================================
+% f0437: AM6-208-467 (1 x); 
+<hi rend="i">e</hi> <hi rend="i">g</hi>
+========================================
+% f0438: AM7-355-604 (1 x); 
+A<hi rend="sub">1</hi>
+========================================
+% f0439: AM5-181-339 (4 x); 
+<hi rend="i">x</hi><hi rend="sup">6</hi>
+========================================
+% f0440: AM8-273-687 (1 x); 
+<hi rend="i">c</hi><hi rend="sup">2</hi>
+========================================
+% f0441: AM8-273-687 (1 x); 
+<hi rend="i">h</hi><hi rend="sup">2</hi>
+========================================
+% f0442: AM7-032-529 (1 x); 
+A 73
+========================================
+% f0443: AM3-321-227bis (1 x); 
+<hi rend="i">a</hi> K
+========================================
+% f0444: AM8-235-680 (1 x); AM8-253-682 (1 x); 
+<hi rend="i">b</hi><hi rend="sup">2</hi>
+========================================
+% f0445: AM7-084-542 (2 x); 
+1/100
+========================================
+% f0446: AM1-094-023 (1 x); 
+15/16
+========================================
+% f0447: AM3-028-174 (2 x); AM3-111-184 (1 x); 
+<hi rend="i">y</hi><hi rend="sup">3</hi>
+========================================
+% f0448: AM3-184-193 (1 x); AM4-021-233 (1 x); 
+<hi rend="i">x</hi><hi rend="sup">3</hi>
+========================================
+% f0449: AM2-287-159 (1 x); 
+<hi rend="i">b</hi><hi rend="sup">3</hi>
+========================================
+% f0450: AM2-287-159 (1 x); 
+<hi rend="i">a</hi><hi rend="sup">3</hi>
+========================================
+% f0451: AM1-048-017 (1 x); 
+64/27
+========================================
+% f0452: AM7-032-529 (1 x); 
+A 44
+========================================
+% f0453: AM6-208-467 (1 x); 
+<hi rend="i">S</hi> <hi rend="i">M</hi>
+========================================
+% f0454: AM4-070-244 (1 x); AM5-315-385 (1 x); 
+10/20
+========================================
+% f0455: AM6-208-467 (4 x); 
+<hi rend="i">d</hi> <hi rend="i">f</hi>
+========================================
+% f0456: AM1-297-077 (1 x); 
+2 4/5
+========================================
+% f0457: AM7-088-543 (1 x); 
+F 6
+========================================
+% f0458: AM1-297-077 (2 x); 
+11/5
+========================================
+% f0459: AM7-084-542 (1 x); 
+1/10
+========================================
+% f0460: AM1-048-017 (1 x); 
+16/9
+========================================
+% f0461: AM7-069-538 (1 x); 
+I 5
+========================================
+% f0462: AM5-287-376 (1 x); 
+6/16
+========================================
+% f0463: AM7-069-538 (2 x); 
+I 3
+========================================
+% f0464: AM7-249-576 (2 x); 
+3/20
+========================================
+% f0465: AM7-088-543 (1 x); 
+G 7
+========================================
+% f0466: AM6-244-480 (1 x); 
+C 8
+========================================
+% f0467: AM7-249-576 (2 x); 
+7/5
+========================================
+% f0468: AM4-021-233 (1 x); 
+√<hi rend="i">y</hi>
+========================================
+% f0469: AM7-084-542 (1 x); 
+1/9
+========================================
+% f0470: AM1-094-023 (1 x); AM7-249-576 (1 x); 
+1/2
+========================================
+% f0471: AM4-164-262 (1 x); 
+√5
+========================================
+% f0472: AM5-257-370 (2 x); 
+1/4
+========================================
+% f0473: AM4-257-287 (1 x); AM4-270-289 (4 x); AM4-317-293 (2 x); 
+√10
+========================================
+% f0474: AM4-021-233 (2 x); 
+√<hi rend="i">b</hi>
+========================================
+% f0475: AM1-094-023 (1 x); AM8-318-528 (1 x); 
+2/3
+========================================
+% f0476: AM1-094-023 (1 x); 
+7/8
+========================================
+% f0477: AM1-094-023 (2 x); AM5-257-370 (2 x); AM7-249-576 (2 x); AM7-271-582 (1 x); AM7-355-604 (1 x); AM8-007-620 (1 x); 
+3/4
+========================================
+% f0478: AM4-164-262 (4 x); 
+√3
+========================================
+% f0479: AM5-103-324 (1 x); 
+1/3
+========================================
+% f0480: AM1-094-023 (2 x); 
+3/2
+========================================
+% f0481: AM1-048-017 (1 x); AM3-184-193 (2 x); 
+4/3
+========================================
+% f0482: AM1-094-023 (1 x); 
+7/4
+========================================
+% f0483: AM4-164-262 (1 x); 
+√7
+========================================
+% f0484: AM4-270-289 (1 x); AM4-317-293 (1 x); 
+√5
+========================================
+% f0485: AM3-184-193 (1 x); AM4-270-289 (1 x); AM4-317-293 (1 x); 
+√2
+========================================
+% f0486: AM5-283-375 (1 x); 
+√C
+========================================
+% f0487: AM4-270-289 (1 x); 
+√4
+========================================
+% f0488: AM5-283-375 (1 x); 
+√
+========================================
+
+%===TYPE A============================================
+% f0489: AM7-069-538 (1 x); 
+ABCDEFGH
+========================================
+% f0490: AM6-070-414 (1 x); 
+<hi rend="i">ddeeff</hi>
+========================================
+% f0491: AM6-070-414 (1 x); 
+<hi rend="i">ddeexx</hi>
+========================================
+% f0492: AM7-019-523 (3 x); 
+HIKLMN
+========================================
+% f0493: AM7-069-538 (1 x); 
+CGEFHD
+========================================
+% f0494: AM3-315-227 (1 x); 
+IKLBCD
+========================================
+% f0495: AM2-213-152 (1 x); AM4-361-303 (1 x); 
+<figure rend="inline"><graphic url="propto.png"/></figure>
+========================================
+% f0496: AM2-353-166 (1 x); 
+FGCHE
+========================================
+% f0497: AM2-031-122 (3 x); AM2-329-164 (3 x); 
+FGHIK
+========================================
+% f0498: AM2-353-166 (1 x); 
+<hi rend="i">anopb</hi>
+========================================
+% f0499: AM2-353-166 (1 x); 
+ELAKF
+========================================
+% f0500: AM3-142-188 (1 x); 
+CDGIA
+========================================
+% f0501: AM2-353-166 (1 x); 
+φγκυω
+========================================
+% f0502: AM2-353-166 (1 x); 
+φγκθε
+========================================
+% f0503: AM2-353-166 (1 x); 
+εθκυω
+========================================
+% f0504: AM3-028-174 (1 x); 
+ACKFA
+========================================
+% f0505: AM1-083-021 (1 x); AM2-031-122 (4 x); AM2-329-164 (3 x); 
+ABCDE
+========================================
+% f0506: AM2-353-166 (2 x); 
+AKFGC
+========================================
+% f0507: AM3-056-176 (2 x); 
+ANBCD
+========================================
+% f0508: AM7-069-538 (1 x); 
+BDHF
+========================================
+% f0509: AM4-130-255 (1 x); 
+LMNO
+========================================
+% f0510: AM4-021-233 (1 x); 
+BGHI
+========================================
+% f0511: AM1-070-020 (1 x); 
+HGKI
+========================================
+% f0512: AM1-083-021 (2 x); 
+BCDE
+========================================
+% f0513: AM3-028-174 (1 x); 
+EHIA
+========================================
+% f0514: AM8-201-670 (1 x); 
+EGHF
+========================================
+% f0515: AM7-069-538 (3 x); 
+CGHF
+========================================
+% f0516: AM1-054-018 (2 x); AM1-059-019 (2 x); AM1-070-020 (1 x); 
+PNOM
+========================================
+% f0517: AM3-028-174 (1 x); 
+ADCE
+========================================
+% f0518: AM4-112-252 (1 x); 
+ABDE
+========================================
+% f0519: AM1-124-027 (1 x); AM1-262-064 (1 x); AM2-031-122 (1 x); AM2-118-140 (1 x); AM2-347-165 (1 x); AM3-028-174 (3 x); AM3-056-176 (1 x); AM3-097-182 (1 x); AM3-315-227 (1 x); AM4-021-233 (1 x); AM4-130-255 (1 x); AM4-290-290 (1 x); AM5-265-371 (1 x); AM5-270-372 (1 x); AM7-019-523 (2 x); AM7-032-529 (2 x); AM7-146-547 (4 x); AM8-116-652 (1 x); 
+ABCD
+========================================
+% f0520: AM7-069-538 (6 x); AM7-076-539 (1 x); 
+ILNM
+========================================
+% f0521: AM2-246-155 (1 x); 
+CBAV
+========================================
+% f0522: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+ABCH
+========================================
+% f0523: AM7-069-538 (2 x); 
+BDHF
+========================================
+% f0524: AM5-257-370 (2 x); 
+DEFB
+========================================
+% f0525: AM7-069-538 (3 x); 
+ACGE
+========================================
+% f0526: AM8-273-687 (1 x); 
+QACN
+========================================
+% f0527: AM2-353-166 (1 x); 
+AFCB
+========================================
+% f0528: AM3-111-184 (1 x); 
+<hi rend="i">abcd</hi>
+========================================
+% f0529: AM2-353-166 (2 x); 
+αβφω
+========================================
+% f0530: AM3-077-180 (1 x); AM7-019-523 (2 x); 
+HIKL
+========================================
+% f0531: AM7-019-523 (1 x); 
+ADCB
+========================================
+% f0532: AM3-142-188 (1 x); 
+CDGI
+========================================
+% f0533: AM7-146-547 (2 x); 
+<hi rend="i">defg</hi>
+========================================
+% f0534: AM5-257-370 (2 x); 
+ABCG
+========================================
+% f0535: AM4-021-233 (1 x); 
+AGHK
+========================================
+% f0536: AM7-069-538 (2 x); 
+ABHG
+========================================
+% f0537: AM4-021-233 (1 x); 
+ABEF
+========================================
+% f0538: AM7-032-529 (1 x); 
+AHEI
+========================================
+% f0539: AM7-019-523 (1 x); 
+HNML
+========================================
+% f0540: AM4-270-289 (1 x); 
+ABAG
+========================================
+% f0541: AM8-201-670 (1 x); 
+LMNK
+========================================
+% f0542: AM3-028-174 (1 x); 
+EFGD
+========================================
+% f0543: AM1-070-020 (2 x); 
+CLYD
+========================================
+% f0544: AM7-146-547 (1 x); 
+AEIO
+========================================
+% f0545: AM4-021-233 (1 x); 
+IEFK
+========================================
+% f0546: AM7-179-552 (1 x); 
+DEFG
+========================================
+% f0547: AM4-130-255 (1 x); 
+EFGH
+========================================
+% f0548: AM3-056-176 (1 x); 
+ANBC
+========================================
+% f0549: AM4-112-252 (1 x); 
+BCFG
+========================================
+% f0550: AM5-295-379 (1 x); 
+ACBD
+========================================
+% f0551: AM2-261-157 (2 x); 
+STVX
+========================================
+% f0552: AM2-050-126 (1 x); 
+GAEF
+========================================
+% f0553: AM5-257-370 (1 x); 
+DECB
+========================================
+% f0554: AM7-069-538 (1 x); 
+ABD
+========================================
+% f0555: AM2-044-124 (1 x); 
+IGH
+========================================
+% f0556: AM1-005-002 (1 x); 
+1<figure rend="inline"><graphic url="cossic2.png"/></figure>
+========================================
+% f0557: AM2-050-126 (1 x); 
+AEF
+========================================
+% f0558: AM7-069-538 (1 x); 
+IMS
+========================================
+% f0559: AM2-261-157 (1 x); 
+EKD
+========================================
+% f0560: AM1-070-020 (1 x); 
+XQY
+========================================
+% f0561: AM7-069-538 (1 x); 
+FMI
+========================================
+% f0562: AM2-044-124 (1 x); 
+DCF
+========================================
+% f0563: AM6-052-408 (1 x); 
+BCD
+========================================
+% f0564: AM1-070-020 (1 x); 
+XPY
+========================================
+% f0565: AM7-069-538 (1 x); 
+ELH
+========================================
+% f0566: AM3-142-188 (1 x); 
+CDE
+========================================
+% f0567: AM2-044-124 (1 x); 
+HCI
+========================================
+% f0568: AM6-052-408 (1 x); 
+CDF
+========================================
+% f0569: AM7-069-538 (1 x); 
+XNY
+========================================
+% f0570: AM3-184-193 (1 x); 
+GXM
+========================================
+% f0571: AM2-261-157 (1 x); 
+TZV
+========================================
+% f0572: AM3-056-176 (1 x); 
+ACF
+========================================
+% f0573: AM2-044-124 (1 x); 
+IBG
+========================================
+% f0574: AM2-261-157 (1 x); 
+DLF
+========================================
+% f0575: AM6-052-408 (1 x); 
+ACD
+========================================
+% f0576: AM3-056-176 (1 x); 
+ABG
+========================================
+% f0577: AM3-184-193 (1 x); 
+ZVN
+========================================
+% f0578: AM6-052-408 (1 x); 
+BDG
+========================================
+% f0579: AM2-044-124 (1 x); 
+FED
+========================================
+% f0580: AM7-069-538 (1 x); 
+IVR
+========================================
+% f0581: AM1-192-042 (1 x); 
+GHI
+========================================
+% f0582: AM4-361-303 (1 x); AM5-061-312 (1 x); 
+AHK
+========================================
+% f0583: AM2-329-164 (3 x); 
+EDG
+========================================
+% f0584: AM2-251-156 (1 x); 
+DBN
+========================================
+% f0585: AM1-116-025 (1 x); 
+AEB
+========================================
+% f0586: AM3-204-198 (1 x); 
+KNP
+========================================
+% f0587: AM7-019-523 (1 x); 
+FHG
+========================================
+% f0588: AM1-083-021 (2 x); 
+ABE
+========================================
+% f0589: AM4-361-303 (3 x); 
+BFC
+========================================
+% f0590: AM7-069-538 (1 x); 
+ITR
+========================================
+% f0591: AM2-044-124 (1 x); 
+EFB
+========================================
+% f0592: AM1-083-021 (1 x); AM2-050-126 (5 x); AM7-032-529 (1 x); 
+ACD
+========================================
+% f0593: AM7-032-529 (1 x); 
+EAN
+========================================
+% f0594: AM2-353-166 (4 x); 
+αδβ
+========================================
+% f0595: AM2-154-145 (1 x); 
+CAN
+========================================
+% f0596: AM8-318-528 (1 x); 
+βαγ
+========================================
+% f0597: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+AOF
+========================================
+% f0598: AM1-070-020 (3 x); AM3-131-185 (1 x); AM3-230-207 (2 x); 
+DEF
+========================================
+% f0599: AM1-256-063 (2 x); AM2-329-164 (3 x); AM5-265-371 (1 x); AM7-069-538 (1 x); 
+BCD
+========================================
+% f0600: AM2-353-166 (3 x); 
+AFC
+========================================
+% f0601: AM2-050-126 (1 x); 
+GFH
+========================================
+% f0602: AM3-230-207 (2 x); 
+DGH
+========================================
+% f0603: AM1-070-020 (1 x); 
+XPY
+========================================
+% f0604: AM2-329-164 (1 x); 
+BEG
+========================================
+% f0605: AM2-071-131 (1 x); AM2-251-156 (1 x); AM4-361-303 (1 x); 
+BCE
+========================================
+% f0606: AM3-184-193 (1 x); 
+<hi rend="i">xxy</hi>
+========================================
+% f0607: AM3-142-188 (1 x); AM5-265-371 (1 x); 
+CDA
+========================================
+% f0608: AM3-142-188 (1 x); 
+EDA
+========================================
+% f0609: AM2-100-139 (1 x); 
+BCF
+========================================
+% f0610: AM4-270-289 (1 x); 
+FAE
+========================================
+% f0611: AM8-253-682 (2 x); 
+EAR
+========================================
+% f0612: AM1-070-020 (1 x); AM2-261-157 (3 x); AM2-329-164 (4 x); 
+ADC
+========================================
+% f0613: AM2-246-155 (1 x); 
+CIV
+========================================
+% f0614: AM3-028-174 (1 x); 
+DRE
+========================================
+% f0615: AM1-256-063 (1 x); AM3-155-189 (1 x); 
+<hi rend="i">abc</hi>
+========================================
+% f0616: AM2-050-126 (1 x); 
+AGF
+========================================
+% f0617: AM1-070-020 (1 x); 
+HGC
+========================================
+% f0618: AM3-028-174 (1 x); AM3-131-185 (3 x); AM3-204-198 (9 x); 
+EFG
+========================================
+% f0619: AM2-353-166 (2 x); 
+νδβ
+========================================
+% f0620: AM2-251-156 (1 x); 
+EDN
+========================================
+% f0621: AM2-287-159 (1 x); AM6-052-408 (1 x); AM7-069-538 (2 x); 
+ABD
+========================================
+% f0622: AM1-402-f001d (1 x); 
+CFG
+========================================
+% f0623: AM4-361-303 (1 x); 
+BOL
+========================================
+% f0624: AM2-050-126 (2 x); 
+OAF
+========================================
+% f0625: AM3-299-224 (1 x); AM4-072-245 (1 x); 
+ALB
+========================================
+% f0626: AM5-226-358 (1 x); 
+<hi rend="i">dbe</hi>
+========================================
+% f0627: AM2-329-164 (1 x); 
+DCB
+========================================
+% f0628: AM3-142-188 (1 x); 
+DCA
+========================================
+% f0629: AM1-256-063 (1 x); 
+<hi rend="i">ade</hi>
+========================================
+% f0630: AM2-050-126 (1 x); 
+DBG
+========================================
+% f0631: AM1-070-020 (1 x); 
+IDA
+========================================
+% f0632: AM3-142-188 (1 x); 
+DAC
+========================================
+% f0633: AM3-142-188 (1 x); 
+DEA
+========================================
+% f0634: AM5-278-374 (1 x); 
+CFE
+========================================
+% f0635: AM3-230-207 (1 x); 
+IGK
+========================================
+% f0636: AM2-353-166 (1 x); 
+NBI
+========================================
+% f0637: AM2-050-126 (2 x); AM3-056-176 (1 x); 
+ANB
+========================================
+% f0638: AM8-056-637 (5 x); 
+ABH
+========================================
+% f0639: AM2-246-155 (1 x); AM2-353-166 (1 x); 
+AEF
+========================================
+% f0640: AM1-070-020 (1 x); AM3-028-174 (1 x); AM6-070-414 (1 x); 
+AHC
+========================================
+% f0641: AM1-070-020 (1 x); 
+GDF
+========================================
+% f0642: AM2-261-157 (1 x); 
+DFC
+========================================
+% f0643: AM2-291-160 (2 x); 
+GDE
+========================================
+% f0644: AM2-329-164 (1 x); 
+DKM
+========================================
+% f0645: AM7-355-604 (1 x); 
+EBC
+========================================
+% f0646: AM2-176-149 (1 x); 
+NMP
+========================================
+% f0647: AM7-032-529 (1 x); 
+CAE
+========================================
+% f0648: AM6-244-480 (1 x); 
+ABO
+========================================
+% f0649: AM3-321-227bis (1 x); 
+XLA
+========================================
+% f0650: AM3-028-174 (1 x); 
+DNE
+========================================
+% f0651: AM1-341-098 (1 x); 
+CAF
+========================================
+% f0652: AM2-329-164 (1 x); 
+HFA
+========================================
+% f0653: AM2-261-157 (1 x); 
+EAF
+========================================
+% f0654: AM1-192-042 (1 x); 
+OPQ
+========================================
+% f0655: AM2-031-122 (1 x); 
+FOK
+========================================
+% f0656: AM2-329-164 (2 x); 
+BSD
+========================================
+% f0657: AM2-226-153 (1 x); 
+ACN
+========================================
+% f0658: AM2-251-156 (1 x); 
+EIO
+========================================
+% f0659: AM6-244-480 (1 x); 
+EAD
+========================================
+% f0660: AM3-184-193 (3 x); 
+AVX
+========================================
+% f0661: AM2-050-126 (1 x); 
+EFI
+========================================
+% f0662: AM8-253-682 (1 x); 
+RAG
+========================================
+% f0663: AM7-032-529 (1 x); 
+NAC
+========================================
+% f0664: AM1-070-020 (1 x); AM3-204-198 (2 x); 
+KLM
+========================================
+% f0665: AM2-353-166 (2 x); 
+μδα
+========================================
+% f0666: AM2-353-166 (2 x); 
+υκω
+========================================
+% f0667: AM2-050-126 (1 x); 
+OAB
+========================================
+% f0668: AM1-383-117 (1 x); AM2-261-157 (2 x); 
+AED
+========================================
+% f0669: AM2-329-164 (1 x); 
+CIB
+========================================
+% f0670: AM3-007-170 (1 x); 
+AGB
+========================================
+% f0671: AM7-088-543 (2 x); 
+<hi rend="i">gfe</hi>
+========================================
+% f0672: AM2-246-155 (1 x); AM3-204-198 (1 x); 
+ACB
+========================================
+% f0673: AM2-287-159 (1 x); 
+EFD
+========================================
+% f0674: AM2-329-164 (1 x); 
+CIH
+========================================
+% f0675: AM2-226-153 (1 x); 
+FID
+========================================
+% f0676: AM2-246-155 (1 x); AM4-290-290 (1 x); 
+EDF
+========================================
+% f0677: AM2-197-151 (1 x); 
+CDE
+========================================
+% f0678: AM7-088-543 (1 x); 
+<hi rend="i">gde</hi>
+========================================
+% f0679: AM1-256-063 (1 x); 
+IKL
+========================================
+% f0680: AM2-044-124 (1 x); 
+AHG
+========================================
+% f0681: AM1-341-098 (1 x); AM4-270-289 (1 x); 
+FBE
+========================================
+% f0682: AM2-044-124 (1 x); AM3-056-176 (1 x); AM4-035-236 (1 x); AM5-257-370 (2 x); AM5-278-374 (1 x); 
+ADE
+========================================
+% f0683: AM2-329-164 (1 x); 
+BIH
+========================================
+% f0684: AM3-131-185 (2 x); 
+HIK
+========================================
+% f0685: AM1-070-020 (3 x); AM6-052-408 (1 x); 
+ADF
+========================================
+% f0686: AM2-251-156 (1 x); AM2-287-159 (1 x); 
+ECB
+========================================
+% f0687: AM3-111-184 (1 x); 
+<hi rend="i">def</hi>
+========================================
+% f0688: AM5-226-358 (1 x); 
+A<hi rend="i">b</hi>C
+========================================
+% f0689: AM2-353-166 (1 x); 
+FEO
+========================================
+% f0690: AM3-204-198 (2 x); 
+KNO
+========================================
+% f0691: AM1-256-063 (1 x); 
+AIB
+========================================
+% f0692: AM2-329-164 (1 x); AM5-265-371 (1 x); 
+BAD
+========================================
+% f0693: AM1-169-034 (1 x); 
+CED
+========================================
+% f0694: AM7-066-537 (1 x); 
+C<hi rend="i">fg</hi>
+========================================
+% f0695: AM8-253-682 (3 x); 
+DAG
+========================================
+% f0696: AM2-329-164 (1 x); 
+DNP
+========================================
+% f0697: AM2-291-160 (1 x); 
+FGD
+========================================
+% f0698: AM8-273-687 (1 x); 
+CNQ
+========================================
+% f0699: AM2-261-157 (1 x); 
+X2S
+========================================
+% f0700: AM2-353-166 (2 x); 
+γκφ
+========================================
+% f0701: AM2-226-153 (1 x); 
+FCD
+========================================
+% f0702: AM3-028-174 (1 x); 
+HCD
+========================================
+% f0703: AM7-032-529 (1 x); 
+DAN
+========================================
+% f0704: AM1-070-020 (4 x); AM1-241-058 (1 x); AM1-246-060 (1 x); AM1-262-064 (1 x); AM1-267-066 (1 x); AM1-341-098 (1 x); AM1-397-f001a (1 x); AM2-031-122 (2 x); AM2-044-124 (2 x); AM2-310-162 (2 x); AM2-329-164 (3 x); AM2-347-165 (6 x); AM2-353-166 (3 x); AM3-007-170 (1 x); AM3-028-174 (1 x); AM3-056-176 (2 x); AM3-064-177 (1 x); AM3-077-180 (2 x); AM3-131-185 (2 x); AM3-204-198 (8 x); AM3-230-207 (3 x); AM3-247-212 (1 x); AM4-035-236 (1 x); AM4-112-252 (2 x); AM4-178-266 (1 x); AM4-270-289 (1 x); AM4-317-293 (1 x); AM5-257-370 (2 x); AM5-265-371 (3 x); AM5-283-375 (1 x); AM6-052-408 (2 x); AM6-070-414 (1 x); AM7-019-523 (4 x); AM7-179-552 (1 x); AM7-249-576 (2 x); AM7-271-582 (1 x); AM7-355-604 (1 x); AM8-318-528 (1 x); 
+ABC
+========================================
+% f0705: AM1-070-020 (1 x); 
+FDC
+========================================
+% f0706: AM5-265-371 (1 x); 
+CBA
+========================================
+% f0707: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+COH
+========================================
+% f0708: AM2-050-126 (2 x); AM2-353-166 (1 x); 
+IBD
+========================================
+% f0709: AM3-184-193 (1 x); 
+GXM
+========================================
+% f0710: AM2-050-126 (1 x); 
+DAB
+========================================
+% f0711: AM2-353-166 (1 x); 
+DEC
+========================================
+% f0712: AM7-069-538 (1 x); 
+LMN
+========================================
+% f0713: AM2-050-126 (2 x); 
+DAO
+========================================
+% f0714: AM1-070-020 (2 x); 
+TOV
+========================================
+% f0715: AM1-070-020 (1 x); 
+HGB
+========================================
+% f0716: AM1-070-020 (1 x); 
+HGA
+========================================
+% f0717: AM2-071-131 (2 x); AM2-143-144 (4 x); AM2-251-156 (1 x); 
+BDN
+========================================
+% f0718: AM2-050-126 (2 x); 
+HBG
+========================================
+% f0719: AM1-070-020 (1 x); 
+TNV
+========================================
+% f0720: AM2-329-164 (1 x); 
+DGC
+========================================
+% f0721: AM2-261-157 (1 x); 
+AIE
+========================================
+% f0722: AM7-069-538 (5 x); 
+LNM
+========================================
+% f0723: AM1-054-018 (5 x); AM1-059-019 (10 x); AM1-070-020 (10 x); 
+PNO
+========================================
+% f0724: AM2-353-166 (1 x); 
+HIC
+========================================
+% f0725: AM3-184-193 (1 x); 
+HAY
+========================================
+% f0726: AM3-077-180 (1 x); 
+IFK
+========================================
+% f0727: AM3-142-188 (2 x); 
+EDC
+========================================
+% f0728: AM2-246-155 (1 x); 
+ECF
+========================================
+% f0729: AM2-261-157 (1 x); 
+V1X
+========================================
+% f0730: AM1-070-020 (1 x); 
+XQY
+========================================
+% f0731: AM4-361-303 (1 x); 
+BGK
+========================================
+% f0732: AM4-361-303 (1 x); 
+ADB
+========================================
+% f0733: AM8-056-637 (1 x); 
+GBF
+========================================
+% f0734: AM2-261-157 (1 x); 
+FMC
+========================================
+% f0735: AM1-070-020 (1 x); AM2-031-122 (1 x); AM2-329-164 (1 x); 
+FGH
+========================================
+% f0736: AM2-353-166 (5 x); 
+φκω
+========================================
+% f0737: AM2-050-126 (3 x); AM2-154-145 (1 x); 
+GBD
+========================================
+% f0738: AM2-261-157 (1 x); 
+SYT
+========================================
+% f0739: AM2-050-126 (2 x); 
+DAF
+========================================
+% f0740: AM3-028-174 (1 x); AM4-143-259 (1 x); 
+HAK
+========================================
+% f0741: AM3-184-193 (1 x); 
+BAH
+========================================
+% f0742: AM2-353-166 (1 x); 
+<hi rend="i">aeo</hi>
+========================================
+% f0743: AM7-032-529 (1 x); 
+PBQ
+========================================
+% f0744: AM1-216-048 (1 x); 
+GH<hi rend="i">i</hi>
+========================================
+% f0745: AM3-028-174 (2 x); AM3-142-188 (1 x); AM8-253-682 (6 x); 
+DAE
+========================================
+% f0746: AM2-353-166 (1 x); 
+AVL
+========================================
+% f0747: AM1-116-025 (1 x); 
+AFB
+========================================
+% f0748: AM7-032-529 (1 x); 
+NAD
+========================================
+% f0749: AM3-184-193 (1 x); 
+ZVN
+========================================
+% f0750: AM2-044-124 (6 x); AM2-050-126 (3 x); AM2-154-145 (1 x); AM4-095-251 (5 x); AM4-213-277 (1 x); AM8-056-637 (3 x); 
+CBE
+========================================
+% f0751: AM2-005-120 (2 x); 
+FEI
+========================================
+% f0752: AM1-402-f001d (1 x); 
+AFH
+========================================
+% f0753: AM1-192-042 (1 x); 
+QPQ
+========================================
+% f0754: AM3-028-174 (1 x); 
+DNC
+========================================
+% f0755: AM2-050-126 (4 x); AM2-353-166 (1 x); AM8-056-637 (2 x); 
+GBI
+========================================
+% f0756: AM7-069-538 (1 x); 
+ILS
+========================================
+% f0757: AM3-299-224 (1 x); AM4-072-245 (1 x); 
+IGN
+========================================
+% f0758: AM2-329-164 (1 x); 
+ADG
+========================================
+% f0759: AM7-066-537 (1 x); 
+C<hi rend="i">hi</hi>
+========================================
+% f0760: AM2-329-164 (1 x); 
+DFE
+========================================
+% f0761: AM3-230-207 (1 x); 
+MHL
+========================================
+% f0762: AM3-028-174 (1 x); AM7-069-538 (1 x); 
+AE
+========================================
+% f0763: AM3-056-176 (1 x); 
+GB
+========================================
+% f0764: AM3-184-193 (1 x); 
+HI
+========================================
+% f0765: AM3-155-189 (1 x); AM3-204-198 (2 x); 
+IK
+========================================
+% f0766: AM2-353-166 (1 x); 
+FE
+========================================
+% f0767: AM3-230-207 (1 x); AM6-052-408 (1 x); 
+DG
+========================================
+% f0768: AM2-353-166 (1 x); 
+κω
+========================================
+% f0769: AM2-353-166 (1 x); 
+μδ
+========================================
+% f0770: AM2-353-166 (1 x); 
+γκ
+========================================
+% f0771: AM7-069-538 (1 x); 
+LM
+========================================
+% f0772: AM1-256-063 (1 x); AM2-071-131 (1 x); 
+BC
+========================================
+% f0773: AM7-069-538 (1 x); 
+VR
+========================================
+% f0774: AM7-069-538 (1 x); 
+IM
+========================================
+% f0775: AM2-329-164 (2 x); 
+CA
+========================================
+% f0776: AM7-069-538 (1 x); 
+AF
+========================================
+% f0777: AM3-172-192 (1 x); 
+FL
+========================================
+% f0778: AM2-176-149 (1 x); 
+TV
+========================================
+% f0779: AM2-071-131 (1 x); AM6-070-414 (1 x); 
+DC
+========================================
+% f0780: AM2-353-166 (1 x); 
+γφ
+========================================
+% f0781: AM2-353-166 (1 x); 
+υκ
+========================================
+% f0782: AM2-044-124 (2 x); AM3-204-198 (1 x); AM4-361-303 (2 x); 
+EF
+========================================
+% f0783: AM1-256-063 (1 x); AM2-251-156 (1 x); 
+DC
+========================================
+% f0784: AM7-069-538 (1 x); 
+IV
+========================================
+% f0785: AM2-329-164 (1 x); 
+DN
+========================================
+% f0786: AM3-077-180 (1 x); 
+PY
+========================================
+% f0787: AM1-216-048 (1 x); AM1-241-058 (1 x); 
+EF
+========================================
+% f0788: AM7-069-538 (1 x); 
+IN
+========================================
+% f0789: AM3-028-174 (2 x); AM3-056-176 (1 x); 
+CF
+========================================
+% f0790: AM4-317-293 (2 x); 
+AB
+========================================
+% f0791: AM7-069-538 (2 x); 
+FI
+========================================
+% f0792: AM6-070-414 (1 x); AM7-069-538 (1 x); AM7-249-576 (2 x); 
+BH
+========================================
+% f0793: AM2-050-126 (1 x); AM2-310-162 (1 x); AM3-007-170 (1 x); 
+FG
+========================================
+% f0794: AM1-070-020 (1 x); 
+NM2
+========================================
+% f0795: AM1-401-f001c (1 x); 
+BF
+========================================
+% f0796: AM1-402-f001d (1 x); AM2-310-162 (1 x); 
+BD
+========================================
+% f0797: AM4-270-289 (1 x); 
+CE
+========================================
+% f0798: AM3-077-180 (1 x); 
+YZ
+========================================
+% f0799: AM7-249-576 (2 x); 
+BH
+========================================
+% f0800: AM2-050-126 (1 x); AM7-069-538 (2 x); 
+FI
+========================================
+% f0801: AM1-241-058 (1 x); 
+FD
+========================================
+% f0802: AM3-007-170 (1 x); AM6-052-408 (1 x); 
+BD
+========================================
+% f0803: AM2-353-166 (1 x); 
+δβ
+========================================
+% f0804: AM4-361-303 (1 x); 
+BL
+========================================
+% f0805: AM2-329-164 (2 x); 
+DA
+========================================
+% f0806: AM6-052-408 (1 x); 
+<hi rend="i">yy</hi>
+========================================
+% f0807: AM2-353-166 (1 x); 
+<hi rend="i">ax</hi>
+========================================
+% f0808: AM6-070-414 (1 x); 
+DB
+========================================
+% f0809: AM7-069-538 (1 x); 
+IN
+========================================
+% f0810: AM2-071-131 (2 x); 
+BE
+========================================
+% f0811: AM2-329-164 (1 x); 
+OI
+========================================
+% f0812: AM3-056-176 (1 x); AM6-070-414 (1 x); 
+AC
+========================================
+% f0813: AM2-353-166 (1 x); 
+νβ
+========================================
+% f0814: AM4-361-303 (1 x); 
+YG
+========================================
+% f0815: AM4-270-289 (1 x); AM4-317-293 (2 x); AM8-056-637 (1 x); 
+AC
+========================================
+% f0816: AM2-176-149 (1 x); 
+SG
+========================================
+% f0817: AM3-299-224 (1 x); 
+NM
+========================================
+% f0818: AM3-184-193 (1 x); 
+RX
+========================================
+% f0819: AM7-069-538 (1 x); 
+MS
+========================================
+% f0820: AM1-070-020 (1 x); 
+6GA
+========================================
+% f0821: AM2-050-126 (1 x); AM3-028-174 (1 x); 
+FE
+========================================
+% f0822: AM2-031-122 (1 x); 
+IP
+========================================
+% f0823: AM2-176-149 (2 x); AM7-069-538 (4 x); 
+EH
+========================================
+% f0824: AM4-021-233 (1 x); 
+FK
+========================================
+% f0825: AM2-031-122 (1 x); AM2-071-131 (1 x); AM6-052-408 (1 x); 
+CD
+========================================
+% f0826: AM2-347-165 (1 x); 
+BE
+========================================
+% f0827: AM2-353-166 (1 x); 
+<hi rend="i">pe</hi>
+========================================
+% f0828: AM1-216-048 (1 x); 
+DC
+========================================
+% f0829: AM4-361-303 (1 x); 
+MY
+========================================
+% f0830: AM8-273-687 (1 x); 
+IH
+========================================
+% f0831: AM8-235-680 (1 x); 
+QO
+========================================
+% f0832: AM8-235-680 (1 x); AM8-253-682 (1 x); 
+NR
+========================================
+% f0833: AM4-361-303 (1 x); 
+GN
+========================================
+% f0834: AM4-270-289 (1 x); AM4-317-293 (1 x); 
+AG
+========================================
+% f0835: AM2-353-166 (1 x); 
+υω
+========================================
+% f0836: AM1-070-020 (1 x); 
+LD
+========================================
+% f0837: AM8-253-682 (1 x); 
+QO
+========================================
+% f0838: AM2-353-166 (1 x); 
+μν
+========================================
+% f0839: AM3-056-176 (1 x); AM4-317-293 (3 x); 
+AD
+========================================
+% f0840: AM2-353-166 (1 x); AM3-230-207 (1 x); 
+DE
+========================================
+% f0841: AM7-069-538 (1 x); 
+AB
+========================================
+% f0842: AM1-256-063 (1 x); 
+EC
+========================================
+% f0843: AM2-353-166 (1 x); 
+νδ
+========================================
+% f0844: AM1-216-048 (1 x); 
+<hi rend="i">cd</hi>
+========================================
+% f0845: AM6-052-408 (1 x); AM7-069-538 (1 x); 
+DF
+========================================
+% f0846: AM2-329-164 (2 x); 
+BA
+========================================
+% f0847: AM4-361-303 (1 x); 
+QB
+========================================
+% f0848: AM7-019-523 (1 x); 
+KM
+========================================
+% f0849: AM4-270-289 (1 x); 
+FB
+========================================
+% f0850: AM6-244-480 (1 x); 
+BC
+========================================
+% f0851: AM7-045-532 (1 x); 
+<hi rend="i">rr</hi>
+========================================
+% f0852: AM4-361-303 (2 x); 
+FY
+========================================
+% f0853: AM3-184-193 (1 x); 
+KL
+========================================
+% f0854: AM4-298-291 (2 x); 
+NC
+========================================
+% f0855: AM2-329-164 (1 x); 
+FK
+========================================
+% f0856: AM1-216-048 (2 x); AM3-111-184 (1 x); 
+<hi rend="i">ef</hi>
+========================================
+% f0857: AM2-050-126 (2 x); AM4-317-293 (1 x); 
+FI
+========================================
+% f0858: AM1-222-050 (2 x); AM2-251-156 (1 x); AM3-077-180 (1 x); AM5-257-370 (1 x); AM7-170-550 (1 x); AM8-273-687 (1 x); 
+DB
+========================================
+% f0859: AM3-184-193 (1 x); 
+RM
+========================================
+% f0860: AM3-028-174 (2 x); 
+NG
+========================================
+% f0861: AM3-028-174 (1 x); AM3-184-193 (2 x); 
+RH
+========================================
+% f0862: AM1-059-019 (1 x); AM1-070-020 (14 x); AM2-197-151 (4 x); 
+VX
+========================================
+% f0863: AM2-329-164 (1 x); 
+MR
+========================================
+% f0864: AM1-070-020 (6 x); AM2-353-166 (1 x); 
+ML
+========================================
+% f0865: AM1-246-060 (1 x); AM1-399-f001b (2 x); AM1-402-f001d (1 x); AM2-329-164 (1 x); AM3-028-174 (1 x); AM3-111-184 (1 x); AM3-315-227 (3 x); AM5-278-374 (1 x); 
+CF
+========================================
+% f0866: AM1-216-048 (1 x); 
+4G
+========================================
+% f0867: AM1-054-018 (2 x); AM1-059-019 (2 x); AM1-070-020 (8 x); AM1-216-048 (4 x); AM1-256-063 (2 x); AM2-050-126 (1 x); AM2-291-160 (1 x); AM2-329-164 (1 x); AM2-353-166 (1 x); AM3-142-188 (3 x); AM3-204-198 (3 x); AM3-230-207 (2 x); AM4-361-303 (1 x); AM7-084-542 (1 x); 
+EF
+========================================
+% f0868: AM2-291-160 (1 x); AM4-361-303 (1 x); AM6-244-480 (1 x); AM8-273-687 (1 x); 
+GD
+========================================
+% f0869: AM1-054-018 (2 x); AM1-059-019 (3 x); AM3-056-176 (1 x); AM3-155-189 (3 x); AM3-204-198 (1 x); AM4-021-233 (1 x); AM4-112-252 (1 x); 
+IK
+========================================
+% f0870: AM1-070-020 (2 x); AM2-353-166 (2 x); AM3-028-174 (5 x); AM3-111-184 (1 x); AM3-204-198 (1 x); AM4-270-289 (3 x); AM4-298-291 (4 x); AM4-317-293 (7 x); AM4-361-303 (6 x); AM5-270-372 (1 x); AM7-019-523 (3 x); AM7-032-529 (7 x); AM7-170-550 (1 x); 
+AE
+========================================
+% f0871: AM5-226-358 (1 x); 
+A<hi rend="i">d</hi>
+========================================
+% f0872: AM3-184-193 (2 x); 
+<hi rend="i">xy</hi>
+========================================
+% f0873: AM3-184-193 (6 x); 
+PV
+========================================
+% f0874: AM2-353-166 (1 x); 
+μα
+========================================
+% f0875: AM7-069-538 (2 x); 
+LS
+========================================
+% f0876: AM2-329-164 (2 x); 
+KD
+========================================
+% f0877: AM2-251-156 (3 x); AM2-329-164 (4 x); 
+DN
+========================================
+% f0878: AM4-361-303 (5 x); 
+GY
+========================================
+% f0879: AM2-143-144 (10 x); AM2-154-145 (1 x); AM2-226-153 (8 x); AM2-251-156 (2 x); 
+OI
+========================================
+% f0880: AM5-228-359 (1 x); 
+Cc
+========================================
+% f0881: AM2-031-122 (2 x); AM2-329-164 (4 x); AM3-056-176 (7 x); AM3-142-188 (3 x); AM4-361-303 (4 x); AM8-253-682 (2 x); 
+CA
+========================================
+% f0882: AM1-402-f001d (2 x); AM2-050-126 (5 x); AM2-071-131 (3 x); AM2-143-144 (9 x); AM2-154-145 (6 x); AM2-226-153 (8 x); AM2-251-156 (6 x); AM2-329-164 (2 x); AM4-112-252 (1 x); AM5-257-370 (1 x); AM6-052-408 (1 x); AM8-056-637 (1 x); 
+BE
+========================================
+% f0883: AM2-329-164 (1 x); AM4-361-303 (2 x); AM8-235-680 (2 x); AM8-253-682 (5 x); 
+DO
+========================================
+% f0884: AM8-273-687 (1 x); 
+IM
+========================================
+% f0885: AM2-050-126 (2 x); AM2-353-166 (2 x); AM4-361-303 (1 x); 
+NB
+========================================
+% f0886: AM2-353-166 (1 x); 
+μν
+========================================
+% f0887: AM2-353-166 (4 x); 
+<hi rend="i">az</hi>
+========================================
+% f0888: AM1-070-020 (2 x); AM1-216-048 (3 x); AM1-256-063 (1 x); AM2-071-131 (2 x); AM2-143-144 (4 x); AM2-226-153 (1 x); AM2-251-156 (5 x); AM2-261-157 (1 x); AM3-142-188 (7 x); AM3-155-189 (1 x); AM3-204-198 (10 x); AM4-217-279 (1 x); AM4-270-289 (1 x); AM4-317-293 (9 x); AM7-170-550 (2 x); AM7-249-576 (7 x); AM7-271-582 (1 x); 
+DC
+========================================
+% f0889: AM2-329-164 (3 x); AM3-028-174 (1 x); AM3-111-184 (1 x); AM3-230-207 (1 x); AM4-112-252 (1 x); AM6-052-408 (1 x); 
+DG
+========================================
+% f0890: AM1-246-060 (1 x); AM3-028-174 (1 x); AM3-204-198 (1 x); 
+GF
+========================================
+% f0891: AM7-045-532 (1 x); 
+<hi rend="i">cc</hi>
+========================================
+% f0892: AM7-069-538 (1 x); 
+IT
+========================================
+% f0893: AM1-256-063 (1 x); 
+LL
+========================================
+% f0894: AM2-087-134 (1 x); 
+QR
+========================================
+% f0895: AM1-070-020 (1 x); AM3-028-174 (2 x); AM3-299-224 (2 x); AM3-315-227 (2 x); AM3-321-227bis (4 x); AM4-072-245 (2 x); AM4-361-303 (6 x); 
+AL
+========================================
+% f0896: AM3-184-193 (1 x); 
+βδ
+========================================
+% f0897: AM2-329-164 (4 x); AM3-028-174 (3 x); AM4-361-303 (5 x); AM6-244-480 (1 x); 
+BL
+========================================
+% f0898: AM2-329-164 (1 x); AM3-056-176 (1 x); AM3-184-193 (2 x); 
+BR
+========================================
+% f0899: AM2-031-122 (1 x); 
+OH
+========================================
+% f0900: AM7-045-532 (3 x); 
+<hi rend="i">rr</hi>
+========================================
+% f0901: AM1-059-019 (1 x); 
+<hi rend="i">bb</hi>
+========================================
+% f0902: AM1-070-020 (1 x); 
+6G5
+========================================
+% f0903: AM3-142-188 (1 x); 
+CY
+========================================
+% f0904: AM2-050-126 (3 x); AM2-291-160 (1 x); AM3-056-176 (3 x); AM3-204-198 (1 x); 
+FH
+========================================
+% f0905: AM2-329-164 (1 x); 
+KA
+========================================
+% f0906: AM2-353-166 (1 x); 
+<hi rend="i">xe</hi>
+========================================
+% f0907: AM7-069-538 (1 x); 
+XN
+========================================
+% f0908: AM2-353-166 (2 x); AM3-184-193 (1 x); 
+αβ
+========================================
+% f0909: AM8-253-682 (1 x); 
+GA
+========================================
+% f0910: AM1-216-048 (1 x); AM3-111-184 (1 x); 
+<hi rend="i">cd</hi>
+========================================
+% f0911: AM7-069-538 (1 x); 
+MS
+========================================
+% f0912: AM3-028-174 (2 x); 
+LQ
+========================================
+% f0913: AM4-361-303 (1 x); AM7-032-529 (2 x); AM7-069-538 (1 x); AM8-273-687 (1 x); 
+AQ
+========================================
+% f0914: AM2-251-156 (1 x); AM3-028-174 (1 x); AM3-142-188 (4 x); AM3-204-198 (1 x); AM7-066-537 (1 x); AM8-273-687 (1 x); 
+ED
+========================================
+% f0915: AM1-054-018 (5 x); AM1-059-019 (12 x); AM1-070-020 (6 x); AM1-083-021 (1 x); AM1-169-034 (1 x); AM1-216-048 (4 x); AM1-256-063 (1 x); AM2-071-131 (6 x); AM2-143-144 (17 x); AM2-154-145 (1 x); AM2-226-153 (7 x); AM2-251-156 (6 x); AM2-329-164 (2 x); AM2-353-166 (1 x); AM3-028-174 (2 x); AM3-111-184 (2 x); AM3-142-188 (3 x); AM3-161-190 (1 x); AM3-172-192 (6 x); AM3-204-198 (1 x); AM3-315-227 (3 x); AM4-270-289 (1 x); AM4-290-290 (1 x); AM5-257-370 (1 x); AM5-270-372 (2 x); AM7-066-537 (1 x); AM7-084-542 (3 x); AM8-154-661 (3 x); 
+CD
+========================================
+% f0916: AM2-143-144 (1 x); AM2-226-153 (2 x); AM2-251-156 (1 x); 
+EP
+========================================
+% f0917: AM2-143-144 (3 x); 
+<hi rend="i">DI</hi>
+========================================
+% f0918: AM3-028-174 (3 x); 
+CP
+========================================
+% f0919: AM3-131-185 (1 x); AM4-361-303 (1 x); AM5-061-312 (1 x); AM7-019-523 (3 x); 
+HK
+========================================
+% f0920: AM1-070-020 (1 x); AM3-056-176 (2 x); AM3-204-198 (4 x); 
+NO
+========================================
+% f0921: AM1-059-019 (1 x); AM2-353-166 (3 x); AM3-028-174 (1 x); AM4-112-252 (1 x); 
+HI
+========================================
+% f0922: AM2-353-166 (1 x); 
+δα
+========================================
+% f0923: AM4-361-303 (1 x); 
+MG
+========================================
+% f0924: AM2-031-122 (3 x); 
+SM
+========================================
+% f0925: AM2-176-149 (2 x); AM2-291-160 (1 x); AM3-028-174 (1 x); AM3-097-182 (1 x); 
+EH
+========================================
+% f0926: AM8-273-687 (1 x); 
+CM
+========================================
+% f0927: AM2-118-140 (2 x); AM2-176-149 (1 x); 
+YY
+========================================
+% f0928: AM1-341-098 (1 x); AM2-176-149 (1 x); AM2-329-164 (3 x); AM4-317-293 (1 x); AM4-332-295 (1 x); 
+HF
+========================================
+% f0929: AM4-361-303 (2 x); 
+FY
+========================================
+% f0930: AM3-111-184 (1 x); AM7-066-537 (1 x); 
+<hi rend="i">fg</hi>
+========================================
+% f0931: AM2-031-122 (1 x); AM2-329-164 (1 x); AM3-315-227 (3 x); AM6-070-414 (1 x); 
+CH
+========================================
+% f0932: AM1-070-020 (1 x); 
+EM
+========================================
+% f0933: AM7-088-543 (1 x); 
+<hi rend="i">e</hi>H
+========================================
+% f0934: AM3-315-227 (1 x); 
+XL
+========================================
+% f0935: AM8-273-687 (1 x); 
+MC
+========================================
+% f0936: AM1-070-020 (1 x); 
+YD
+========================================
+% f0937: AM2-044-124 (2 x); AM2-291-160 (3 x); AM3-184-193 (2 x); 
+FD
+========================================
+% f0938: AM1-054-018 (7 x); AM1-059-019 (12 x); AM1-070-020 (12 x); AM1-083-021 (2 x); AM1-094-023 (1 x); AM1-116-025 (2 x); AM1-129-028 (1 x); AM1-192-042 (1 x); AM1-216-048 (3 x); AM1-239-057 (1 x); AM1-256-063 (4 x); AM1-341-098 (3 x); AM1-397-f001a (1 x); AM1-399-f001b (2 x); AM1-402-f001d (2 x); AM2-031-122 (3 x); AM2-050-126 (14 x); AM2-087-134 (1 x); AM2-154-145 (1 x); AM2-246-155 (4 x); AM2-329-164 (8 x); AM2-347-165 (1 x); AM2-353-166 (15 x); AM3-028-174 (3 x); AM3-056-176 (3 x); AM3-111-184 (1 x); AM3-161-190 (1 x); AM3-172-192 (2 x); AM3-184-193 (11 x); AM3-204-198 (1 x); AM3-230-207 (2 x); AM3-247-212 (1 x); AM3-299-224 (5 x); AM4-011-231 (2 x); AM4-021-233 (1 x); AM4-072-245 (4 x); AM4-143-259 (1 x); AM4-159-261 (5 x); AM4-252-286 (1 x); AM4-257-287 (1 x); AM4-270-289 (13 x); AM4-298-291 (2 x); AM4-317-293 (19 x); AM4-361-303 (8 x); AM5-223-357 (1 x); AM5-257-370 (4 x); AM5-265-371 (1 x); AM5-270-372 (2 x); AM6-052-408 (1 x); AM6-070-414 (1 x); AM7-019-523 (3 x); AM7-032-529 (1 x); AM7-066-537 (1 x); AM7-069-538 (18 x); AM7-076-539 (1 x); AM7-084-542 (3 x); AM7-088-543 (2 x); AM7-355-604 (11 x); AM8-154-661 (3 x); AM8-273-687 (2 x); AM8-318-528 (1 x); 
+AB
+========================================
+% f0939: AM2-353-166 (2 x); 
+γυ
+========================================
+% f0940: AM1-341-098 (1 x); AM4-361-303 (1 x); 
+HA
+========================================
+% f0941: AM3-184-193 (1 x); AM6-052-408 (1 x); 
+<hi rend="i">yy</hi>
+========================================
+% f0942: AM2-353-166 (1 x); 
+<hi rend="i">ea</hi>
+========================================
+% f0943: AM2-050-126 (4 x); AM2-353-166 (2 x); AM3-028-174 (2 x); AM3-315-227 (2 x); 
+AN
+========================================
+% f0944: AM3-028-174 (1 x); 
+LN
+========================================
+% f0945: AM2-353-166 (2 x); 
+φω
+========================================
+% f0946: AM7-019-523 (1 x); 
+OD
+========================================
+% f0947: AM2-050-126 (13 x); AM2-353-166 (1 x); AM7-069-538 (1 x); 
+AO
+========================================
+% f0948: AM1-216-048 (1 x); AM3-056-176 (1 x); AM3-077-180 (1 x); 
+OP
+========================================
+% f0949: AM2-353-166 (4 x); AM3-204-198 (2 x); AM3-299-224 (1 x); AM4-072-245 (1 x); 
+GI
+========================================
+% f0950: AM3-056-176 (1 x); 
+RA
+========================================
+% f0951: AM2-353-166 (1 x); 
+ID
+========================================
+% f0952: AM1-070-020 (8 x); AM1-256-063 (1 x); AM1-399-f001b (2 x); AM2-044-124 (2 x); AM2-251-156 (1 x); AM2-291-160 (1 x); AM2-329-164 (3 x); AM3-028-174 (5 x); AM3-056-176 (1 x); AM3-077-180 (1 x); AM3-142-188 (1 x); AM3-230-207 (1 x); AM4-035-236 (1 x); AM4-112-252 (2 x); AM4-317-293 (1 x); AM5-257-370 (3 x); AM7-170-550 (2 x); AM8-273-687 (1 x); 
+DE
+========================================
+% f0953: AM2-031-122 (1 x); AM2-329-164 (2 x); AM2-353-166 (1 x); AM3-028-174 (1 x); AM7-069-538 (1 x); 
+BO
+========================================
+% f0954: AM3-184-193 (4 x); 
+RX
+========================================
+% f0955: AM2-050-126 (9 x); AM2-154-145 (1 x); AM3-028-174 (1 x); AM4-361-303 (1 x); 
+BN
+========================================
+% f0956: AM2-353-166 (1 x); 
+κφ
+========================================
+% f0957: AM2-031-122 (3 x); AM2-226-153 (1 x); AM2-329-164 (2 x); AM7-069-538 (2 x); 
+IP
+========================================
+% f0958: AM1-256-063 (1 x); 
+KK
+========================================
+% f0959: AM2-143-144 (3 x); 
+<hi rend="i">CD</hi>
+========================================
+% f0960: AM2-353-166 (1 x); 
+<hi rend="i">pb</hi>
+========================================
+% f0961: AM1-246-060 (1 x); AM1-401-f001c (1 x); AM2-050-126 (11 x); AM2-154-145 (5 x); AM3-028-174 (4 x); AM4-021-233 (1 x); AM4-361-303 (2 x); AM7-084-542 (2 x); 
+BG
+========================================
+% f0962: AM3-184-193 (1 x); 
+αθ
+========================================
+% f0963: AM1-070-020 (4 x); AM1-083-021 (2 x); AM1-222-050 (2 x); AM1-229-053 (1 x); AM1-256-063 (1 x); AM1-397-f001a (1 x); AM1-399-f001b (2 x); AM1-402-f001d (2 x); AM2-031-122 (3 x); AM2-050-126 (6 x); AM2-071-131 (8 x); AM2-143-144 (13 x); AM2-154-145 (1 x); AM2-226-153 (8 x); AM2-251-156 (11 x); AM2-287-159 (7 x); AM2-329-164 (4 x); AM2-347-165 (1 x); AM2-353-166 (3 x); AM3-056-176 (2 x); AM3-077-180 (2 x); AM3-184-193 (2 x); AM3-230-207 (2 x); AM3-315-227 (1 x); AM4-011-231 (2 x); AM4-021-233 (1 x); AM4-035-236 (1 x); AM4-159-261 (1 x); AM4-270-289 (6 x); AM4-298-291 (4 x); AM4-317-293 (8 x); AM4-361-303 (6 x); AM5-257-370 (5 x); AM5-270-372 (2 x); AM6-052-408 (1 x); AM6-070-414 (1 x); AM6-244-480 (1 x); AM7-019-523 (2 x); AM7-271-582 (1 x); AM7-355-604 (6 x); AM8-056-637 (4 x); AM8-318-528 (1 x); 
+BC
+========================================
+% f0964: AM2-353-166 (2 x); 
+MB
+========================================
+% f0965: AM8-318-528 (3 x); 
+αδ
+========================================
+% f0966: AM1-054-018 (2 x); AM1-059-019 (3 x); AM1-070-020 (7 x); AM1-083-021 (1 x); AM2-246-155 (1 x); AM2-353-166 (3 x); AM3-056-176 (3 x); AM7-069-538 (1 x); 
+GH
+========================================
+% f0967: AM2-031-122 (4 x); AM2-329-164 (5 x); 
+GM
+========================================
+% f0968: AM3-315-227 (1 x); 
+YX
+========================================
+% f0969: AM1-001-001 (1 x); AM1-070-020 (1 x); AM1-256-063 (2 x); AM1-341-098 (1 x); AM2-031-122 (4 x); AM2-050-126 (2 x); AM2-226-153 (1 x); AM2-261-157 (3 x); AM2-287-159 (1 x); AM2-310-162 (1 x); AM2-329-164 (10 x); AM2-347-165 (4 x); AM2-353-166 (7 x); AM3-007-170 (2 x); AM3-028-174 (1 x); AM3-056-176 (1 x); AM3-111-184 (1 x); AM3-142-188 (1 x); AM3-184-193 (1 x); AM3-204-198 (1 x); AM3-299-224 (1 x); AM3-321-227bis (1 x); AM4-112-252 (1 x); AM4-270-289 (9 x); AM4-298-291 (5 x); AM4-317-293 (3 x); AM7-019-523 (4 x); AM7-084-542 (3 x); AM7-355-604 (1 x); AM8-056-637 (1 x); AM8-273-687 (1 x); 
+AC
+========================================
+% f0970: AM3-028-174 (1 x); 
+LC
+========================================
+% f0971: AM1-192-042 (1 x); AM8-253-682 (1 x); 
+DR
+========================================
+% f0972: AM1-399-f001b (1 x); AM3-028-174 (6 x); AM4-021-233 (1 x); AM4-257-287 (1 x); AM4-270-289 (2 x); AM4-317-293 (2 x); AM4-361-303 (3 x); AM7-069-538 (2 x); AM7-084-542 (4 x); 
+AG
+========================================
+% f0973: AM2-050-126 (1 x); AM4-270-289 (4 x); AM4-298-291 (4 x); 
+FA
+========================================
+% f0974: AM1-083-021 (1 x); AM4-361-303 (1 x); AM5-061-312 (1 x); 
+KH
+========================================
+% f0975: AM2-353-166 (5 x); AM4-361-303 (2 x); AM7-019-523 (2 x); 
+KM
+========================================
+% f0976: AM7-032-529 (1 x); 
+PA
+========================================
+% f0977: AM3-028-174 (1 x); AM6-052-408 (2 x); AM7-088-543 (1 x); 
+<hi rend="i">xx</hi>
+========================================
+% f0978: AM2-143-144 (3 x); 
+<hi rend="i">BC</hi>
+========================================
+% f0979: AM1-070-020 (1 x); AM3-028-174 (2 x); 
+CK
+========================================
+% f0980: AM2-353-166 (1 x); 
+<hi rend="i">ye</hi>
+========================================
+% f0981: AM2-226-153 (1 x); AM2-251-156 (5 x); AM3-172-192 (1 x); AM3-204-198 (2 x); AM8-056-637 (2 x); 
+EI
+========================================
+% f0982: AM1-246-060 (1 x); AM2-143-144 (3 x); AM2-329-164 (7 x); AM2-353-166 (2 x); AM3-028-174 (1 x); 
+CI
+========================================
+% f0983: AM1-216-048 (1 x); 
+<hi rend="i">kl</hi>
+========================================
+% f0984: AM4-021-233 (1 x); 
+3<hi rend="i">c</hi>
+========================================
+% f0985: AM3-321-227bis (1 x); 
+ay
+========================================
+% f0986: AM1-216-048 (1 x); AM7-066-537 (1 x); 
+<hi rend="i">hi</hi>
+========================================
+% f0987: AM1-246-060 (1 x); AM5-257-370 (1 x); 
+HD
+========================================
+% f0988: AM3-184-193 (1 x); 
+αη
+========================================
+% f0989: AM2-176-149 (1 x); 
+MO
+========================================
+% f0990: AM1-059-019 (1 x); AM1-246-060 (1 x); AM3-131-185 (1 x); AM3-142-188 (1 x); AM4-112-252 (1 x); 
+MN
+========================================
+% f0991: AM2-246-155 (1 x); AM2-329-164 (1 x); AM3-028-174 (1 x); 
+IA
+========================================
+% f0992: AM2-329-164 (1 x); 
+RD
+========================================
+% f0993: AM2-353-166 (1 x); 
+AV
+========================================
+% f0994: AM3-184-193 (1 x); 
+RQ
+========================================
+% f0995: AM1-070-020 (5 x); 
+ZZ
+========================================
+% f0996: AM2-353-166 (1 x); 
+LV
+========================================
+% f0997: AM2-143-144 (1 x); AM2-226-153 (1 x); 
+PE
+========================================
+% f0998: AM3-028-174 (4 x); AM3-204-198 (2 x); 
+KN
+========================================
+% f0999: AM2-031-122 (1 x); AM2-226-153 (1 x); AM3-028-174 (1 x); AM5-257-370 (1 x); 
+BK
+========================================
+% f1000: AM1-383-117 (2 x); AM2-050-126 (4 x); AM2-154-145 (1 x); AM2-329-164 (1 x); AM3-299-224 (2 x); AM4-072-245 (2 x); AM6-244-480 (1 x); 
+BI
+========================================
+% f1001: AM2-353-166 (1 x); 
+OE
+========================================
+% f1002: AM7-146-547 (1 x); 
+HQ
+========================================
+% f1003: AM2-154-145 (1 x); 
+NA
+========================================
+% f1004: AM2-329-164 (3 x); 
+DP
+========================================
+% f1005: AM3-184-193 (1 x); 
+γβ
+========================================
+% f1006: AM3-028-174 (7 x); AM4-021-233 (1 x); AM4-361-303 (2 x); AM5-061-312 (1 x); AM6-070-414 (1 x); 
+AK
+========================================
+% f1007: AM7-069-538 (2 x); 
+NX
+========================================
+% f1008: AM5-257-370 (2 x); 
+AI
+========================================
+% f1009: AM2-143-144 (6 x); AM3-028-174 (1 x); 
+IE
+========================================
+% f1010: AM2-031-122 (1 x); 
+SG
+========================================
+% f1011: AM1-070-020 (1 x); AM2-329-164 (1 x); AM3-028-174 (1 x); AM4-112-252 (1 x); AM8-253-682 (1 x); 
+EG
+========================================
+% f1012: AM2-329-164 (6 x); AM4-072-245 (1 x); AM4-361-303 (1 x); AM5-270-372 (1 x); AM8-235-680 (1 x); AM8-253-682 (1 x); AM8-273-687 (1 x); 
+CG
+========================================
+% f1013: AM2-071-131 (2 x); AM2-226-153 (1 x); AM2-251-156 (5 x); AM2-287-159 (1 x); AM2-353-166 (2 x); AM3-204-198 (1 x); AM4-159-261 (4 x); AM4-317-293 (6 x); AM7-066-537 (1 x); 
+EC
+========================================
+% f1014: AM7-019-523 (5 x); 
+HL
+========================================
+% f1015: AM2-031-122 (1 x); 
+CC
+========================================
+% f1016: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+FS
+========================================
+% f1017: AM1-341-098 (1 x); AM1-383-117 (1 x); AM2-050-126 (2 x); AM2-291-160 (1 x); AM2-353-166 (3 x); AM3-028-174 (1 x); AM3-299-224 (1 x); AM4-112-252 (1 x); AM4-270-289 (1 x); AM4-361-303 (1 x); AM6-244-480 (2 x); 
+FE
+========================================
+% f1018: AM2-329-164 (1 x); 
+MK
+========================================
+% f1019: AM4-361-303 (2 x); 
+HE
+========================================
+% f1020: AM8-273-687 (1 x); 
+TG
+========================================
+% f1021: AM2-353-166 (1 x); 
+<hi rend="i">ne</hi>
+========================================
+% f1022: AM2-353-166 (1 x); 
+VB
+========================================
+% f1023: AM7-069-538 (1 x); 
+NY
+========================================
+% f1024: AM7-069-538 (1 x); 
+IQ
+========================================
+% f1025: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+SO
+========================================
+% f1026: AM2-176-149 (1 x); AM2-197-151 (5 x); AM2-329-164 (1 x); AM3-056-176 (2 x); AM3-204-198 (3 x); 
+NP
+========================================
+% f1027: AM4-361-303 (1 x); 
+YR
+========================================
+% f1028: AM1-070-020 (1 x); AM7-032-529 (2 x); AM7-069-538 (1 x); 
+PQ
+========================================
+% f1029: AM2-050-126 (2 x); AM2-246-155 (1 x); AM2-329-164 (5 x); AM3-142-188 (2 x); AM8-253-682 (1 x); 
+DA
+========================================
+% f1030: AM7-045-532 (5 x); 
+<hi rend="i">dd</hi>
+========================================
+% f1031: AM2-251-156 (5 x); 
+EO
+========================================
+% f1032: AM2-031-122 (1 x); 
+CO
+========================================
+% f1033: AM3-155-189 (4 x); AM3-204-198 (3 x); 
+FL
+========================================
+% f1034: AM3-028-174 (2 x); 
+CN
+========================================
+% f1035: AM2-143-144 (3 x); 
+<hi rend="i">OI</hi>
+========================================
+% f1036: AM3-028-174 (1 x); 
+ND
+========================================
+% f1037: AM1-216-048 (3 x); AM2-213-152 (1 x); AM7-088-543 (1 x); 
+<hi rend="i">ab</hi>
+========================================
+% f1038: AM3-184-193 (1 x); 
+XY
+========================================
+% f1039: AM1-054-018 (1 x); AM1-059-019 (2 x); AM4-361-303 (1 x); 
+RS
+========================================
+% f1040: AM2-347-165 (4 x); 
+BM
+========================================
+% f1041: AM2-176-149 (1 x); 
+OR
+========================================
+% f1042: AM1-070-020 (1 x); AM1-246-060 (1 x); AM1-341-098 (1 x); AM2-329-164 (2 x); AM4-361-303 (2 x); AM5-257-370 (2 x); AM7-069-538 (1 x); AM7-249-576 (2 x); AM7-271-582 (1 x); AM8-056-637 (1 x); 
+BH
+========================================
+% f1043: AM1-341-098 (1 x); AM2-050-126 (4 x); AM2-197-151 (2 x); AM2-329-164 (2 x); AM2-353-166 (3 x); AM3-028-174 (4 x); AM3-315-227 (2 x); AM4-270-289 (1 x); AM8-056-637 (1 x); AM8-318-528 (1 x); 
+CB
+========================================
+% f1044: AM7-088-543 (1 x); 
+<hi rend="i">g</hi>Q
+========================================
+% f1045: AM1-256-063 (1 x); AM2-143-144 (2 x); AM2-226-153 (3 x); AM2-251-156 (8 x); AM2-275-158 (1 x); AM2-287-159 (4 x); AM2-291-160 (1 x); AM2-353-166 (1 x); AM3-028-174 (2 x); AM4-270-289 (1 x); AM7-355-604 (5 x); 
+EB
+========================================
+% f1046: AM2-353-166 (1 x); 
+<hi rend="i">ax</hi>
+========================================
+% f1047: AM3-184-193 (2 x); 
+PR
+========================================
+% f1048: AM1-116-025 (1 x); AM2-176-149 (2 x); AM2-226-153 (2 x); AM2-287-159 (8 x); AM2-329-164 (3 x); AM2-353-166 (2 x); AM3-028-174 (1 x); AM3-064-177 (1 x); AM3-097-182 (1 x); AM6-052-408 (1 x); AM7-084-542 (1 x); 
+DF
+========================================
+% f1049: AM7-069-538 (1 x); 
+IL
+========================================
+% f1050: AM1-070-020 (1 x); AM2-197-151 (4 x); AM2-353-166 (2 x); AM3-056-176 (3 x); AM3-204-198 (3 x); AM3-315-227 (1 x); AM7-069-538 (5 x); 
+LM
+========================================
+% f1051: AM3-315-227 (1 x); AM3-321-227bis (1 x); 
+AM
+========================================
+% f1052: AM3-028-174 (7 x); AM3-184-193 (3 x); AM4-270-289 (1 x); AM4-317-293 (4 x); AM4-332-295 (1 x); AM4-361-303 (2 x); AM5-061-312 (3 x); AM6-070-414 (1 x); AM7-069-538 (9 x); 
+AH
+========================================
+% f1053: AM8-273-687 (1 x); 
+LH
+========================================
+% f1054: AM2-329-164 (1 x); AM8-273-687 (2 x); 
+GC
+========================================
+% f1055: AM2-031-122 (1 x); AM2-329-164 (1 x); 
+GS
+========================================
+% f1056: AM2-031-122 (2 x); AM2-329-164 (1 x); AM3-184-193 (1 x); 
+PN
+========================================
+% f1057: AM7-032-529 (1 x); AM7-069-538 (1 x); 
+AP
+========================================
+% f1058: AM2-329-164 (3 x); 
+DK
+========================================
+% f1059: AM2-005-120 (2 x); AM2-143-144 (7 x); AM2-154-145 (1 x); AM2-226-153 (5 x); AM2-251-156 (1 x); AM7-271-582 (2 x); 
+DI
+========================================
+% f1060: AM1-059-019 (2 x); AM1-070-020 (11 x); 
+LD
+========================================
+% f1061: AM1-070-020 (1 x); AM2-031-122 (1 x); AM2-050-126 (10 x); AM2-261-157 (1 x); AM3-028-174 (6 x); AM3-056-176 (1 x); AM3-111-184 (3 x); AM3-204-198 (1 x); AM4-112-252 (1 x); AM4-210-276 (3 x); AM4-270-289 (1 x); AM4-317-293 (15 x); AM4-361-303 (3 x); AM5-257-370 (1 x); AM5-270-372 (1 x); AM6-052-408 (1 x); AM6-070-414 (2 x); AM7-019-523 (5 x); AM7-069-538 (1 x); AM7-170-550 (2 x); 
+AD
+========================================
+% f1062: AM3-111-184 (1 x); AM4-270-289 (1 x); AM5-257-370 (1 x); 
+FB
+========================================
+% f1063: AM3-204-198 (2 x); 
+GE
+========================================
+% f1064: AM3-077-180 (1 x); AM7-069-538 (1 x); 
+IO
+========================================
+% f1065: AM7-069-538 (1 x); 
+VR
+========================================
+% f1066: AM1-383-117 (2 x); AM1-399-f001b (1 x); AM1-402-f001d (1 x); AM2-031-122 (3 x); AM2-050-126 (1 x); AM2-261-157 (1 x); AM2-329-164 (6 x); AM2-347-165 (6 x); AM3-077-180 (1 x); AM3-204-198 (1 x); AM4-270-289 (3 x); AM5-257-370 (2 x); AM6-244-480 (1 x); AM7-069-538 (5 x); AM7-084-542 (1 x); AM7-249-576 (8 x); AM7-271-582 (2 x); AM7-355-604 (1 x); 
+BD
+========================================
+% f1067: AM3-028-174 (1 x); AM4-021-233 (1 x); AM6-052-408 (2 x); 
+<hi rend="i">zz</hi>
+========================================
+% f1068: AM4-361-303 (2 x); 
+BP
+========================================
+% f1069: AM2-031-122 (3 x); AM2-329-164 (3 x); AM7-019-523 (3 x); AM7-069-538 (16 x); AM7-076-539 (2 x); 
+IN
+========================================
+% f1070: AM3-184-193 (1 x); AM3-315-227 (2 x); 
+AY
+========================================
+% f1071: AM2-143-144 (4 x); 
+<hi rend="i">Aq</hi>
+========================================
+% f1072: AM1-059-019 (1 x); AM7-045-532 (1 x); 
+<hi rend="i">aa</hi>
+========================================
+% f1073: AM5-226-358 (1 x); 
+C<hi rend="i">e</hi>
+========================================
+% f1074: AM4-021-233 (1 x); 
+IB
+========================================
+% f1075: AM2-353-166 (2 x); 
+<hi rend="i">ay</hi>
+========================================
+% f1076: AM1-054-018 (8 x); AM1-059-019 (22 x); AM1-070-020 (21 x); AM2-329-164 (4 x); AM3-299-224 (2 x); 
+NM
+========================================
+% f1077: AM3-028-174 (3 x); AM6-244-480 (1 x); 
+CL
+========================================
+% f1078: AM2-353-166 (4 x); AM5-061-312 (1 x); 
+PB
+========================================
+% f1079: AM5-257-370 (2 x); 
+HC
+========================================
+% f1080: AM2-031-122 (1 x); 
+FO
+========================================
+% f1081: AM1-070-020 (1 x); AM4-317-293 (1 x); AM4-361-303 (1 x); AM7-355-604 (3 x); 
+HG
+========================================
+% f1082: AM2-050-126 (3 x); AM3-028-174 (7 x); AM3-056-176 (4 x); AM3-111-184 (1 x); AM3-184-193 (1 x); AM4-164-262 (1 x); AM7-019-523 (6 x); AM7-032-529 (7 x); AM8-318-528 (1 x); 
+FG
+========================================
+% f1083: AM4-361-303 (1 x); 
+MY
+========================================
+% f1084: AM3-321-227bis (1 x); 
+LX
+========================================
+% f1085: AM3-299-224 (3 x); AM4-072-245 (3 x); AM7-069-538 (2 x); 
+NI
+========================================
+% f1086: AM2-226-153 (1 x); 
+FC
+========================================
+% f1087: AM3-028-174 (1 x); 
+NK
+========================================
+% f1088: AM7-069-538 (2 x); 
+TR
+========================================
+% f1089: AM2-347-165 (4 x); AM2-353-166 (1 x); 
+MD
+========================================
+% f1090: AM2-143-144 (2 x); 
+ES
+========================================
+% f1091: AM1-116-025 (1 x); AM1-241-058 (1 x); AM1-341-098 (3 x); AM2-071-131 (4 x); AM2-143-144 (11 x); AM2-226-153 (3 x); AM2-251-156 (4 x); AM2-287-159 (1 x); AM2-347-165 (1 x); AM3-028-174 (2 x); AM3-056-176 (1 x); AM4-112-252 (1 x); AM5-278-374 (1 x); AM7-066-537 (1 x); AM7-069-538 (1 x); AM7-084-542 (2 x); 
+CE
+========================================
+% f1092: AM2-031-122 (1 x); AM2-329-164 (5 x); AM2-353-166 (2 x); AM3-056-176 (4 x); AM3-097-182 (1 x); AM3-184-193 (1 x); AM4-095-251 (1 x); AM4-298-291 (6 x); AM4-361-303 (4 x); 
+BA
+========================================
+% f1093: AM1-341-098 (8 x); AM1-402-f001d (1 x); AM2-044-124 (2 x); AM2-291-160 (1 x); AM3-028-174 (1 x); AM3-111-184 (1 x); AM4-021-233 (2 x); AM7-069-538 (1 x); 
+AF
+========================================
+% f1094: AM3-142-188 (1 x); AM3-299-224 (1 x); AM4-072-245 (1 x); 
+IG
+========================================
+% f1095: AM2-329-164 (5 x); AM3-028-174 (1 x); 
+GR
+========================================
+% f1096: AM4-361-303 (1 x); 
+GL
+========================================
+% f1097: AM1-216-048 (1 x); 
+G<hi rend="i">h</hi>
+========================================
+% f1098: AM2-329-164 (2 x); 
+DM
+========================================
+% f1099: AM1-070-020 (3 x); AM2-353-166 (3 x); AM3-028-174 (3 x); AM3-131-185 (2 x); AM3-204-198 (3 x); 
+KL
+========================================
+% f1100: AM4-072-245 (1 x); 
+DH
+========================================
+% f1101: AM2-353-166 (1 x); 
+<hi rend="i">an</hi>
+========================================
+% f1102: AM3-155-189 (9 x); AM3-204-198 (1 x); AM8-273-687 (1 x); 
+IC
+========================================
+% f1103: AM2-050-126 (1 x); AM4-095-251 (1 x); AM4-270-289 (1 x); AM4-317-293 (1 x); AM8-273-687 (1 x); 
+HB
+========================================
+% f1104: AM8-318-528 (1 x); 
+αχ
+========================================
+% f1105: AM2-031-122 (1 x); AM2-329-164 (2 x); 
+OG
+========================================
+% f1106: AM3-299-224 (3 x); AM4-112-252 (1 x); AM4-270-289 (1 x); AM4-361-303 (3 x); AM5-257-370 (1 x); AM5-270-372 (1 x); AM7-355-604 (1 x); 
+BF
+========================================
+% f1107: AM2-251-156 (1 x); AM2-261-157 (2 x); 
+O
+========================================
+% f1108: AM2-261-157 (2 x); AM4-371-304 (1 x); 
+Q
+========================================
+% f1109: AM7-069-538 (2 x); 
+F
+========================================
+% f1110: AM1-070-020 (2 x); AM1-203-045 (3 x); AM2-176-149 (1 x); AM2-251-156 (1 x); AM2-310-162 (1 x); AM3-007-170 (1 x); AM3-028-174 (1 x); AM6-052-408 (1 x); AM6-211-468 (1 x); AM6-244-480 (1 x); AM7-069-538 (1 x); 
+B
+========================================
+% f1111: AM2-261-157 (1 x); AM7-069-538 (1 x); AM7-249-576 (2 x); 
+N
+========================================
+% f1112: AM7-019-523 (2 x); 
+1B
+========================================
+% f1113: AM2-065-129 (1 x); AM3-077-180 (1 x); AM6-070-414 (2 x); 
+<hi rend="i">b</hi>
+========================================
+% f1114: AM4-021-233 (2 x); 
+2<hi rend="i">a</hi>
+========================================
+% f1115: AM3-007-170 (1 x); AM7-069-538 (1 x); 
+F
+========================================
+% f1116: AM6-070-414 (1 x); 
+<hi rend="i">f</hi>
+========================================
+% f1117: AM4-095-251 (1 x); 
+<hi rend="i">L</hi>
+========================================
+% f1118: AM5-181-339 (1 x); 
+<hi rend="i">r</hi>
+========================================
+% f1119: AM8-273-687 (1 x); 
+G
+========================================
+% f1120: AM6-070-414 (1 x); 
+<hi rend="i">f</hi>
+========================================
+% f1121: AM5-181-339 (1 x); 
+<hi rend="i">q</hi>
+========================================
+% f1122: AM1-070-020 (1 x); AM1-216-048 (1 x); 
+G3
+========================================
+% f1123: AM7-069-538 (1 x); 
+M
+========================================
+% f1124: AM4-021-233 (1 x); 
+3<hi rend="i">c</hi>
+========================================
+% f1125: AM1-070-020 (1 x); 
+6G
+========================================
+% f1126: AM2-261-157 (1 x); 
+M
+========================================
+% f1127: AM2-261-157 (1 x); AM7-069-538 (1 x); 
+H
+========================================
+% f1128: AM2-213-152 (1 x); 
+y
+========================================
+% f1129: AM1-129-028 (1 x); AM2-197-151 (1 x); AM2-291-160 (1 x); AM3-028-174 (1 x); AM3-142-188 (1 x); 
+D
+========================================
+% f1130: AM2-261-157 (1 x); 
+K
+========================================
+% f1131: AM3-077-180 (1 x); AM3-315-227 (1 x); 
+<hi rend="i">d</hi>
+========================================
+% f1132: AM1-070-020 (1 x); 
+M2
+========================================
+% f1133: AM5-181-339 (1 x); 
+<hi rend="i">s</hi>
+========================================
+% f1134: AM1-070-020 (1 x); 
+G5
+========================================
+% f1135: AM3-142-188 (1 x); 
+I
+========================================
+% f1136: AM2-154-145 (1 x); 
+D
+========================================
+% f1137: AM1-203-045 (2 x); AM3-142-188 (1 x); AM4-317-293 (1 x); AM5-228-359 (1 x); 
+A
+========================================
+% f1138: AM2-261-157 (2 x); AM4-371-304 (1 x); 
+P
+========================================
+% f1139: AM2-261-157 (1 x); AM4-112-252 (1 x); 
+L
+========================================
+% f1140: AM4-095-251 (1 x); 
+<hi rend="i">M</hi>
+========================================
+% f1141: AM1-070-020 (2 x); 
+N2
+========================================
+% f1142: AM2-197-151 (1 x); AM2-226-153 (2 x); AM2-329-164 (1 x); AM7-069-538 (3 x); 
+E
+========================================
+% f1143: AM6-208-467 (1 x); 
+M
+========================================
+% f1144: AM6-070-414 (2 x); 
+<hi rend="i">e</hi>
+========================================
+% f1145: AM1-070-020 (1 x); AM1-129-028 (1 x); AM1-203-045 (1 x); AM2-176-149 (1 x); AM3-028-174 (1 x); AM6-052-408 (1 x); AM6-244-480 (1 x); 
+C
+========================================
+% f1146: AM4-298-291 (1 x); 
+A
+========================================
+% f1147: AM7-069-538 (1 x); 
+S
+========================================
+% f1148: AM7-019-523 (2 x); 
+D2
+========================================
+% f1149: AM7-069-538 (1 x); 
+V
+========================================
+% f1150: AM1-216-048 (1 x); AM2-261-157 (1 x); AM2-329-164 (1 x); AM3-142-188 (1 x); AM7-069-538 (1 x); AM7-389-390bis (1 x); 
+G
+========================================
+% f1151: AM1-216-048 (1 x); 
+4G
+========================================
+% f1152: AM2-226-153 (1 x); 
+B
+========================================
+% f1153: AM6-052-408 (2 x); AM6-070-414 (1 x); 
+<hi rend="i">y</hi>
+========================================
+% f1154: AM2-065-129 (1 x); AM3-077-180 (1 x); AM3-315-227 (1 x); AM6-070-414 (2 x); 
+<hi rend="i">c</hi>
+========================================
+% f1155: AM6-070-414 (1 x); 
+<hi rend="i">x</hi>
+========================================
+% f1156: AM2-275-158 (2 x); AM3-028-174 (6 x); AM3-106-183 (1 x); AM3-184-193 (1 x); AM4-021-233 (3 x); AM4-361-303 (1 x); AM6-052-408 (6 x); AM6-070-414 (1 x); AM7-088-543 (3 x); AM8-318-528 (1 x); 
+<hi rend="i">x</hi>
+========================================
+% f1157: AM1-070-020 (1 x); AM2-087-134 (2 x); AM3-131-185 (2 x); AM7-146-547 (2 x); 
+Y
+========================================
+% f1158: AM1-054-018 (1 x); AM1-059-019 (1 x); AM1-070-020 (1 x); AM1-192-042 (2 x); AM1-195-043 (1 x); AM1-203-045 (3 x); AM1-222-050 (1 x); AM1-256-063 (1 x); AM1-341-098 (1 x); AM1-399-f001b (1 x); AM1-401-f001c (2 x); AM1-402-f001d (1 x); AM2-031-122 (7 x); AM2-050-126 (3 x); AM2-100-139 (1 x); AM2-176-149 (2 x); AM2-197-151 (1 x); AM2-226-153 (1 x); AM2-261-157 (1 x); AM2-291-160 (11 x); AM2-310-162 (2 x); AM2-329-164 (11 x); AM3-028-174 (1 x); AM3-056-176 (1 x); AM3-111-184 (2 x); AM3-172-192 (1 x); AM3-184-193 (4 x); AM3-204-198 (2 x); AM3-230-207 (1 x); AM3-247-212 (1 x); AM3-259-214 (1 x); AM3-299-224 (1 x); AM4-011-231 (1 x); AM4-095-251 (6 x); AM4-112-252 (2 x); AM4-130-255 (3 x); AM4-164-262 (1 x); AM4-270-289 (2 x); AM4-317-293 (1 x); AM5-253-368 (1 x); AM5-257-370 (9 x); AM5-283-375 (1 x); AM7-032-529 (1 x); AM7-076-539 (2 x); AM7-088-543 (3 x); AM7-146-547 (2 x); AM7-355-604 (2 x); AM7-389-390bis (5 x); 
+F
+========================================
+% f1159: AM2-353-166 (2 x); AM4-361-303 (2 x); AM5-181-339 (1 x); 
+<hi rend="i">p</hi>
+========================================
+% f1160: AM1-070-020 (2 x); AM1-192-042 (3 x); AM2-031-122 (3 x); AM2-143-144 (3 x); AM2-226-153 (7 x); AM2-251-156 (3 x); AM2-329-164 (3 x); AM2-353-166 (4 x); AM4-371-304 (1 x); AM7-019-523 (2 x); AM7-045-532 (1 x); AM7-069-538 (3 x); AM7-213-561 (2 x); 
+O
+========================================
+% f1161: AM1-070-020 (1 x); AM1-192-042 (1 x); AM2-031-122 (1 x); AM2-071-131 (2 x); AM2-143-144 (1 x); AM2-226-153 (3 x); AM2-329-164 (2 x); AM2-353-166 (3 x); AM7-032-529 (2 x); AM7-069-538 (3 x); AM7-213-561 (2 x); 
+P
+========================================
+% f1162: AM8-318-528 (1 x); 
+α
+========================================
+% f1163: AM2-118-140 (1 x); 
+<hi rend="i">V</hi>
+========================================
+% f1164: AM1-216-048 (1 x); AM3-111-184 (2 x); AM3-161-190 (1 x); AM6-208-467 (1 x); AM7-066-537 (1 x); AM7-088-543 (4 x); AM7-146-547 (2 x); AM7-389-390bis (2 x); AM8-273-687 (1 x); 
+<hi rend="i">f</hi>
+========================================
+% f1165: AM1-059-019 (1 x); AM1-070-020 (1 x); AM1-383-117 (2 x); AM2-005-120 (2 x); AM2-031-122 (2 x); AM2-246-155 (2 x); AM2-261-157 (1 x); AM2-329-164 (3 x); AM2-353-166 (2 x); AM3-184-193 (2 x); AM3-230-207 (5 x); AM4-112-252 (2 x); AM4-213-277 (1 x); AM5-265-371 (1 x); AM5-278-374 (1 x); AM7-069-538 (5 x); AM7-076-539 (1 x); AM7-088-543 (10 x); AM7-146-547 (4 x); AM8-056-637 (1 x); 
+I
+========================================
+% f1166: AM3-056-176 (2 x); AM4-270-289 (2 x); 
+<hi rend="i">H</hi>
+========================================
+% f1167: AM4-021-233 (7 x); AM6-052-408 (5 x); 
+<hi rend="i">z</hi>
+========================================
+% f1168: AM1-070-020 (2 x); AM1-083-021 (3 x); AM1-169-034 (2 x); AM1-216-048 (1 x); AM1-256-063 (1 x); AM1-402-f001d (2 x); AM2-031-122 (6 x); AM2-050-126 (2 x); AM2-246-155 (2 x); AM2-261-157 (1 x); AM2-291-160 (1 x); AM2-329-164 (12 x); AM2-353-166 (1 x); AM3-028-174 (2 x); AM3-184-193 (2 x); AM3-204-198 (3 x); AM4-112-252 (1 x); AM4-130-255 (2 x); AM4-164-262 (2 x); AM4-257-287 (1 x); AM4-270-289 (2 x); AM4-371-304 (2 x); AM5-265-371 (1 x); AM5-278-374 (5 x); AM7-019-523 (1 x); AM7-088-543 (5 x); AM7-249-576 (2 x); AM7-271-582 (1 x); AM8-056-637 (2 x); 
+H
+========================================
+% f1169: AM1-054-018 (1 x); AM1-059-019 (1 x); AM1-192-042 (1 x); AM2-329-164 (2 x); AM3-028-174 (2 x); AM3-064-177 (1 x); AM7-069-538 (2 x); AM7-213-561 (2 x); 
+R
+========================================
+% f1170: AM1-116-025 (2 x); AM1-256-063 (1 x); AM2-287-159 (4 x); AM2-353-166 (2 x); AM3-028-174 (1 x); AM3-161-190 (1 x); AM3-315-227 (2 x); AM6-070-414 (1 x); AM6-208-467 (2 x); AM7-146-547 (1 x); 
+<hi rend="i">e</hi>
+========================================
+% f1171: AM1-116-025 (1 x); AM2-287-159 (1 x); AM3-161-190 (1 x); AM3-184-193 (1 x); AM3-204-198 (2 x); AM3-315-227 (1 x); AM4-361-303 (1 x); AM5-226-358 (1 x); AM7-088-543 (2 x); AM7-389-390bis (2 x); AM8-235-680 (1 x); AM8-253-682 (1 x); AM8-318-528 (1 x); 
+<hi rend="i">b</hi>
+========================================
+% f1172: AM3-028-174 (7 x); AM3-111-184 (1 x); AM3-184-193 (1 x); AM4-021-233 (1 x); AM6-052-408 (1 x); 
+<hi rend="i">y</hi>
+========================================
+% f1173: AM1-070-020 (1 x); AM4-130-255 (1 x); AM7-045-532 (1 x); AM7-069-538 (2 x); AM7-146-547 (4 x); AM7-213-561 (2 x); 
+T
+========================================
+% f1174: AM3-184-193 (1 x); 
+η
+========================================
+% f1175: AM1-281-071 (1 x); AM2-071-131 (1 x); AM2-143-144 (6 x); AM2-251-156 (2 x); AM4-178-266 (1 x); 
+<hi rend="i">D</hi>
+========================================
+% f1176: AM1-059-019 (1 x); AM1-070-020 (1 x); AM1-083-021 (1 x); AM1-216-048 (4 x); AM1-256-063 (2 x); AM1-399-f001b (1 x); AM1-401-f001c (2 x); AM1-402-f001d (2 x); AM2-031-122 (4 x); AM2-246-155 (1 x); AM2-261-157 (1 x); AM2-291-160 (7 x); AM2-310-162 (1 x); AM2-329-164 (8 x); AM2-353-166 (2 x); AM3-007-170 (1 x); AM3-028-174 (5 x); AM3-056-176 (1 x); AM3-111-184 (1 x); AM3-184-193 (4 x); AM3-315-227 (1 x); AM4-095-251 (1 x); AM4-112-252 (1 x); AM4-130-255 (2 x); AM4-164-262 (1 x); AM4-257-287 (1 x); AM4-270-289 (2 x); AM4-317-293 (2 x); AM4-361-303 (3 x); AM4-371-304 (2 x); AM5-253-368 (1 x); AM5-270-372 (1 x); AM5-278-374 (2 x); AM5-283-375 (1 x); AM7-032-529 (1 x); AM7-069-538 (1 x); AM7-084-542 (1 x); AM7-088-543 (2 x); AM7-389-390bis (4 x); AM8-056-637 (1 x); AM8-318-528 (1 x); 
+G
+========================================
+% f1177: AM1-070-020 (1 x); AM1-083-021 (2 x); AM2-031-122 (4 x); AM2-329-164 (3 x); AM2-353-166 (1 x); AM3-028-174 (1 x); AM3-184-193 (2 x); AM3-230-207 (1 x); AM4-143-259 (1 x); AM4-361-303 (2 x); AM5-278-374 (7 x); AM7-146-547 (1 x); 
+K
+========================================
+% f1178: AM3-184-193 (3 x); 
+β
+========================================
+% f1179: AM3-056-176 (1 x); AM4-178-266 (1 x); AM4-298-291 (2 x); 
+<hi rend="i">F</hi>
+========================================
+% f1180: AM1-070-020 (1 x); AM2-197-151 (2 x); AM3-184-193 (1 x); AM7-069-538 (1 x); 
+V
+========================================
+% f1181: AM4-361-303 (2 x); 
+<hi rend="i">q</hi>
+========================================
+% f1182: AM3-028-174 (2 x); AM3-106-183 (1 x); 
+<hi rend="i">v</hi>
+========================================
+% f1183: AM3-184-193 (1 x); 
+θ
+========================================
+% f1184: AM1-116-025 (1 x); AM1-256-063 (1 x); AM2-287-159 (2 x); AM3-161-190 (1 x); AM4-021-233 (12 x); AM4-361-303 (3 x); AM7-389-390bis (5 x); AM8-318-528 (1 x); 
+<hi rend="i">c</hi>
+========================================
+% f1185: AM2-118-140 (1 x); 
+<hi rend="i">X</hi>
+========================================
+% f1186: AM1-281-071 (1 x); AM2-071-131 (5 x); AM2-143-144 (8 x); AM2-154-145 (1 x); AM2-251-156 (8 x); AM3-056-176 (1 x); AM4-270-289 (9 x); AM4-298-291 (6 x); AM4-317-293 (1 x); AM6-244-480 (1 x); AM7-069-538 (1 x); 
+<hi rend="i">A</hi>
+========================================
+% f1187: AM1-054-018 (1 x); AM1-059-019 (1 x); AM1-070-020 (1 x); AM1-116-025 (1 x); AM1-169-034 (4 x); AM1-192-042 (2 x); AM1-203-045 (3 x); AM1-222-050 (4 x); AM1-229-053 (1 x); AM1-256-063 (1 x); AM1-399-f001b (1 x); AM2-031-122 (7 x); AM2-071-131 (1 x); AM2-100-139 (5 x); AM2-118-140 (4 x); AM2-143-144 (7 x); AM2-176-149 (2 x); AM2-197-151 (1 x); AM2-226-153 (8 x); AM2-251-156 (8 x); AM2-261-157 (1 x); AM2-275-158 (1 x); AM2-287-159 (3 x); AM2-291-160 (9 x); AM2-310-162 (2 x); AM2-329-164 (10 x); AM2-353-166 (3 x); AM3-007-170 (3 x); AM3-056-176 (2 x); AM3-077-180 (1 x); AM3-097-182 (1 x); AM3-111-184 (2 x); AM3-131-185 (1 x); AM3-161-190 (1 x); AM3-172-192 (1 x); AM3-204-198 (1 x); AM3-247-212 (2 x); AM3-299-224 (1 x); AM4-011-231 (1 x); AM4-095-251 (1 x); AM4-112-252 (6 x); AM4-130-255 (7 x); AM4-143-259 (1 x); AM4-164-262 (1 x); AM4-178-266 (2 x); AM4-198-271 (1 x); AM4-270-289 (1 x); AM4-361-303 (6 x); AM5-228-359 (2 x); AM5-257-370 (2 x); AM5-265-371 (4 x); AM5-278-374 (1 x); AM5-283-375 (1 x); AM7-019-523 (1 x); AM7-032-529 (2 x); AM7-066-537 (2 x); AM7-076-539 (3 x); AM7-088-543 (1 x); AM7-146-547 (1 x); AM7-170-550 (2 x); AM7-355-604 (6 x); AM7-389-390bis (2 x); AM8-318-528 (4 x); 
+E
+========================================
+% f1188: AM1-001-001 (1 x); AM1-048-017 (3 x); AM1-070-020 (7 x); AM1-083-021 (6 x); AM1-094-023 (6 x); AM1-116-025 (1 x); AM1-203-045 (6 x); AM1-208-046 (1 x); AM1-222-050 (5 x); AM1-229-053 (1 x); AM1-241-058 (2 x); AM1-256-063 (7 x); AM1-262-064 (1 x); AM1-264-065 (1 x); AM1-267-066 (6 x); AM1-397-f001a (2 x); AM1-399-f001b (3 x); AM2-031-122 (13 x); AM2-050-126 (1 x); AM2-100-139 (1 x); AM2-118-140 (3 x); AM2-143-144 (3 x); AM2-154-145 (2 x); AM2-176-149 (2 x); AM2-197-151 (6 x); AM2-246-155 (10 x); AM2-291-160 (1 x); AM2-310-162 (3 x); AM2-329-164 (21 x); AM2-347-165 (1 x); AM2-353-166 (2 x); AM3-007-170 (8 x); AM3-028-174 (2 x); AM3-056-176 (9 x); AM3-097-182 (2 x); AM3-111-184 (1 x); AM3-142-188 (2 x); AM3-230-207 (2 x); AM3-247-212 (4 x); AM3-299-224 (5 x); AM3-315-227 (1 x); AM3-321-227bis (1 x); AM4-011-231 (3 x); AM4-072-245 (4 x); AM4-112-252 (2 x); AM4-130-255 (2 x); AM4-143-259 (2 x); AM4-159-261 (1 x); AM4-164-262 (2 x); AM4-198-271 (2 x); AM4-210-276 (1 x); AM4-257-287 (1 x); AM4-270-289 (13 x); AM4-298-291 (3 x); AM4-317-293 (10 x); AM4-361-303 (2 x); AM5-067-314 (7 x); AM5-257-370 (1 x); AM5-265-371 (2 x); AM5-270-372 (5 x); AM5-278-374 (2 x); AM5-283-375 (4 x); AM6-208-467 (2 x); AM6-211-468 (12 x); AM6-244-480 (3 x); AM7-019-523 (1 x); AM7-032-529 (1 x); AM7-076-539 (5 x); AM7-088-543 (8 x); AM7-146-547 (1 x); AM7-170-550 (1 x); AM7-355-604 (9 x); AM7-389-390bis (3 x); AM8-056-637 (2 x); AM8-116-652 (3 x); AM8-235-680 (1 x); AM8-253-682 (9 x); AM8-273-687 (2 x); AM8-318-528 (2 x); 
+C
+========================================
+% f1189: AM1-054-018 (1 x); AM1-059-019 (1 x); AM2-143-144 (1 x); AM4-361-303 (1 x); AM7-045-532 (2 x); AM7-069-538 (4 x); AM7-088-543 (1 x); AM7-146-547 (15 x); AM7-213-561 (2 x); 
+S
+========================================
+% f1190: AM2-353-166 (1 x); AM3-184-193 (2 x); AM8-318-528 (1 x); 
+δ
+========================================
+% f1191: AM2-287-159 (4 x); AM3-028-174 (1 x); AM6-208-467 (2 x); AM7-146-547 (1 x); AM7-389-390bis (2 x); 
+<hi rend="i">g</hi>
+========================================
+% f1192: AM1-054-018 (6 x); AM1-059-019 (16 x); AM1-070-020 (13 x); AM1-192-042 (1 x); AM3-064-177 (1 x); AM7-032-529 (2 x); AM7-069-538 (2 x); AM7-088-543 (4 x); 
+Q
+========================================
+% f1193: AM1-054-018 (3 x); AM1-059-019 (8 x); AM1-070-020 (3 x); AM2-353-166 (2 x); AM3-028-174 (2 x); AM3-056-176 (4 x); AM3-184-193 (2 x); AM3-230-207 (2 x); AM4-130-255 (2 x); AM4-361-303 (2 x); AM5-278-374 (1 x); AM7-069-538 (3 x); AM7-146-547 (1 x); AM8-273-687 (1 x); 
+L
+========================================
+% f1194: AM1-281-071 (1 x); AM2-071-131 (3 x); AM2-143-144 (9 x); AM2-154-145 (1 x); AM2-160-146 (1 x); AM2-251-156 (2 x); AM4-298-291 (1 x); 
+<hi rend="i">E</hi>
+========================================
+% f1195: AM1-001-001 (2 x); AM1-070-020 (12 x); AM1-083-021 (5 x); AM1-094-023 (12 x); AM1-124-027 (1 x); AM1-129-028 (1 x); AM1-203-045 (4 x); AM1-208-046 (3 x); AM1-222-050 (1 x); AM1-229-053 (2 x); AM1-256-063 (2 x); AM1-262-064 (3 x); AM1-264-065 (1 x); AM1-267-066 (7 x); AM1-341-098 (3 x); AM1-397-f001a (2 x); AM1-399-f001b (4 x); AM2-005-120 (1 x); AM2-031-122 (8 x); AM2-050-126 (6 x); AM2-087-134 (1 x); AM2-100-139 (2 x); AM2-118-140 (2 x); AM2-154-145 (8 x); AM2-176-149 (7 x); AM2-197-151 (3 x); AM2-226-153 (1 x); AM2-246-155 (9 x); AM2-251-156 (1 x); AM2-261-157 (2 x); AM2-291-160 (2 x); AM2-310-162 (2 x); AM2-329-164 (15 x); AM2-353-166 (2 x); AM3-007-170 (8 x); AM3-028-174 (1 x); AM3-056-176 (10 x); AM3-077-180 (1 x); AM3-097-182 (3 x); AM3-142-188 (5 x); AM3-161-190 (2 x); AM3-184-193 (1 x); AM3-230-207 (1 x); AM3-247-212 (9 x); AM3-299-224 (7 x); AM3-315-227 (1 x); AM4-011-231 (2 x); AM4-072-245 (5 x); AM4-095-251 (5 x); AM4-112-252 (3 x); AM4-143-259 (4 x); AM4-159-261 (2 x); AM4-164-262 (2 x); AM4-178-266 (4 x); AM4-198-271 (2 x); AM4-213-277 (1 x); AM4-217-279 (2 x); AM4-252-286 (1 x); AM4-257-287 (5 x); AM4-270-289 (16 x); AM4-298-291 (6 x); AM4-317-293 (22 x); AM4-361-303 (14 x); AM5-228-359 (2 x); AM5-231-360 (4 x); AM5-253-368 (2 x); AM5-257-370 (4 x); AM5-265-371 (9 x); AM5-270-372 (2 x); AM5-278-374 (1 x); AM5-283-375 (3 x); AM5-295-379 (1 x); AM6-052-408 (1 x); AM6-227-473 (1 x); AM6-244-480 (5 x); AM7-019-523 (4 x); AM7-024-524 (1 x); AM7-032-529 (4 x); AM7-069-538 (5 x); AM7-084-542 (5 x); AM7-088-543 (24 x); AM7-146-547 (9 x); AM7-170-550 (1 x); AM7-355-604 (4 x); AM7-389-390bis (3 x); AM8-056-637 (5 x); AM8-116-652 (2 x); AM8-253-682 (4 x); AM8-261-683 (1 x); AM8-273-687 (1 x); AM8-318-528 (3 x); 
+A
+========================================
+% f1196: AM1-048-017 (2 x); AM1-070-020 (12 x); AM1-083-021 (6 x); AM1-094-023 (7 x); AM1-124-027 (4 x); AM1-129-028 (1 x); AM1-169-034 (3 x); AM1-203-045 (4 x); AM1-208-046 (3 x); AM1-216-048 (1 x); AM1-222-050 (2 x); AM1-229-053 (2 x); AM1-256-063 (3 x); AM1-262-064 (2 x); AM1-264-065 (2 x); AM1-267-066 (7 x); AM1-341-098 (4 x); AM1-402-f001d (1 x); AM2-005-120 (1 x); AM2-031-122 (7 x); AM2-050-126 (8 x); AM2-071-131 (2 x); AM2-087-134 (1 x); AM2-100-139 (3 x); AM2-118-140 (2 x); AM2-143-144 (12 x); AM2-154-145 (7 x); AM2-176-149 (7 x); AM2-197-151 (6 x); AM2-226-153 (13 x); AM2-246-155 (1 x); AM2-251-156 (5 x); AM2-261-157 (1 x); AM2-275-158 (1 x); AM2-287-159 (3 x); AM2-291-160 (3 x); AM2-329-164 (22 x); AM2-353-166 (6 x); AM3-028-174 (3 x); AM3-056-176 (8 x); AM3-077-180 (1 x); AM3-111-184 (1 x); AM3-131-185 (1 x); AM3-161-190 (2 x); AM3-204-198 (2 x); AM3-247-212 (6 x); AM3-299-224 (4 x); AM4-011-231 (4 x); AM4-021-233 (1 x); AM4-072-245 (3 x); AM4-095-251 (13 x); AM4-112-252 (8 x); AM4-130-255 (1 x); AM4-143-259 (5 x); AM4-159-261 (5 x); AM4-164-262 (3 x); AM4-178-266 (6 x); AM4-198-271 (2 x); AM4-213-277 (2 x); AM4-217-279 (1 x); AM4-252-286 (1 x); AM4-257-287 (2 x); AM4-270-289 (21 x); AM4-298-291 (7 x); AM4-317-293 (2 x); AM4-361-303 (8 x); AM5-067-314 (9 x); AM5-103-324 (2 x); AM5-228-359 (1 x); AM5-231-360 (4 x); AM5-257-370 (18 x); AM5-265-371 (7 x); AM5-270-372 (4 x); AM5-278-374 (2 x); AM5-283-375 (3 x); AM5-295-379 (1 x); AM6-211-468 (11 x); AM6-227-473 (3 x); AM6-244-480 (2 x); AM7-019-523 (1 x); AM7-024-524 (2 x); AM7-032-529 (5 x); AM7-069-538 (3 x); AM7-084-542 (2 x); AM7-088-543 (18 x); AM7-146-547 (7 x); AM7-170-550 (1 x); AM7-222-565 (1 x); AM7-249-576 (2 x); AM7-271-582 (1 x); AM7-355-604 (8 x); AM7-389-390bis (2 x); AM8-056-637 (5 x); AM8-116-652 (4 x); AM8-261-683 (1 x); AM8-273-687 (1 x); AM8-318-528 (3 x); 
+B
+========================================
+% f1197: AM2-353-166 (1 x); 
+<hi rend="i">o</hi>
+========================================
+% f1198: AM2-353-166 (2 x); AM3-028-174 (2 x); AM3-184-193 (2 x); AM3-315-227 (1 x); AM4-021-233 (9 x); AM5-181-339 (3 x); 
+<hi rend="i">n</hi>
+========================================
+% f1199: AM3-111-184 (1 x); 
+<hi rend="i">k</hi>
+========================================
+% f1200: AM1-059-019 (1 x); AM1-070-020 (3 x); AM2-329-164 (3 x); AM2-347-165 (2 x); AM3-056-176 (2 x); AM3-230-207 (2 x); AM4-072-245 (5 x); AM6-208-467 (4 x); AM7-069-538 (1 x); AM7-088-543 (3 x); AM7-146-547 (5 x); AM7-249-576 (4 x); 
+M
+========================================
+% f1201: AM3-184-193 (2 x); 
+γ
+========================================
+% f1202: AM2-353-166 (1 x); 
+κ
+========================================
+% f1203: AM1-116-025 (1 x); AM1-216-048 (1 x); AM1-256-063 (2 x); AM2-065-129 (1 x); AM2-287-159 (3 x); AM2-353-166 (3 x); AM3-077-180 (1 x); AM3-161-190 (1 x); AM3-204-198 (2 x); AM3-315-227 (2 x); AM4-021-233 (2 x); AM4-361-303 (3 x); AM6-070-414 (2 x); AM7-088-543 (2 x); AM8-273-687 (1 x); 
+<hi rend="i">a</hi>
+========================================
+% f1204: AM2-226-153 (3 x); 
+<hi rend="i">O</hi>
+========================================
+% f1205: AM1-216-048 (4 x); AM4-361-303 (3 x); 
+<hi rend="i">r</hi>
+========================================
+% f1206: AM6-244-480 (2 x); 
+<hi rend="i">N</hi>
+========================================
+% f1207: AM1-001-001 (2 x); AM1-048-017 (1 x); AM1-059-019 (1 x); AM1-070-020 (6 x); AM1-094-023 (1 x); AM1-116-025 (1 x); AM1-124-027 (2 x); AM1-192-042 (1 x); AM1-203-045 (3 x); AM1-222-050 (4 x); AM1-229-053 (1 x); AM1-241-058 (2 x); AM1-256-063 (4 x); AM1-262-064 (4 x); AM1-383-117 (1 x); AM1-399-f001b (1 x); AM2-005-120 (1 x); AM2-031-122 (8 x); AM2-050-126 (1 x); AM2-100-139 (3 x); AM2-118-140 (3 x); AM2-143-144 (4 x); AM2-176-149 (1 x); AM2-246-155 (11 x); AM2-261-157 (1 x); AM2-287-159 (1 x); AM2-291-160 (9 x); AM2-310-162 (2 x); AM2-329-164 (38 x); AM2-353-166 (1 x); AM3-007-170 (1 x); AM3-028-174 (4 x); AM3-056-176 (7 x); AM3-064-177 (1 x); AM3-111-184 (2 x); AM3-131-185 (3 x); AM3-161-190 (1 x); AM3-184-193 (1 x); AM3-204-198 (3 x); AM3-230-207 (1 x); AM3-247-212 (2 x); AM3-259-214 (1 x); AM3-299-224 (4 x); AM4-011-231 (2 x); AM4-072-245 (1 x); AM4-130-255 (2 x); AM4-143-259 (1 x); AM4-159-261 (1 x); AM4-164-262 (2 x); AM4-178-266 (1 x); AM4-198-271 (1 x); AM4-217-279 (1 x); AM4-270-289 (2 x); AM4-290-290 (1 x); AM4-317-293 (1 x); AM4-361-303 (7 x); AM5-228-359 (2 x); AM5-257-370 (1 x); AM5-265-371 (3 x); AM5-270-372 (1 x); AM5-278-374 (1 x); AM5-283-375 (5 x); AM6-052-408 (1 x); AM7-032-529 (2 x); AM7-076-539 (4 x); AM7-088-543 (4 x); AM7-146-547 (2 x); AM7-170-550 (2 x); AM7-355-604 (2 x); AM7-389-390bis (5 x); AM8-056-637 (3 x); AM8-116-652 (1 x); AM8-318-528 (3 x); 
+D
+========================================
+% f1208: AM1-216-048 (2 x); 
+<hi rend="i">i</hi>
+========================================
+% f1209: AM1-281-071 (1 x); AM2-071-131 (2 x); AM2-143-144 (3 x); AM2-160-146 (1 x); AM2-226-153 (1 x); AM2-251-156 (6 x); AM3-028-174 (1 x); AM4-072-245 (1 x); AM4-095-251 (5 x); AM4-270-289 (3 x); AM4-298-291 (7 x); AM6-211-468 (1 x); AM6-244-480 (1 x); 
+<hi rend="i">B</hi>
+========================================
+% f1210: AM1-116-025 (1 x); AM1-216-048 (1 x); AM3-161-190 (1 x); AM3-315-227 (1 x); AM6-070-414 (2 x); AM6-208-467 (5 x); AM7-088-543 (5 x); AM7-146-547 (2 x); AM7-389-390bis (2 x); AM8-273-687 (1 x); 
+<hi rend="i">d</hi>
+========================================
+% f1211: AM1-070-020 (1 x); AM2-197-151 (2 x); AM3-184-193 (1 x); 
+X
+========================================
+% f1212: AM3-184-193 (2 x); AM4-021-233 (7 x); 
+<hi rend="i">m</hi>
+========================================
+% f1213: AM1-059-019 (1 x); AM1-070-020 (3 x); AM1-216-048 (1 x); AM2-050-126 (1 x); AM2-154-145 (2 x); AM2-261-157 (1 x); AM2-275-158 (1 x); AM2-329-164 (2 x); AM2-353-166 (4 x); AM3-028-174 (6 x); AM3-184-193 (2 x); AM4-112-252 (2 x); AM4-130-255 (1 x); AM5-257-370 (1 x); AM7-069-538 (10 x); AM7-146-547 (1 x); AM7-249-576 (4 x); AM8-273-687 (1 x); 
+N
+========================================
+% f1214: AM2-287-159 (4 x); AM3-028-174 (1 x); AM3-111-184 (2 x); AM7-066-537 (1 x); 
+<hi rend="i">h</hi>
+========================================
+% f1215: AM3-056-176 (2 x); AM4-270-289 (1 x); AM4-317-293 (1 x); 
+<hi rend="i">G</hi>
+========================================
+% f1216: AM2-226-153 (1 x); AM2-251-156 (2 x); AM3-056-176 (1 x); AM4-095-251 (2 x); AM4-270-289 (2 x); AM4-298-291 (3 x); AM6-211-468 (1 x); AM8-253-682 (2 x); 
+<hi rend="i">C</hi>
+========================================
+% f1217: AM1-070-020 (5 x); AM2-087-134 (2 x); AM3-131-185 (2 x); AM7-088-543 (3 x); AM7-146-547 (1 x); 
+Z
+========================================

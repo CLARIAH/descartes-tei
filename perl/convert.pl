@@ -188,7 +188,8 @@ use Time::localtime;
 
 # o-o-o BEGIN CUSTOMISE o-o-o #
 
-my $rootdir = '/Users/dirk/Data/DANS/projects/CKCC/descartes';
+# my $rootdir = '/Users/dirk/Data/DANS/projects/CKCC/descartes';
+my $rootdir = '/Users/me/Downloads/descartes-tei';
 my $versiondir = '2012-01-17';
 
 #my $formulaformat = 'svg';

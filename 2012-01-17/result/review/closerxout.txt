@@ -1,0 +1,3976 @@
+================================================================================
+AM6-060-411 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p> sois très parfaitement,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p><m 6-63></p>
+<p>Du Hoef, le ○○15 Novembre ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>@A@B est le pivot ou l'arbre de la vis; @E@I, @F@K est le tuyau
+ou le tonneau dans lequel elle tourne; @C@D une des poutres
+qui soutiennent l'arbre; et @C@G@E, @D@H@F une partie de celles
+qui soutiennent le tonneau, où je fais @C@G et @D@H assez éloignés de l'arbre afin qu'elles n'empêchent le passage de l'eau.</p>
+<p>123489 sont les contours de la spirale qui compose la
+vis. Et le premier contour 123 est au dessous du tonneau,
+afin que l'eau y entre plus aisément. Le dernier 89 monte
+jusques au haut vers @K.</p>
+<p>@I@N, @K@O est le lieu où l'eau se vide qui s'étend en rond
+tout autour du tonneau à cause que l'eau en sort par tous
+les côtés de la circonférence.</p>
+<p>@L@M est un couvercle qui empêche que l'eau ne jaillisse
+plus haut vers la lanterne ou petite roue qui fait tourner
+l'arbre.
+<m 6-64>
+<figure><graphic url="AT4-764a.gif"/></figure></p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-202-465 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○17 Février ○○1645.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son Altesse,</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-280-585 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Clarissime vir,</p>
+<p>Tibi addictissimum,</p>
+<p>DESCARTES.</p>
+<p>Egmundae, ○○19 ##Apr ○○1647.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer</p>
+<p>Myn Heer Heereboor</p>
+<p>Professor Philosophiae, ##etc.</p>
+<p>tot Leyden.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-131-431 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Ende blyve,</p>
+<p>Myn Heere,</p>
+<p>##U ##Ed geheel dienstbereyden dienaer,</p>
+<p>BUYSERO.</p>
+<p>Hage, den ○○VIII≥e¥ Maert ○○1644.</p>
+</div>
+<div type="address">
+<p>Myn Heere</p>
+<p>Myn Heere de Cartes.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-001-228 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, le ○○3 Janvier ○○1640.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder, Raed ende Secretaris</p>
+<p>van siin lloocheyt,</p>
+<p>In's grauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-305-501 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○15 ##Sept ○○1645.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Wilhem,</p>
+<p>Conseiller de son Altesse et</p>
+<p>du Conseil de Brabant,</p>
+<p>In de hout straet,</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-034-399 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je suis avec passion,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○17 ##Oct ○○1643.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Pollot,</p>
+<p>Gentilhomme de la Chambre</p>
+<p>de son Altesse,</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-170-550 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je suis de</p>
+<p>plus en plus,</p>
+<p>Mon Rév≥nd¥ Père,</p>
+<p>Votre très humble, très fidèle et très obligè</p>
+<p>serviteur, DESCARTES.</p>
+<p>D'Egmond, le ○○7 ##Sept ○○1646.</p>
+</div>
+<div type="address">
+<p>Au Révérend Père</p>
+<p>Le ##Rév≥nd¥ Père Mersenne</p>
+<p>Religieux Minime en leur Couvent</p>
+<p>proche de la place Royale à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-024-524 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je suis votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>N'ayant qu'une petite lettre à envoyer au ##P Mersenne,
+et celle-ci étant encore plus courte, j'ai cru n'en devoir pas
+faire deux paquets.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-276-493 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et je</p>
+<p>serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très dévôt serviteur,</p>
+<p>DESCARTES.</p>
+<p>Egmond, le ○○4 d'Août ○○1645.</p>
+</div>
+<div type="postscriptum">
+<p><m 6-278>
+Il y a quelque temps que j'ai reçu une lettre du ##P Mersenne, écrite à Marseille, après son retour d'Italie, et il m'a
+chargé de vous faire ses baisemains.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son Altesse,</p>
+<p>En l'Armée.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-155-441 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Et</p>
+<p>je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Paris, le ○○9 Juillet ○○1644.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Wilhem,</p>
+<p>Conseiller de ##M≥r¥ le Prince</p>
+<p>d'Orange et du Conseil</p>
+<p>de Brabant,</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-020-394 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Ick ben,</p>
+<p>##U ##E seer goedwilligen vriendt,</p>
+<p>DESCARTES.</p>
+<p>Van Egmond op de Hoeff,</p>
+<p>den ○○18 Julii ○○1643.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Aan Monsieur,</p>
+<p>Monsieur Gerrit Brandt,</p>
+<p>In de twaelf uren, op het Rockinne, bij de beurse,</p>
+<p>tot Amsterdam.</p>
+<p>Port is betaelt.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-021-233 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Ick ben</p>
+<p>##UE seer dienstwilligen vriendt</p>
+<p>DESCARTES.</p>
+<p>Den eersten ##Feb ○○1640.</p>
+</div>
+<div type="address">
+<p>##A Monsieur</p>
+<p>Monsieur ##J ##A Waessenaer</p>
+<p>Landtmeter woonende</p>
+<p>voor Claerenbergh.</p>
+<p>Tot Utrecht</p>
+<p>poort is betaelt</p>
+<p>tot Amsterdam.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM2-353-166 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis de tout mon coeur,</p>
+<p>Mon Révérend Père,</p>
+<p>Vôtre très affectionné et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>du ○○27 juillet ○○1638.</p>
+</div>
+<div type="postscriptum">
+<p>⌈(En marge:)⌉ Je vous envoye ma lettre pour ##M de Fermat
+toute ouverte; mais vous la fermerez, s'il vous plaît, avant
+que de lui envoyer, pour la bienséance.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-111-184 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R ##P,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>Mon Limousin avait fait écrire une lettre pour son beaupère; mais parce qu'elle était trop grosse et mal pliée, et
+qu'elle ne contient que des recommandations à lui et à
+toutes ses connaissances de Paris, je ne vous l'envoie point;
+car vous lui pouvez mieux dire cela même, s'il vous plaît,
+quand vous le verrez.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-072-245 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, le ○○11 Juin ○○1640.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père</p>
+<p>Le ##Rév≥d¥ Père Mersenne</p>
+<p>Religieux de l'Ordre des Minimes</p>
+<p>en leur Couvent proche de la Place Royale</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-179-552 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et</p>
+<p>très zélé serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○5 d'##Oct ○○1646.</p>
+</div>
+<div type="postscriptum">
+<p>Je joins les 2 encloses avec cette lettre, pour ce que
+je crois qu'elles n'en enchériront point le port; et je n'ai
+rien à écrire à ##M≥r¥ de Clerselier, sinon que je le remercie
+de ses dernières du ○○10 d'Août, et suis son très humble
+serviteur.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-330-294 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très obligé et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du jour de Pâques ○○1641.</p>
+</div>
+<div type="postscriptum">
+<p>Je vous envoie un écrit pour le libraire, que vous ne
+trouverez pas daté de Leyde, à cause que je n'y demeure
+plus, mais en une maison qui n'en est qu'à demi-lieue, en
+laquelle je me suis retiré pour travailler plus commodément
+à la Philosophie et ensemble aux expériences. Il n'est point
+besoin pour cela de changer l'adresse de vos lettres, ou plutôt
+il n'est point besoin d'y mettre aucune autre adresse que
+mon nom, car le messager de Leyde sait assez le lieu où il les
+doit envoyer.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-004-619 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre trés humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○31 ##Jan ○○1648.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père</p>
+<p>le ##Rév≥nd¥ Pére Mersenne</p>
+<p>Religieux Minime</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-056-637 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Pére,</p>
+<p>Votre très humble</p>
+<p>serviteur, DESCARTES.</p>
+<p>le mercredi</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père,</p>
+<p>Le ##Rév≥nd¥ Père Mersenne.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-103-324 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R≥nd¥ Père,</p>
+<p>Votre très obéissant et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○19 ##Jan ○○1642.</p>
+</div>
+<div type="postscriptum">
+<p>Mandez moi qui est maintenant Général de l'Oratoire.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-256-063 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○15 Mai ○○1634.⌉</p>
+</div>
+<div type="postscriptum">
+<p>Logé chez ##M Thomas Sergeant,
+in den Westerkerck straet,
+où vous adresserez, s'il vous plaît, vos lettres.</p>
+<p>Au Révérend Père
+Le Père Marin Mersenne,
+Religieux de l'Ordre des Minimes,
+en leur Couvent de la Place Royale,
+A Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-067-314 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très obéissant et très obligé et passionné</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○17 ##Nov ○○1641.</p>
+</div>
+<div type="postscriptum">
+<p>Vous m'obligerez, s'il vous plaît, d'envoyer l'enclose à
+Rennes.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-044-015 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur et Révérend Père,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>##R DESCARTES.</p>
+<p>⌈De Hollande, ce ○○18 Juillet ○○1629.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur le Révérend Père</p>
+<p>Gibieuf, Supérieur en la</p>
+<p>Congrégation de l'Oratoire de</p>
+<p>Jésus, proche du Louvre,</p>
+<p>A Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-094-023 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur et Révérend Père,</p>
+<p>Votre très obéissant et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○18 Décembre ○○1629.⌉</p>
+</div>
+<div type="address">
+<p>⌈A Monsieur⌉</p>
+<p>⌈Monsieur le Révérend Père⌉</p>
+<p>⌈Marin Mersenne,⌉</p>
+<p>⌈à Paris.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-095-422 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur, ##etc.</p>
+<p>[DESCARTES.]</p>
+</div>
+<div type="postscriptum">
+<p>Du Hoef, le l≥er¥ jour de l'an ○○1644, que je vous souhaite
+heureux et cent autres après.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-338-096 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur, Votre très obéissant et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○29 Mars ○○1637.⌉</p>
+</div>
+<div type="postscriptum">
+<p>Que s'il vous plaît avoir d'autres exemplaires, je ne
+manquerai, au moindre avis de votre part, d'en envoyer
+autant qu'il vous plaira; car le Maire en ayant donné un
+à ##M de Mori, ce qu'il dit toutefois n'avoir fait que fort
+en son corps défendant, il n'oserait plus m'en refuser.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et Secrétaire de Son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-250-285 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très dévôt et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, le ○○16 Janvier ○○1641.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichen,</p>
+<p>Chevalier, Conseiller,</p>
+<p>et Secrétaire de son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-276-068 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, ce ○○6/○○16 Avril ○○1635.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Golius, Professeur</p>
+<p>en Mathématiques et ès Langues orientales,</p>
+<p>à Leyden.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-264-215 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, ce ○○17 Novembre ○○1639.</p>
+</div>
+<div type="postscriptum">
+<p>Si vous me faites l'honneur de m'avertir ou me commander quelque chose, les lettres qu'on m'adresse à Harlem
+⌈inden blauwen ouen by de cruyspoorte⌉ ne manquent point de
+m'être rendues.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-269-685 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très fidèle serviteur,</p>
+<p>René DESCARTES,</p>
+<p>pour ce que dessus.</p>
+<p>écrit à Egmont, le trentième jour d'Août, en l'an de</p>
+<p>grâce mil six cent quarante-neuf, et adressé à Monsieur,</p>
+<p>Monsieur Claude Picot, prieur de Rouvre et demeurant</p>
+<p>présentement en la rue Geoffroy-l'Anier à Paris.</p>
+</div>
+<div type="address">
+<p>⌈Et à la suscription est écrit:⌉</p>
+<p>A Monsieur,</p>
+<p>Monsieur l'abbé Picot.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-296-223 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Mardi, à 3 heures.</p>
+</div>
+<div type="postscriptum">
+<p>Si Stampioen vient Jeudi à Leyde, ce sera faute que nos
+réponses n'auront pas été rendues assez tôt.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-293-378 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond sur le Hoeff, le ○○22 Mai ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>Je vous prie d'excuser la liberté que je prends d'enfermer
+deux livres en ce paquet, l'un pour Monsieur de Wilhem,
+l'autre pour Monsieur de Mori.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-220-356 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○10 Octobre ○○1642.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichen.</p>
+<p>Ridder, Raed ende.</p>
+<p>Secretaris van Siin Hoocheyt.</p>
+<p>Inde Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-251-367 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○14 Janvier ○○1643.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de Son Altesse,</p>
+<p>à La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-170-191 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, ce ○○29 Janvier ○○1639.</p>
+</div>
+<div type="address">
+<p>pour ##M≥r¥ de Zuylichem.</p>
+<p>Aen Myn Heer</p>
+<p>Myn Heer van Zuylechem,</p>
+<p>Ridder, Raed en Secretaris</p>
+<p>van sijn Hoogheyt,</p>
+<p>Intquartier van sijn Hoogheyt</p>
+<p>de Prince van Orange,</p>
+<p>Int legher.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-043-404 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○2 Novembre ○○1643.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem, Chevalier,</p>
+<p>Conseiller et Secrétaire de</p>
+<p>son Altesse</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-036-400 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur.</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○17 Octobre ○○1643.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuyiichem</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son Altesse</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-211-350 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble, très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○1≥er¥ Septembre ○○1642.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son</p>
+<p>Alatesse,</p>
+<p>à l'Armée.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-193-344 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○26 Avril ○○1642.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-037-401 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le mercredi ○○21 ##Oct ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>Il y a déjà 8 jours, qu'on m'a mandé d'Utrecht qu'on
+n'avait plus de peur pour moi, et que le nom de son Altesse,
+dans les lettres de ##M≥r¥ de Ryusmond, avait calmé toute la
+tempête. C'est la principale joie que j'ai ressentie, de voir
+que ce nom soit revéré, sinon comme il doit, au moins assez
+pour empêcher l'injustice, en une ville encline à la mutination et où domine l'esprit rebelle de Voetius.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Pollot,</p>
+<p>Gentilhomme de la Chambre de son Altesse,</p>
+<p>à la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-022-395 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur</p>
+<p>Votre très humble</p>
+<p>et très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○5 ##Sept ○○1643.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur, Monsieur Colvius, ##etc.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-243-364 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis,</p>
+<p>Votre très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○4≥e¥ jour de l'an ○○1643, que je vous souhaite heureux.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père,</p>
+<p>le Révérend Père Mersenne,</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-298-380 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis.</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Amsterdam, ce ○○30 Mai ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>J'ai dit à Elzévier qu'il vous envoyât 6 exemplaires de
+ma ⌈Réponse à Voétius,⌉ dont l'une sera, s'il vous plaît,
+pour ##M≥r¥ Picot.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-028-174 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis.</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>Je crois que vos lettres ne se perdent point par Haerlem, car j'en ai déjà reçu 5 ou 6, et je fais ici réponse à 3,
+dont la dernière est du 12 de ce mois, et nous sommes au
+○○23 d'Août ○○1638. Mais je vous prie de prendre un peu garde à
+les bien fermer; car j'en ai reçu 2 ou 3 qui avaient, ce me
+semble, été ouvertes; il est vrai qu'il n'y a jamais rien
+dedans que tout le monde ne puisse bien voir.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-129-028 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis</p>
+<p>Votre très humble</p>
+<p>et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○15 Avril ○○1630.⌉</p>
+</div>
+<div type="postscriptum">
+<p>Je ne partirai pas encore d'ici de plus d'un mois.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur le Révérend Père Marin</p>
+<p>Mersenne, de l'ordre des</p>
+<p>Minimes, à leur couvent</p>
+<p>de la Place Royale,</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-192-555 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Je suis</p>
+<p>néanmoins,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble</p>
+<p>très zélé et très obligé</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○12 ##Oct ○○1646.</p>
+</div>
+<div type="postscriptum">
+<p>Je viens d'apprendre la reddition de Dunkerque. La
+lettre ici jointe est ma réponse à celle que vous m'avez
+envoyée de mon neveu du Crévis.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-200-197 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur et Révérend Père,</p>
+<p>Votre très humble et très obéissant serviteur</p>
+<p>et fils en ##N ##S.</p>
+<p>DEBEAUNE.</p>
+<p>A Blois, le III Avril ○○1639.</p>
+</div>
+<div type="postscriptum">
+<p>J'oubliais à vous faire remarquer combien l'analyse
+spécieuse a d'avantage sur la géométrie commune, puisqu'on trouve des choses par icelle, comme la solution du
+quadrilatère, à laquelle on ne saurait autrement aspirer,
+mais même, étant trouvée, qu'on ne pourrait construire
+et démontrer à moins d'une main de papier, et cependant
+cette analyse la trouve, la construit et la démontre en
+peu de paroles.</p>
+</div>
+<div type="para">
+<p>⌈[Adresse:]⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père Mersenne.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-360-607 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et obéissant serviteur,</p>
+<p>##C HUYGENS.</p>
+<p><m 7-361></p>
+<p>A La Haye, ce ○○14≥e¥ Novembre ○○1647.</p>
+</div>
+<div type="postscriptum">
+<p>Le Père Mersenne m'écrit ce qui s'ensuit: «Depuis, j'ai
+expérimenté que les mouches et souris meurent incontinent
+dans ce vide.»</p>
+</div>
+<div type="address">
+<p>Den Edelen, Eerentfesten,</p>
+<p>voorsienigen, discreten Ionkheer,</p>
+<p>Heer Van Hoghelande,</p>
+<p>Tot</p>
+<p>Leiden,</p>
+<p>om voorts te senden</p>
+<p>aen Monsieur Descartes</p>
+<p>tot Egmont.</p>
+<p>Post.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-249-366 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et obéissant serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, ce ○○7≥e¥ de Janvier ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>On m'a voulu soutenir, que vous méprisez les observations de la variation de l'aimant variée depuis quelques
+années. Je serai bien aise de savoir en trois mots ce qui
+en est.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-172-263 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○5 ##Oct ○○1640.</p>
+</div>
+<div type="postscriptum">
+<p>Je vous remercie du beau livre que ##M≥r¥ Hesdin m'apporta
+dernièrement de votre part. J'y ai trouvé tant de belles
+choses que, si St#(ampioen)# était aussi savant en latin, en
+Hébreu, en Philosophie, en Chimie et en Médecine, qu'il est
+<m 4-174>
+en Mathématique, je ne douterais point qu'il n'en fût l'auteur; mais je n'en connais point d'autre que lui qui ait
+l'esprit assez relevé pour cela.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Wilhem</p>
+<p>Conseiller de Son Altesse et</p>
+<p>des états de Brabant</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-124-427 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A la Haye, le ○○15 de Février ○○1644.</p>
+</div>
+<div type="postscriptum">
+<p>Que dirai-je au Père Mersenne touchant l'édition de la
+⌈Physique? et ad Gassendi volumen quid repones?⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-237-056 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>A Deventer, du ○○7 Février ○○1633.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Wilhem,</p>
+<p>Conseiller d'état de</p>
+<p>##M le Prince,</p>
+<p>A la Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-134-186 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>Je crois que vous aurez vu le tourneur d'Amsterdam.
+<m 3-135>
+Je ne sais quelle opinion vous avez de ses verres; pour moi,
+je n'y trouve autre défaut, sinon que leur figure n'est pas
+encore assez exacte et qu'ils ne sont pas assez polis; car
+c'est un ouvrage où il faut observer bien plus de justesse
+qu'à tailler des roses sur de l'ivoire. Mais je ne désespère
+pas qu'il en vienne à bout avec le temps. On m'a mandé que
+quelqu'un de Naples avait déjà mis la chose en exécution,
+mais je n'en sais encore rien de certain.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-305-080 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>et très acquis serviteur,</p>
+<p>##C HUYGENS DE ZUYLICHEM.</p>
+</div>
+<div type="postscriptum">
+<p>Il est vrai que des grandes impatiences de vous entretenir
+m'agitent, et me portent à la liberté dont vous voyez que
+j'ose user en votre endroit. Mais je supplie que rien ne vous
+ébranle, si vous n'avez un loisir plein et libre de vous promener;
+car quelque occupation qui me puisse divertir, j'irai vous
+chercher où il vous plaira me donner assignation. Seulement je souhaite savoir, si vous pourrez vous ajouter à celle
+que je vous donne ici. Et qu'à ce soir, ou demain de bonne
+heure, j'en puisse voir un mot d'avis.</p>
+</div>
+<div type="closer">
+<p>⌈A La Haye, le dernier de Mars ○○1636.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-293-075 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très acquis serviteur,</p>
+<p>##C HUYGENS DE ZUYLICHEM.</p>
+</div>
+<div type="postscriptum">
+<p>A votre commodité, j'attendrai savoir si ce verre vous aura
+été rendu, et comment vous estimez que nous fassions du
+reste, pour achever notre essai.</p>
+</div>
+<div type="closer">
+<p>⌈Arnhem, le ○○5≥e¥ de Décembre ○○1635.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-093-250 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>Au Camp à Reeck, à une heure de Grave, ce ○○24≥e¥ de</p>
+<p>Juillet ○○1640.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur Descartes.</p>
+<p>Ten huyse van Jonckeere</p>
+<p>van Hooghelande tot Leiden.</p>
+<p>Post.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-315-086 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très affectionné serviteur,</p>
+<p>##C HUYGENS.</p>
+</div>
+<div type="postscriptum">
+<p>Chez moi on prend soin de toutes lettres qui s'adressent à
+moi.</p>
+</div>
+<div type="closer">
+<p>⌈Au camp, à Sprang, le ○○23≥e¥ d'Octobre ○○1636.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-050-634 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Monsieur,</p>
+<p>par votre très humble</p>
+<p>et très zélé serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur Debeaune</p>
+<p>Conseiller du Roi au siège</p>
+<p>présidial à Blois.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-186-267 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Sum,</p>
+<p>Reverendissime Pater,</p>
+<p>##V≥ae¥ ##R≥ae¥ Devotissimus famulus,</p>
+<p>DESCARTES.</p>
+<p>Lugduno ##Bat, ○○28 ##Oct ○○1640.</p>
+</div>
+<div type="address">
+<p>Pour le ##R≥nd¥ Père Mersenne.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-008-390 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Vale.</p>
+<p>Egmundae op de Hoef, ○○5 Julii ○○1643.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Colvius</p>
+<p>Ministre de la parole de Dieu</p>
+<p>A Dordrecht.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-380-116 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Vale.</p>
+<p>⌈Lovanii, die ○○15 ##Septemb ○○1637.⌉</p>
+<p>##nob Dominationi Vestrae</p>
+<p>devotissimus famulus</p>
+<p>##v ##f PLEMPIUS.</p>
+</div>
+<div type="postscriptum">
+<p>Dominus Elichmannus, si illic
+apud vos est, à me salveat.
+Nobiliss et Clariss.</p>
+</div>
+<div type="address">
+<p>Nobilissimo et Clarissimo Viro ##D des</p>
+<p>Cartes, vero Philosophiae cultori,</p>
+<p>Leyde.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-248-481 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Votre très affectionnée amie à vous servir,</p>
+<p>ELISABETH.</p>
+<p>Ce ○○12/○○22 de Juin.</p>
+<p>Monsieur Descartes.</p>
+</div>
+<div type="postscriptum">
+<p>J'ai appris avec beaucoup de joie que l'Académie de
+Groningen vous a fait justice.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-230-474 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Votre très affectionnée amie à vous servir,</p>
+<p>ELISABETH.</p>
+<p>Ce ○○24≥me¥ de Mai.</p>
+<p>Monsieur Descartes.</p>
+</div>
+<div type="postscriptum">
+<p>En relisant ce que je vous mande de moi-même, que
+j'oublie une de vos maximes, qui est de ne mettre jamais
+rien par écrit, qui puisse être mal interprêté de lecteurs peu
+charitables. Mais je me fie tant au soin de ##M de Palotti,
+que je sais que ma lettre vous sera bien rendue, et à votre
+discrétion, que vous l'ôterez, par le feu, du hazard de tomber
+en mauvaises mains.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-140-545 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Votre très affectionnée amie à vous servir,</p>
+<p>éLISABETH.</p>
+<p>##M Descartes,</p>
+</div>
+<div type="postscriptum">
+<p>Je suis obligée d'envoyer celle-ci par le messager, parce
+que sa promptitude m'est plus nécessaire, à cette heure,
+que sa sûreté.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-239-057 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>Votre très humble et très</p>
+<p>affectionné serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>Je vous prie d'adresser vos lettres à ##M Van Zurck, au logis
+de ##Mlle Reyniers, proche de la Cour du Prince, à Amsterdam, puisque nos messagers sont infidèles.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-050-239 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○3 Avril ○○1640.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer</p>
+<p>Myn Heer Golius</p>
+<p>Professor Matheseos</p>
+<p>et linguarum orientalium</p>
+<p>Tot Leyden</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-127-254 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, dernier Juillet ○○1640.</p> 
+</div>
+<div type="address">
+<p>Pour Monsieur de Zuylichem.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-138-257 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○17 d'Août ○○1640.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Wilhelm,</p>
+<p>Conseiller de son Altesse</p>
+<p>et des états de Brabant,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-032-529 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>comme je suis aussi sans réserve,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○30 Mars ○○1646.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur le Chevalier de</p>
+<p>Cavendish</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-246-574 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et de me</p>
+<p>croire,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○5 ##Janv ○○1647.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer</p>
+<p>Myn Heer Van Forest</p>
+<p>Raedsheer Inden Hooghen Raed, ##etc.</p>
+<p>In s'Grauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-209-560 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je serai toute ma vie,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et</p>
+<p>très zélé serviteur</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○2 ##Nov ○○1646.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père,</p>
+<p>Le ##Rév≥nd¥ Père Mersenne,</p>
+<p>Religieux Minime,</p>
+<p>en leur couvent proche</p>
+<p>de la place Royale,</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-196-346 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce dimanche, ○○4 Mai ○○1642.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder Raed ende Secretaris</p>
+<p>van siin Koocheyt,</p>
+<p>Inden Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-025-628 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Mon ##Rév≥d¥ Père,</p>
+<p>Votre très humble</p>
+<p>et très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○4 Avril ○○1648.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père</p>
+<p>Le ##Rèv≥d¥ Père Mersenne</p>
+<p>Religieux Minime</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-282-586 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et</p>
+<p>très zélé serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○26 ##Av ○○1647.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Au Révérend Père</p>
+<p>Le ##Rév≥nd¥ Père Mersenne</p>
+<p>Religieux Minime</p>
+<p>A Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-127-429 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○26 Février ○○1644.</p>
+</div>
+<div type="postscriptum">
+<p>Je n'entends point le problème du Père Mersenne.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder, Raed ende</p>
+<p>Secretaris van siin Hoocheyt,</p>
+<p>In's Grauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-083-246 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Mercredi, à ○○6 heures du soir.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Wilhelm,</p>
+<p>Conseiller de son Altesse</p>
+<p>et du Conseil de Brabant,</p>
+<p>Inde hout straet,</p>
+<p>A La Haye</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-039-530 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond binnen, le ○○7/○○17 Avril ○○1646.</p>
+</div>
+<div type="postscriptum">
+<p>On adresse les lettres qu'on prend la peine de m'écrire</p>
+</div>
+<div type="address">
+<p>aen ##M≥r¥ Adam Sp7ucker</p>
+<p>Meester int Weeshuys</p>
+<p>tot Alckmaer.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-262-064 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○2 Juillet ○○163...⌉</p>
+</div>
+<div type="address">
+<p>A ##M Reneri,</p>
+<p>Professeur en philosophie à Utrecht.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-066-537 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○15 Mai ○○1646.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur le Chevalier de</p>
+<p>Cavendish</p>
+<p>A Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-024-396 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○20 Septembre ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>Ceux qui me font la faveur de m'écrire adressent leurs
+lettres ⌈aen Gelain Adriaenssen, schuytvoerder, op de Hoef,⌉
+⌈ot Alckmar,⌉ ou bien à Leyde à ##M≥r¥ Hogeland.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-371-110 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○14 Juin ○○1637.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Colvius, ministre</p>
+<p>de la parole de Dieu,</p>
+<p>à Dordrecht.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-218-354 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○6 Octobre ○○1642.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur De Zuylichem,</p>
+<p>Chevalier, Conseiller et</p>
+<p>Secrétaire de son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-276-373 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et je vous supplie de me croire,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○23 Avril ○○1643.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Colvius,</p>
+<p>Ministre de la parole de Dieu</p>
+<p>a Dordrecht.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-326-596 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et me croire,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très affectionné</p>
+<p>serviteur, DESCARTES.</p>
+<p>D'Egmond, le ○○24 Mai ○○1647.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Wilhelm</p>
+<p>Conseiller de son Altesse</p>
+<p>et du Conseil de Brabant.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-268-216 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et me croirez pour jamais,</p>
+<p>##Mons≥r¥,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>SAUMAISE.</p>
+<p>A Leyden, ce ○○22 ##Nov ○○1639.</p>
+</div>
+<div type="para">
+<p>Adresse:</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Descartes.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-006-229 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et me croyez,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, ○○8≥e¥ de Janvier ○○1640.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur Descartes, ##etc.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-141-328 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et me croyez,</p>
+<p>Monsieur,</p>
+<p>Votre très humble, très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○22 Janvier ○○1642.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder, Raed ende Secretaris</p>
+<p>van siin Hoocheyt,</p>
+<p>In's Graven Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-340-297 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et que je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce Avril ○○1641.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylychem,</p>
+<p>Ridder, Raed ende</p>
+<p>Secretaris van siin</p>
+<p>Hoocheyt,</p>
+<p>Tot's Grauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-384-616 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>et</p>
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○27 Décembre ○○1647.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer Van Zuylichem,</p>
+<p>Ridder, raed, ende Secretaris</p>
+<p>van siin Hoocheyt,</p>
+<p>In's Grauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-376-113 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je m'en reconnaîtrai,</p>
+<p>Monsieur,</p>
+<p>Votre très obligé</p>
+<p>et très humble serviteur,</p>
+<p>##c HUYGENS.</p>
+</div>
+<div type="postscriptum">
+<p>L'offre de votre livre a été reçu par Son Altesse comme il
+mérite. Mais la grande presse d'affaires où il se trouve,
+empêche que nous en discourions moins qu'il ne se fera par
+ci-après. ##M de Charnacé vous menace de force objections,
+que je crois que vous appréhendez, comme nous souhaiterions que vous redoutassiez la censure des Cardinaux.</p>
+</div>
+<div type="closer">
+<p>⌈A la Haye, ce ○○27≥e¥ de Juin ○○1637.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-312-084 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je me nomme,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très affectionné serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, le ○○11≥e¥ de Juillet ○○1636.⌉</p>
+</div>
+<div type="postscriptum">
+<p>Il me tarde extrêmement de savoir où en sont vos
+imprimeur et tailleur, et si vous y trouvez de l'apparence
+de contentement.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-267-579 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je serai toujours avec beaucoup de zèle,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○4 Février ○○1647.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Zuylichem</p>
+<p>Chevalier, Conseiller et Secrétaire</p>
+<p>de son Altesse</p>
+<p>A La Haye</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-376-613 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je serai toujours constamment,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○8 Décembre ○○1647.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Zuylichem</p>
+<p>Conseiller, Chevalier</p>
+<p>et Secrétaire de son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM4-140-258 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, le ○○27 d'Août ○○1640.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder, Raed ende Secretaris</p>
+<p>van siin Hoocheyt</p>
+<p>In't Iegher.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-340-097 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je serai toute ma</p>
+<p>vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○20 Avril ○○1637.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichen,</p>
+<p>Chevalier, Conseiller et Secrétaire de Son Altesse,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-306-502 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis de coeur et</p>
+<p>d'affection,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○29 ##Sept ○○1645.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>Aen Myn Heere,</p>
+<p>Myn Heer de Wilhelm,</p>
+<p>Raedsheer van siin Hoocheyt</p>
+<p>ende van de Raed van Brabant,</p>
+<p>In de hout straet,</p>
+<p>In S'Grauenhaghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-236-569 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis de tout mon coeur, mon Révérend Père, votre</p>
+<p>très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○14 ##Déc ○○1646.</p>
+</div>
+<div type="address">
+<p>⌈Au dos:⌉ Au Révérend Père,</p>
+<p>Le Révérend Père Mersenne</p>
+<p>Religieux Minime,</p>
+<p>en leur couvent proche de la place Royale</p>
+<p>A Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-309-225 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis sans réserve,</p>
+<p>Monsieur,</p>
+<p>Votre serviteur,</p>
+<p>A la Haye, ce ○○28≥e¥ de décembre ○○1639, au bout duquel</p>
+<p>Dieu vous donne l'entrée d'une année très heureuse.</p>
+</div>
+<div type="postscriptum">
+<p>Monsieur, je me trouve extrêmement édifié de l'approbation que vous donnez à mes défenses contre ##M de Sau<m 3-311>
+maise, faisant le même fondement en votre probité que sur
+votre jugement, après lequel, et celui de ma conscience, je
+n'en considère point d'autres. Je vous renvoie sa lettre,
+où il continue de poser, contre la vérité, que j'aurais pris
+parti. Mais le déplaisir que j'ai de ce côté-là s'adoucit tout
+à fait par l'ingénuité de sa confession en votre endroit,
+lorsque, ⌈submittendo fasces tibi;⌉ comme il devait, il avoue
+combien il y a à dire entre votre Philosophie et sa Littérature. Il est grand personnage en son métier, et pour tel je le
+réputerai toujours; mais depuis cette modestie si franche,
+je m'estime obligé de l'honorer encore plus que je n'ai
+toujours fait.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-106-183 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis toujours, mais de tout</p>
+<p>mon coeur,</p>
+<p>Monsieur et Révérend Père,</p>
+<p>Votre très humble et très obéissant serviteur</p>
+<p>et fils en ##N ##S.</p>
+<p>DEBEAUNE.</p>
+<p>A Blois, où je suis retourné des champs</p>
+<p>ce jour de huy ○○13 novembre ○○1638.</p>
+</div>
+<div type="postscriptum">
+<p>Pour mon Traité, je vous manderai la voie pour me le
+faire tenir.</p>
+<p>J'ai aussi oublié le nom du libraire des Éphémérides,
+sinon que ##M≥r¥ Bouillau a une semblable promesse de lui.
+J'ai les Éphémérides de Kepler même jusqu'en ○○1636, et
+ce libraire m'avait baillé la continuation qui allait jusqu'en ○○1642, n'était les imperfections. Mais celles que vous
+me mandez vont bien plus loin.</p>
+</div>
+<div type="para">
+<p>⌈#[Adresse:]#⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur et Révérend Père</p>
+<p>le Révérend Père Mersenne,</p>
+<p>religieux de l'ordre des Révérends</p>
+<p>Pères Minimes,</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-030-527 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis très véritablement,</p>
+<p>Monsieur</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○11 Mars ○○1646.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heere van Zuylichem</p>
+<p>Ridder, Raed ende</p>
+<p>Secretaris van syn Hoocheyt,</p>
+<p>In's Grauen Haghe.</p>
+<p><m 7-31></p>
+<p>The lines AM7-031-01 to AM7-031-18 have been removed. They contain a version of letter 528. A better version of this letter can be found in the lines AM8-318-01 to AM8-324-19.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-338-511 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis véritablement,</p>
+<p>Monsieur Descartes,</p>
+<p>Votre très affectionnée à vous servir,</p>
+<p>ELISABETH.</p>
+<p>Ce ○○27≥e¥ de ##10≥bre¥.</p>
+</div>
+<div type="address">
+<p>J'ai peur que vous n'avez pas reçu ma dernière du</p>
+<p>30≥me¥ du passé, parce que vous n'en faites point mention.</p>
+<p>Je serais fâchée qu'elle venait entre les mains de quelqu'un</p>
+<p>de ces critiques, qui condamnent pour hérésies tous les</p>
+<p>doutes qu'on fait des opinions reçues.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-099-423 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis, M≥r¥, votre, ##etc.</p>
+<p>[DESCARTES.]</p>
+</div>
+<div type="postscriptum">
+<p>Je joins ici trois lettres, deux desquelles viennent de
+France, et seront, s'il vous plaît, adressées par quelqu'un
+de vos gens, qui portera aussi la 3≥e¥ à ##M de Mori et à ##M≥me¥ de
+Wilhem, afin qu'ils lui fassent trouver le chemin de Boisle-Duc; car je ne sais si j'ai bien mis l'adresse.</p>
+</div>
+<div type="closer">
+<p>Du Hoef, le ○○8≥e¥ Janvier ○○1644.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-300-500 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Madame,</p>
+<p>de Votre Altesse</p>
+<p>le très humble et très obéissant</p>
+<p>serviteur</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>Lorsque je fermais cette lettre, j'ai reçu celle de ##V ##A
+du 13; mais j'y trouve tant de choses à considérer, que je
+n'ose entreprendre d'y répondre sur le champ, et je m'assure
+que ##V ##A aimera mieux que je prenne un peu de temps
+pour y penser.</p>
+</div>
+<div type="closer">
+<p>D'Egmont, ○○15 Sept. ○○1645.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-270-372 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○23 Mars ○○1643.</p>
+</div>
+<div type="postscriptum">
+<p>⌈Et à la marge:⌉
+Le ##P Bourdin ne semble pas fort sage, et je n'ai rien
+à répondre à son billet; car je ne lui ai rien promis, et si
+j'ai fait quelques offres aux siens, pendant qu'ils ne les ont
+point acceptés, je ne leur suis point engagé de parole.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-231-360 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○17 ##Nov ○○1642.</p>
+</div>
+<div type="postscriptum">
+<p><m 5-233>
+Où j'ai calculé la force du mail, j'ai supposé que la
+première fois il était mu de certaine vitesse, qui diminuait
+au moment qu'il touchait la boule, et qu'à la deuxième fois
+il était mu de même vitesse que la première, avant que de
+toucher la boule, et qu'en la touchant son mouvement diminuait moins, à cause qu'il trouvait moins de résistance; mais
+il faut aussi supposer que l'air n'aide ni ne nuit point à ces
+mouvements.</p>
+</div>
+<div type="postscriptum">
+<p>La petite boîte ici jointe est, s'il vous plaît, pour ##M≥r¥ Picot.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM2-213-152 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble, très obligé et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○31 Mars ○○1638.⌉</p>
+</div>
+<div type="postscriptum">
+<p>En fermant ce paquet je reçois une lettre d'Utrecht,
+de laquelle je vous envoie une partie, afin que vous puissiez
+voir par là qu'il y en a qui peuvent entendre ma ⌈Géométrie.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-335-094 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur, Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○22 Mars ○○1637.</p>
+</div>
+<div type="postscriptum">
+<p>C'est le jeune Schooten qui vous présentera cette lettre;
+mais je vous prie de ne point juger de lui par sa contenance,
+car il vaut mieux qu'il ne paraît.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Conseiller et Secrétaire de Son Excellence,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-216-048 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très affectionné</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○2 Février ○○1632.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Golius,</p>
+<p>Professeur aux Mathématiques</p>
+<p>et aux langues Orientales,</p>
+<p>à Leyde.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM2-167-147 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+<div type="postscriptum">
+<p>J'apprends que le jeune Gillot est à La Haye. Si j'étais
+capable de vous recommander quelqu'un, ce serait lui, car
+c'est le premier et presque le seul disciple que j'aie jamais
+eu, et le meilleur esprit pour les Mathématiques.</p>
+</div>
+<div type="closer">
+<p>⌈Du ○○9 mars ○○1638.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-278-069 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, ce ○○15/○○25 Avril ○○1635.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur de Zuylichem,</p>
+<p>à La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-194-345 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très passionné serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, le ○○27≥e¥ d'Avril ○○1642.</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur Descartes.</p>
+<p>Te bestellen ten Huyse</p>
+<p>van Jonkheere van Hooghelande,</p>
+<p>op de Bree Straet,</p>
+<p>Tot Leiden.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-228-052 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○23 Mai ○○1632.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Wilhem,</p>
+<p>Conseiller de Monsieur</p>
+<p>le prince d'Orange,</p>
+<p>à La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-180-456 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○5 ##Jan ○○1645.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur du Puy</p>
+<p>au logis de ##M≥r¥ de Thou</p>
+<p>à Paris.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-297-077 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et</p>
+<p>très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, cet ○○1/○○11 Décembre ○○1635.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur,</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Au Camp, à Panderen.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-313-085 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○13 Juillet ○○1636.⌉</p>
+</div>
+<div type="postscriptum">
+<p>Je vous remercie très humblement des figures que vous
+me fîtes dernièrement la faveur de m'envoyer; et si j'ai
+manqué plus tôt au devoir de ce compliment, je vous supplie, Monsieur, de ne pas croire que ç'ait été par négligence,
+mais seulement par crainte de vous importuner par la fréquence de mes lettres.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur de Zuylichem,</p>
+<p>Conseiller et Secrétaire de Son Excellence,</p>
+<p>Inde Hout Straet,</p>
+<p>A La Haye.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM3-289-221 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##c HUYGENS.</p>
+<p>A La Haye, ce 13≥e¥ de décembre ○○1639.</p>
+</div>
+<div type="postscriptum">
+<p>Je garde l'original de Stampioen, pour quand vous en
+pourriez avoir à faire.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM5-001-306 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis</p>
+<p>de passion,</p>
+<p>Monsieur,</p>
+<p>Votre très-humble serviteur,</p>
+<p>##C HUYGENS DE ZUYLICHEM.</p>
+<p>Au Camp à Offelen, le ○○17≥e¥ de Juillet ○○1641.</p>
+</div>
+<div type="postscriptum">
+<p>Monsieur,</p>
+</div>
+<div type="postscriptum">
+<p>J'ai osé dire quelque mot au Père Mersenne touchant
+les objections qui paraîtront à la fin de votre livre; et s'il
+ne serait bon que parmi vos adversaires Catholiques il en
+fût vu aussi de notre Religion. J'avais pensé que Barlaeus,
+qui est bon Philosophe et bien disant, en eût pu être. Si
+l'ouverture que vous en pourra faire ledit Père Mersenne
+vous choque, usez en selon votre prudence; seulement n'en
+veuillez point de mal à l'incoupable. ⌈Meme adsum qui feci,⌉
+et à bonne intention.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM2-048-125 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>je suis</p>
+<p>plus que personne,</p>
+<p>Monsieur, votre très humble, très obligé</p>
+<p>et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+</div>
+<div type="postscriptum">
+<p>Je pense vous avoir promis, ou bien je promets encore,
+de ne vous interrompre plus en ces hautes et immortelles
+pensées, que vous allez filant de jour à autre pour le bien de
+l'univers; mais, après vous avoir osé demander trois feuillets,
+j'ai bien le coeur encore à vous prier de me dire quelque jour
+en trois lignes à quoi vous en êtes, si la plume accompagne le
+raisonnement, et si vous lairrez vivre après vous le moyen
+de vivre plus que nous ne faisons et ne devons pour bien
+étudier vos leçons.</p>
+</div>
+<div type="closer">
+<p>⌈A La Haye, ce ○○23 de Novembre ○○1637.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-028-397 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>me</p>
+<p>croyiez,</p>
+<p>Monsieur,</p>
+<p>Votre très humble serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A la Haye, le ○○5 Octobre ○○1643.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Descartes</p>
+<p>Ten Huyse van</p>
+<p>Jonkheere van Hoogelande, tot</p>
+<p>Post. Leiden.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-322-090 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>qui</p>
+<p>suis, plus qu'homme du monde,</p>
+<p>Monsieur, Votre très humble et très affectionné serviteur,</p>
+<p>##C HUYGENS.</p>
+</div>
+<div type="postscriptum">
+<p>Il me tardera plus qu'à aucun Catholique Romain, de voir
+la fin du Carême, sur ce qu'il me souvient que vous nous avez
+fait espérer votre livre environ Pâques.</p>
+</div>
+<div type="closer">
+<p>⌈A La Haye, ce ○○25≥e¥ de Février ○○1637.⌉</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM8-305-698 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>qui</p>
+<p>suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble, très obéissant</p>
+<p>et très zélé serviteur,</p>
+<p>DESCARTES.</p>
+<p><m 8-307></p>
+<p>De Stockholm, le ○○8/○○18 ##Déc ○○1649.</p>
+</div>
+<div type="postscriptum">
+<p>Afin que la grosseur de ce paquet empêche qu'il ne soit
+aisé à égarer, j'y ajoute les vers d'un ballet qui sera dansé
+ici demain au soir.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM2-001-119 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>sum enim,</p>
+<p>Clarissime Domine,</p>
+<p>Tibi ad omne obsequium</p>
+<p>paratissimus DESCARTES.</p>
+<p>⌈○○5 Nonas ##Octobr ○○1637.⌉</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Plemp</p>
+<p>Professeur en Mèdecine</p>
+<p>A Louvain.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM7-319-592 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>une personne</p>
+<p>qui est déjà de longtemps,</p>
+<p>Monsieur</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○12 Mai ○○1647.</p>
+</div>
+<div type="address">
+<p>Aen Myn Heer,</p>
+<p>Myn Heer van Zuylichem,</p>
+<p>Ridder, Raed ende Secretaris</p>
+<p>Van syn Hoocheyt</p>
+<p>In's brauen Haghe.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM1-001-001 (1 x); 
+
+<!--start tweaked closer-->
+<div type="closer">
+<p>⌈Bredae, ○○9≥o¥ ##Kal ##Feb ○○1619.⌉</p>
+<p>DU PERRON.</p>
+</div>
+<div type="address">
+<p>A Monsieur</p>
+<p>Monsieur Isaack BEECKMAN</p>
+<p>Docteur en Médecine,</p>
+<p>à Middelbourg.</p>
+</div>
+<!--end tweaked closer-->
+
+================================================================================
+AM6-017-392 (1 x); 
+<div type="closer">
+<p>Aussi suis-je très assurément et très passionnément,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Amsterdam, le ○○10 Juillet ○○1643.</p>
+</div>
+
+================================================================================
+AM6-275-492 (1 x); 
+<div type="closer">
+<p>C'est pourquoi je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○4 d'Août ○○1645.</p>
+</div>
+
+================================================================================
+AM7-322-594 (1 x); 
+<div type="closer">
+<p>Dabantur Lugduni Batavorum, ○○XIII Kalendas Junias ○○MDCXLVII.</p>
+<p>A Curatoribus Academiae et Consulibus Urbis Leydensis,</p>
+<p>ex eorumdem mandato,</p>
+<p>JOHANNES A WEVELICHOVEN.</p>
+<p>Nobilissimo Doctissimoque Viro</p>
+<p>Domino Cartesio,</p>
+<p>Mathematico eximio,</p>
+<p>Egmundam.</p>
+</div>
+
+================================================================================
+AM6-172-451 (1 x); 
+<div type="closer">
+<p>Et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Dort, le ○○13 Novembre ○○1644.</p>
+</div>
+
+================================================================================
+AM1-365-107 (1 x); 
+<div type="closer">
+<p>Et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM3-230-207 (1 x); 
+<div type="closer">
+<p>Et</p>
+<p>je suis de tout mon coeur,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○19 Juin ○○1639.</p>
+</div>
+
+================================================================================
+AM1-383-117 (1 x); 
+<div type="closer">
+<p>Ex Museo nostro, ##Id ##Septemb ○○1637.</p>
+<p>Clarissime Domine,</p>
+<p>Tibi ad omne obsequium</p>
+<p>famulus et amicus,</p>
+<p>##Lib FROMONDUS.</p>
+</div>
+
+================================================================================
+AM8-154-661 (1 x); 
+<div type="closer">
+<p>Humanitatis tuae ac sapientiae</p>
+<p>admiratorem religiosissimum</p>
+<p>Henricum MORUM.</p>
+<p>Cantabrigiae, e Christi Collegio,</p>
+<p>○○3 Nonarum Martii ○○1649.</p>
+</div>
+
+================================================================================
+AM5-295-379 (1 x); 
+<div type="closer">
+<p>Je suis avec passion,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○24 Mai ○○1643.</p>
+</div>
+
+================================================================================
+AM5-318-386 (1 x); 
+<div type="closer">
+<p>Je suis toujours votre</p>
+<p>redevable, et</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○26 Juin ○○1643.</p>
+</div>
+
+================================================================================
+AM4-205-273 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>##M ##R ##P,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>Ce ○○11 Novembre ○○1640.</p>
+</div>
+
+================================================================================
+AM5-322-387 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>##V ##A.</p>
+<p>Le très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef en Egmond, le ○○28 Juin ○○1643.</p>
+</div>
+
+================================================================================
+AM4-112-252 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R ##P,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○30 Juillet ○○1640.</p>
+</div>
+
+================================================================================
+AM4-143-259 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○30 Août ○○1640.</p>
+</div>
+
+================================================================================
+AM5-095-321 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Le ○○22 Décembre ○○1641.</p>
+</div>
+
+================================================================================
+AM4-298-291 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et très obligé et affectionné</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○4 Mars ○○1641.</p>
+</div>
+
+================================================================================
+AM7-219-564 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et</p>
+<p>très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○23 ##Nov ○○1646.</p>
+</div>
+
+================================================================================
+AM8-007-620 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très humble et</p>
+<p>très fidèle serviteur,</p>
+<p>DESCARTES.</p>
+<p>Egmond, le ○○7 ##Fév ○○1648.</p>
+</div>
+
+================================================================================
+AM4-371-304 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##Rév≥nd¥ Père,</p>
+<p>Votre très passionné et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○23 Juin ○○1641.</p>
+</div>
+
+================================================================================
+AM4-311-292 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon ##R≥nd¥ Père,</p>
+<p>Votre très obligé et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○18 Mars ○○1641.</p>
+</div>
+
+================================================================================
+AM4-164-262 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○30 ##Sept ○○1640.</p>
+</div>
+
+================================================================================
+AM4-130-255 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○6 Août ○○1640.</p>
+</div>
+
+================================================================================
+AM3-299-224 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du jour de No7el ○○1639.</p>
+</div>
+
+================================================================================
+AM4-159-261 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○15 ##Sept ○○1640.</p>
+</div>
+
+================================================================================
+AM3-240-209 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○27 Août ○○1639.</p>
+</div>
+
+================================================================================
+AM3-056-176 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○12 ##Sept ○○1638.</p>
+</div>
+
+================================================================================
+AM5-237-362 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○7≥e¥ X≥bre¥ ○○1642.</p>
+</div>
+
+================================================================================
+AM5-283-375 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○26 Avril ○○1643.</p>
+</div>
+
+================================================================================
+AM5-228-359 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble, et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○20 Octobre ○○1642.</p>
+</div>
+
+================================================================================
+AM5-253-368 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très obéissant et très aff≥né¥ serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○2≥e¥ Février ○○1643.</p>
+</div>
+
+================================================================================
+AM3-247-212 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Mon Rév≥dn¥ Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○16 ##Oct ○○1639.</p>
+</div>
+
+================================================================================
+AM4-209-275 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, ce ○○14 ##Nov ○○1640.</p>
+</div>
+
+================================================================================
+AM2-098-138 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○12 Février ○○1638.⌉</p>
+</div>
+
+================================================================================
+AM5-146-330 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○31 Janvier ○○1642.</p>
+</div>
+
+================================================================================
+AM3-216-200 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, le ○○6 Mai ○○1639.</p>
+</div>
+
+================================================================================
+AM1-182-038 (1 x); AM1-212-047 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM1-346-099 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très passionné</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Ce ○○20 Mai ○○1637.⌉</p>
+<p>D'Alcmaer, où je suis sans y être, parce que je ne pense</p>
+<p>pas y demeurer.</p>
+</div>
+
+================================================================================
+AM1-303-079 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○28 Mars ○○1636.⌉</p>
+</div>
+
+================================================================================
+AM7-184-553 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble, et très acquis</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM1-174-035 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM7-080-540 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○15 Juin ○○1646.</p>
+</div>
+
+================================================================================
+AM1-318-088 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, le ○○1≥er¥ Janvier ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM3-292-222 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, ce ○○17 Dècembre ○○1639.</p>
+</div>
+
+================================================================================
+AM3-270-217 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, le ○○26 Novembre ○○1639.</p>
+</div>
+
+================================================================================
+AM3-273-218 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du samedi au soir, ○○26 Novembre ○○1639.</p>
+</div>
+
+================================================================================
+AM1-377-114 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Alcmaer, ce ○○5 Juillet ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM1-290-074 (1 x); 
+<div type="closer">
+<p>Je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, ce ○○1≥er¥ Novembre ○○1635.⌉</p>
+</div>
+
+================================================================================
+AM1-264-065 (1 x); 
+<div type="closer">
+<p>Je</p>
+<p>suis</p>
+<p>Votre très obéissant et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Amsterdam, ce ○○14 Août ○○1634.⌉</p>
+</div>
+
+================================================================================
+AM6-292-498 (1 x); 
+<div type="closer">
+<p>Madame,</p>
+<p>de Votre Altesse</p>
+<p>le très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le premier de ##Sept ○○1645.</p>
+</div>
+
+================================================================================
+AM6-312-504 (1 x); 
+<div type="closer">
+<p>Madame,</p>
+<p>de Votre Altesse</p>
+<p>le très humble et très obéissant</p>
+<p>serviteur</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○6 ##Octob ○○1645.</p>
+</div>
+
+================================================================================
+AM6-011-391 (1 x); 
+<div type="closer">
+<p>Mijn heeren</p>
+<p>Uwe ##Ed</p>
+<p>Ootmoedighsten ende gheneyghsten dienaer</p>
+<p>DESCARTES.</p>
+<p>Van Egmond op de Hoef, den ○○6 July, stylo novo, ○○1643.</p>
+</div>
+
+================================================================================
+AM7-391-441bis (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et très affectionné</p>
+<p>serviteur,</p>
+<p>André RIVET.</p>
+<p>De La Haye, le ○○19≥e¥ de ...</p>
+<p>l'an ○○1644.</p>
+</div>
+================================================================================
+AM8-317-263bis (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, le ○○5 ##Oct ○○1640.</p>
+</div>
+<div type="para">
+<p>⌈Adresse:⌉</p>
+</div>
+<div type="address">
+<p>à ##M de Wicquefort, ##etc (sic)</p>
+<p>Op de Cinghel</p>
+<p>à Amsterdam.</p>
+</div>
+================================================================================
+AM2-059-127 (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○4 Décembre ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM1-295-076 (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, ce ○○8 Décembre ○○1635.⌉</p>
+</div>
+
+================================================================================
+AM1-320-089 (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très affectionné serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, le ○○5 jour de l'an ○○1637, que Dieu vous rende⌉</p>
+<p>⌈heureux et prospère.⌉</p>
+<p>##M DESCARTES.</p>
+</div>
+
+================================================================================
+AM1-378-115 (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○30 d'Août ○○1637.⌉</p>
+<p>[⌈En marge, vers la fin.⌉] La lettre que j'écris à Hel. n'est</p>
+<p>point pressée, et j'aime mieux que vous la gardiez jusques à</p>
+<p>ce qu'Hel. vous aille trouver, ce qu'elle fera, je crois, vers la</p>
+<p>fin de cette semaine, pour vous donner les lettres qu'elle</p>
+<p>m'écrira, que de lui faire porter par votre servante.</p>
+</div>
+================================================================================
+AM1-332-093bis (1 x); 
+<div type="closer">
+<p>Monsieur,</p>
+<p>de votre très humble</p>
+<p>et très affectionné serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, ce premier de Mars ○○1637.⌉</p>
+</div>
+================================================================================
+AM4-095-251 (1 x); 
+<div type="closer">
+<p>Reverendissime Pater,</p>
+<p>Sum ##V≥ae¥ ##R≥ae¥.</p>
+<p>Devotissimus famulus</p>
+<p>DESCARTES.</p>
+<p>Lugduni ##Bat, ○○29 Julii ○○1640.</p>
+</div>
+
+================================================================================
+AM2-186-150 (1 x); 
+<div type="closer">
+<p>Sum,</p>
+<p>Clarissime Domine,</p>
+<p>Tibi multis nominibus devinctus</p>
+<p>DESCARTES.</p>
+<p>⌈○○23 martii ○○1638.⌉</p>
+</div>
+
+================================================================================
+AM1-019-006 (1 x); 
+<div type="closer">
+<p>Tuus ut suus</p>
+<p>ISACK BEECKMAN.</p>
+<p>A Monsieur</p>
+<p>Monsieur René DU PERRON estant</p>
+<p>in Denemarcken,</p>
+<p>Coppenhaghen.</p>
+</div>
+
+================================================================================
+AM5-181-339 (1 x); 
+<div type="closer">
+<p>car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, ce ○○25 Mars ○○1642.</p>
+</div>
+
+================================================================================
+AM1-281-071 (1 x); 
+<div type="closer">
+<p>car je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈D'Utrecht, ce ○○9/○○19 Mai ○○1635.⌉</p>
+</div>
+
+================================================================================
+AM1-358-104 (1 x); 
+<div type="closer">
+<p>demeurant à toujours,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obligé serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, ce ○○2≥e¥ de Juin ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM3-003-168 (1 x); 
+<div type="closer">
+<p>demeurant,</p>
+<p>Monsieur...</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>Au Camp, près de Berg-op-Zoom, le ○○30≥e¥ de Juillet ○○1638.</p>
+</div>
+
+================================================================================
+AM1-310-083 (1 x); 
+<div type="closer">
+<p>en vous témoignant que je suis</p>
+<p>parfaitement,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obligé serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, le ○○15≥e¥ de Juin ○○1636.⌉</p>
+</div>
+
+================================================================================
+AM3-172-192 (1 x); 
+<div type="closer">
+<p>et de me croire toujours,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○9 ##Fév ○○1639.</p>
+</div>
+
+================================================================================
+AM7-238-570 (1 x); 
+<div type="closer">
+<p>et de me croire,</p>
+<p>Mon ##R ##P,</p>
+<p>De ##V ##R Le très humble</p>
+<p>et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM7-328-597 (1 x); 
+<div type="closer">
+<p>et ero</p>
+<p>semper,</p>
+<p>Nobilissimi et Amplissimi Domini,</p>
+<p>Vestri observantissimus</p>
+<p>DESCARTES.</p>
+<p>Egmondae, ○○6 ##Kal Junias ○○1647.</p>
+</div>
+
+================================================================================
+AM1-374-112 (1 x); 
+<div type="closer">
+<p>et je serai toute ma vie,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble</p>
+<p>et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM5-247-365 (1 x); 
+<div type="closer">
+<p>et je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant et très passionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○5 Janvier ○○1643.</p>
+</div>
+
+================================================================================
+AM6-330-508 (1 x); 
+<div type="closer">
+<p>et je suis,</p>
+<p>Madame,</p>
+<p>De votre Altesse le très humble et très obéissant</p>
+<p>serviteur, DESCARTES.</p>
+<p>D'Egmond, le ○○3 ##Nov ○○1645.</p>
+</div>
+
+================================================================================
+AM5-265-371 (1 x); 
+<div type="closer">
+<p>et je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le ○○23 Février ○○1643.</p>
+</div>
+
+================================================================================
+AM1-316-087 (1 x); 
+<div type="closer">
+<p>et je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○30 Octobre ○○1636.⌉</p>
+</div>
+
+================================================================================
+AM6-129-430 (1 x); 
+<div type="closer">
+<p>et je suis</p>
+<p>passionnément,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du Hoef, le ○○26 ##Fév ○○1644.</p>
+</div>
+
+================================================================================
+AM2-089-135 (1 x); 
+<div type="closer">
+<p>et me croyez devant tous,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>⌈A La Haye, ce 2≥e¥ de Février ○○1638.⌉</p>
+</div>
+
+================================================================================
+AM8-303-697 (1 x); 
+<div type="closer">
+<p>et me croyez</p>
+<p>parfaitement</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très fidèle serviteur</p>
+<p>DESCARTES.</p>
+<p>De Stockholm le ○○4 ##Déc ○○1649.</p>
+</div>
+
+================================================================================
+AM3-161-190 (1 x); 
+<div type="closer">
+<p>et que je suis passionnément,</p>
+<p>Mon ##R≥nd¥ Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○9 Janvier ○○1639.</p>
+</div>
+
+================================================================================
+AM1-039-013 (1 x); 
+<div type="closer">
+<p>et suis toujours avec passion,</p>
+<p>Monsieur,</p>
+<p>Votre très fidèle serviteur</p>
+<p>et très humble</p>
+<p>BALZAC.</p>
+<p>⌈A Paris, ce ○○30 Mars ○○1628.⌉</p>
+</div>
+
+================================================================================
+AM3-142-188 (1 x); 
+<div type="closer">
+<p>et suis, de tout</p>
+<p>mon coeur,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM6-074-415 (1 x); 
+<div type="closer">
+<p>et toujours vous obéirai comme,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A la Haye, le ○○23 de Novembre ○○1643.</p>
+</div>
+
+================================================================================
+AM2-139-142 (1 x); 
+<div type="closer">
+<p>et</p>
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM6-052-408 (1 x); 
+<div type="closer">
+<p>et</p>
+<p>que je suis,</p>
+<p>Madame,</p>
+<p>De ##V ##A.</p>
+<p>Le très humble et très obéissant</p>
+<p>serviteur, DESCARTES.</p>
+</div>
+
+================================================================================
+AM7-248-575 (1 x); 
+<div type="closer">
+<p>je demeurerai,</p>
+<p>Monsieur,</p>
+<p>Votre très humble serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, le ○○7≥e¥ Janvier ○○1647.</p>
+</div>
+
+================================================================================
+AM3-224-204 (1 x); 
+<div type="closer">
+<p>je ne cesse d'être,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et obligé serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>Au fort de Nassau, dans l'île de Voorn, rendez-vous</p>
+<p>de l'armée, ○○28≥e¥ de Mai ○○1639.</p>
+</div>
+
+================================================================================
+AM5-213-351 (1 x); 
+<div type="closer">
+<p>je ne suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>Au camp à Bolberg, trop loin de vous, le ○○6≥e¥ Septembre ○○1642.</p>
+</div>
+
+================================================================================
+AM1-394-118 (1 x); 
+<div type="closer">
+<p>je ne</p>
+<p>fusse absolument et sans réserve,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##c HUYGENS.</p>
+<p>Devant Bréda votre ancienne garnison, où nous faisons</p>
+<p>tout ce qui est possible à vous y rendre l'entrée aussi franche</p>
+<p>qu'autrefois.</p>
+<p>⌈○○18 de Septembre ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM7-366-609 (1 x); 
+<div type="closer">
+<p>je puis être,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obligé</p>
+<p>serviteur, DESCARTES.</p>
+<p>D'Egmond, ce ○○20 Novembre ○○1647.</p>
+</div>
+
+================================================================================
+AM6-283-495 (1 x); 
+<div type="closer">
+<p>je serai toute ma vie,</p>
+<p>Monsieur Descartes,</p>
+<p>Votre très affectionnée amie à vous servir,</p>
+<p>ELISABETH.</p>
+<p>Ce ○○16@/○○6 d'Août.</p>
+</div>
+
+================================================================================
+AM1-369-109 (1 x); 
+<div type="closer">
+<p>je serai toute ma vie,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○12 Juin ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM7-187-554 (1 x); 
+<div type="closer">
+<p>je serai toute ma</p>
+<p>vie,</p>
+<p>Votre très affectionnée amie à vous servir,</p>
+<p>éLISABETH.</p>
+<p>Monsieur Descartes,</p>
+<p>De Berlin, ce ○○30≥me¥ de Septembre.</p>
+</div>
+
+================================================================================
+AM4-043-237 (1 x); 
+<div type="closer">
+<p>je suis avec passion,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Santporte, ce ○○12 Mars ○○1640.</p>
+</div>
+
+================================================================================
+AM6-177-454 (1 x); 
+<div type="closer">
+<p>je suis avec passion,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○21 Décembre ○○1644.</p>
+</div>
+
+================================================================================
+AM8-011-622 (1 x); 
+<div type="closer">
+<p>je suis avec un zèle très parfait,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○7≥me¥ Février ○○1648.</p>
+</div>
+
+================================================================================
+AM1-185-039 (1 x); 
+<div type="closer">
+<p>je suis de tout mon coeur,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM5-219-355 (1 x); 
+<div type="closer">
+<p>je suis parfaitement,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très affligé serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, le ○○7≥e¥ d'Octobre ○○1642.</p>
+</div>
+
+================================================================================
+AM5-191-343 (1 x); 
+<div type="closer">
+<p>je suis passionnément,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Endegeest, le Dimanche à midi.</p>
+</div>
+
+================================================================================
+AM4-034-235 (1 x); 
+<div type="closer">
+<p>je suis sans réserve et à toujours,</p>
+<p>Monsieur,</p>
+<p>Très humble et très assuré serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, le ○○8≥e¥ de Mars ○○1640.</p>
+</div>
+
+================================================================================
+AM1-287-073 (1 x); 
+<div type="closer">
+<p>je suis à jamais,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très respectueux serviteur,</p>
+<p>##C HUYGENS DE ZUYLICHEM.</p>
+<p>⌈Au Camp, à Panderen, le ○○28≥e¥ d'Octobre ○○1635.⌉</p>
+</div>
+
+================================================================================
+AM7-362-608 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Madame,</p>
+<p>De V#(otre)# Majesté</p>
+<p>Le très humble et très obéissant</p>
+<p>serviteur, DESCARTES.</p>
+<p>D'Egmond, ce ○○20 Novembre ○○1647.</p>
+</div>
+
+================================================================================
+AM6-267-489 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Madame,</p>
+<p>de Votre Altesse,</p>
+<p>le très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○21 de Juillet ○○1645.</p>
+</div>
+
+================================================================================
+AM6-279-494 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Madame,</p>
+<p>de Votre Altesse</p>
+<p>le très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○4 d'Août ○○1645.</p>
+</div>
+
+================================================================================
+AM6-285-496 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Madame,</p>
+<p>de votre Altesse</p>
+<p>le très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Egmond, le ○○18 d'Août ○○1645.</p>
+</div>
+
+================================================================================
+AM4-011-231 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○29 ##Janv ○○1640.</p>
+</div>
+
+================================================================================
+AM3-204-198 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>Du ○○30 Avril ○○1639.</p>
+</div>
+
+================================================================================
+AM7-253-577 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Mon Révérend Père,</p>
+<p>Votre très humble et très obéissant</p>
+<p>serviteur,</p>
+<p>Joachim DESCARTES.</p>
+<p>A Nantes, ce ○○29 ##Janv ○○1649.</p>
+</div>
+
+================================================================================
+AM6-182-457 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A la Haye le ○○16 Janvier ○○1645.</p>
+</div>
+
+================================================================================
+AM5-301-381 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>Au fort de Voorn, le ○○6≥e¥ Juin ○○1643.</p>
+<p>##R Descartes.</p>
+</div>
+
+================================================================================
+AM1-244-059 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très</p>
+<p>obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Amsterdam, ce ○○12 Décembre ○○1633.⌉</p>
+</div>
+
+================================================================================
+AM1-308-082 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obligé serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, cet ○○11 Juin 1636.⌉</p>
+</div>
+
+================================================================================
+AM1-307-081 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce lundi au soir.⌉</p>
+</div>
+
+================================================================================
+AM8-313-702 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obéissant serviteur</p>
+<p>DESCARTES.</p>
+<p>A Stockholm, le ○○15 ##Janv ○○1650.</p>
+</div>
+
+================================================================================
+AM4-084-247 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>De Leyde, le ○○24 Juin ○○1640.</p>
+<p>⌈Adresse:⌉</p>
+<p>A Monsieur</p>
+<p>Monsieur de Wilhem,</p>
+<p>Conseiller de son Altesse</p>
+<p>et du Conseil de Brabant,</p>
+<p>A La Haye</p>
+</div>
+
+================================================================================
+AM1-333-093ter (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce mardi au soir.⌉</p>
+</div>
+================================================================================
+AM1-326-092 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre très obéissant</p>
+<p>et très affectionné serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈De Leyde, ce ○○25 Février ○○1637.⌉</p>
+</div>
+
+================================================================================
+AM2-096-137 (1 x); 
+<div type="closer">
+<p>je suis,</p>
+<p>Monsieur,</p>
+<p>Votre trés humble</p>
+<p>et très acquis serviteur,</p>
+<p>DESCARTES.</p>
+<p>⌈Du ○○8 février ○○1638.⌉</p>
+</div>
+
+================================================================================
+AM6-019-393 (1 x); 
+<div type="closer">
+<p>je suis</p>
+<p>passionnément,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et</p>
+<p>très obéissant serviteur,</p>
+<p>DESCARTES.</p>
+<p>D'Amsterdam, le ○○10 Juillet ○○1643.</p>
+</div>
+
+================================================================================
+AM1-187-040 (1 x); 
+<div type="closer">
+<p>je suis</p>
+<p>passionnément,</p>
+<p>Monsieur,</p>
+<p>Votre, ##etc.</p>
+<p>⌈A Paris, le ○○25 Avril ○○1631.⌉</p>
+</div>
+
+================================================================================
+AM7-311-590 (1 x); 
+<div type="closer">
+<p>je</p>
+<p>suis, plus qu'à tous les autres hommes,</p>
+<p>Monsieur,</p>
+<p>Votre très humble, très obéissant et très</p>
+<p>affectionné serviteur.</p>
+<p>⌈Signé:⌉ CHANUT.</p>
+</div>
+
+================================================================================
+AM1-048-017 (1 x); 
+<div type="closer">
+<p>je</p>
+<p>suis,</p>
+<p>Monsieur et Révérend Père,</p>
+<p>Votre très obéissant et très affectionnè</p>
+<p>et obligé serviteur,</p>
+<p>DESCARTES.</p>
+</div>
+
+================================================================================
+AM7-143-546 (1 x); 
+<div type="closer">
+<p>je</p>
+<p>suis,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>Et très obéissant serviteur,</p>
+<p>⌈Signé:⌉ CHANUT.</p>
+</div>
+
+================================================================================
+AM1-280-070 (1 x); 
+<div type="closer">
+<p>qui serai à jamais,</p>
+<p>Monsieur,</p>
+<p>Votre très humble</p>
+<p>et très obligé serviteur,</p>
+<p>##C HUYGENS DE ZUYLICHEM.</p>
+<p>⌈A La Haye, ce ○○6 de Mai ○○1635.⌉</p>
+</div>
+
+================================================================================
+AM3-220-202 (1 x); 
+<div type="closer">
+<p>qui suis autant et plus que personne,</p>
+<p>Monsieur,</p>
+<p>Votre très humble et très acquis serviteur,</p>
+<p>##C HUYGENS.</p>
+<p>A La Haye, le ○○15≥e¥ de Mai ○○1639; au coeur des fâcheuses</p>
+<p>occupations que me donne la sortie de nos troupes en</p>
+<p>campagne.</p>
+</div>
+
